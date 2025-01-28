@@ -1,51 +1,1521 @@
-,status,rating,rating_count,tags,ave_session_time,platforms
-0,Released,4.6,1178,"Cute, Fangame, Horror, Incredibox, minigames, Sprunki",N/A,"HTML5, Windows, macOS, Linux, Android"
-1,Released,4.6,33,"3D, Atmospheric, Horror, PSX (PlayStation), Psychological Horror, Retro, Singleplayer, Survival Horror",N/A,"Windows, macOS, Linux"
-2,Released,4.1,92,"Creepy, Dark, Horror, Indie, Multiple Endings, Psychological Horror, Retro, Short, Spooky, Unity",N/A,Windows
-3,Released,4.3,276,"3D, Atmospheric, First-Person, Horror, PSX (PlayStation), Psychological Horror, Short, Singleplayer, Unity",A few seconds,"Windows, macOS"
-4,Released,4.8,301,"Atmospheric, Horror, Low-poly, PSX (PlayStation), Psychological Horror, Singleplayer, Story Rich, Unreal Engine, Voice Acting",About an hour,Windows
-5,Released,4.1,61,"Aliens, First-Person, Funny, Horror, storygame",N/A,N/A
-6,Released,4.8,265,"Dating Sim, Horror, Monsters, Otome, Romance, yandere",About a half-hour,"Windows, macOS, Linux"
-7,Released,4.5,8,"3D, Atmospheric, Creepy, First-Person, Horror, Mystery, Psychological Horror, Short, Survival Horror, Thriller",N/A,Windows
-8,Released,3.9,9,"Atmospheric, First-Person, Horror, PSX (PlayStation), Retro, Short",N/A,Windows
-9,Released,4.5,2228,"2D, Atmospheric, Horror, Pixel Art",N/A,"HTML5, Windows"
-10,Released,4.8,23,"Brain Training, Casual, fallacy, Hand-drawn, Indie, Local multiplayer, Quiz, Singleplayer, Text based, Trivia",About a half-hour,"Windows, macOS, Linux"
-11,Released,4.8,1288,"Horror, PSX (PlayStation), Retro, Short, Story Rich",About a half-hour,Windows
-12,Released,4.8,1288,"Horror, PSX (PlayStation), Retro, Short, Story Rich",About a half-hour,Windows
-13,In development,4.8,215,"3D, Atmospheric, Exploration, Lovecraftian Horror, Multiplayer, Open World, Pixel Art, Procedural Generation, Sandbox, Voxel",About an hour,"Windows, macOS, Linux"
-14,Released,4.9,458,"Minesweeper, Roguelike",N/A,HTML5
-15,Released,5.0,83,"a-date-with-death, Amare, chatsim, chat-simulator, Otome, Queer",N/A,"Windows, macOS, Linux"
-16,In development,4.9,3517,"Amare, Cyberpunk, Dating Sim, Meaningful Choices, Romance, Sci-fi, Story Rich",A few hours,"Windows, macOS, Linux"
-17,Released,4.8,1902,"2D, Horror, Multiple Endings, RPG Maker, Story Rich, Tycoon",N/A,"Windows, macOS"
-18,Released,4.9,4605,"Comedy, Mystery, Otome, Ren'Py, Romance, Voice Acting",N/A,"Windows, macOS"
-19,Released,4.4,465,"Atmospheric, Creepy, First-Person, Horror, Low-poly, Psychological Horror, Short, Singleplayer",N/A,"Windows, macOS, Linux"
-20,Released,4.8,1200,"Amare, Boys' Love, Dating Sim, Horror, Mystery, Otome, Psychological Horror, Romance, Story Rich, yandere",About an hour,"Windows, macOS, Linux"
-21,Released,4.4,709,"3D, Comedy, First-Person, Horror, Pixel Art, Retro, Singleplayer, Survival Horror, Unity",N/A,Windows
-22,In development,4.8,10,"Arcade, PICO-8, tweetcart, tweettweetjam",About a half-hour,"HTML5, Windows, macOS, Linux"
-23,In development,4.7,17,"3D, Arena Shooter, Fast-Paced, FPS, Low-poly, Movement Shooter, stylized",A few minutes,Windows
-24,In development,5.0,504,"Atmospheric, Cute, Furry, Gay, LGBT, Romance, Singleplayer, Story Rich",N/A,"Windows, macOS, Linux, Android"
-25,In development,4.9,480,"Detective, Episodic, Fangame, Mystery, Point & Click, Singleplayer, Story Rich, Text based, Thriller, Voice Acting",A few hours,N/A
-26,Released,4.7,371,"bloody-painter, bp, creepypasta, Horror, Indie, Otome, Romance",A few seconds,"Windows, macOS, Android"
-27,Released,4.9,946,"Dating Sim, Superhero, yandere",N/A,"Windows, macOS, Linux"
-28,Released,4.7,10,"Atmospheric, dark-themes, existential, Experimental, human-condition, immersive-experience, psychological, retro-graphics, Surreal, Walking simulator",N/A,Windows
-29,Released,5.0,2,"3D, Chess, Funny, go",N/A,Windows
-30,Released,4.1,35,"3D, Anime, Cute, Dating Sim, Escape Game, Experimental, First-Person, Horror, Multiple Endings",About a half-hour,"Windows, macOS"
-31,In development,4.9,1572,"2D, Gore, Horror, Point & Click, Ren'Py, Sci-fi",A few hours,"Windows, macOS, Linux"
-32,In development,4.8,29,"Fangame, Multiplayer, Pixel Art",A few seconds,"Windows, Android"
-33,Released,4.7,1230,"2D, Clicker, Cute, Multiple Endings, Pixel Art, RPG Maker, RPG Maker MV, Short, Singleplayer",A few minutes,"HTML5, Windows"
-34,Released,4.8,56,"Atmospheric, First-Person, found-footage, Horror, Immersive, PSX (PlayStation), Psychological Horror, Short, Singleplayer, Walking simulator",A few minutes,Windows
-35,Prototype,4.7,1516,"Arcade, Casual, High Score, infinite-runner, Relaxing, Score Attack, Skating, Synthwave",About a half-hour,"HTML5, Windows"
-36,Released,4.6,773,"3D, Archery, Fantasy, First-Person, Medieval, Multiplayer, Team-Based, Versus",About a half-hour,HTML5
-37,Released,4.4,488,"Christmas, Horror, Otome, yandere",N/A,"Windows, macOS, Linux"
-38,Released,4.7,433,"Animals, ecology, hunting, Mountains, nature, pups, wildlife, wolf, yellowstone",A few hours,"Windows, macOS"
-39,Released,4.7,661,"Anime, Atmospheric, Horror, Mystery, Short",About a half-hour,"Windows, macOS, Linux, Android"
-40,Released,4.8,1724,"2D, clown, Creepy, Hand-drawn, Horror, html5, Mouse only, Psychological Horror, Short",A few minutes,HTML5
-41,In development,4.4,59,"Deck Building, Multiplayer, online, PvP, raising, resource-management, Roguelite, Virtual Pet",About a half-hour,"Windows, Android"
-42,Released,4.8,1792,"2D, Horror, RPG Maker",About an hour,"HTML5, Windows"
-43,In development,4.9,323,"Dark, Dating Sim, Mystery, Ren'Py, Singleplayer, yandere",A few seconds,"Windows, macOS, Linux"
-44,Released,4.8,192,"Boys' Love, Cute, Dating Sim, mythology, Otome, Relaxing, Romance, Short, Slice Of Life",N/A,"Windows, macOS, Linux"
-45,In development,4.8,678,"Cute, Hand-drawn, Low-poly, Unity",N/A,Windows
-46,In development,4.9,1521,"Action-Adventure, Fantasy, LGBT, Magic, Meaningful Choices, Medieval, Romance, Story Rich, Text based, Twine",A few hours,HTML5
-47,Released,5.0,75,"16-bit, 2D, Dogs, Game Boy Advance, Homebrew, Indie, Metroidvania, Puzzle-Platformer",A few hours,N/A
-48,Released,5.0,75,"16-bit, 2D, Dogs, Game Boy Advance, Homebrew, Indie, Metroidvania, Puzzle-Platformer",A few hours,N/A
-49,In development,4.8,881,"Creepy, Dating Sim, Episodic, erotic-horror, Horror, Otome, yandere",N/A,"Windows, macOS"
+,game_id,status,rating,rating_count,tags,ave_session_time,platforms
+0,2955066,Released,4.6,1178.0,"Cute, Fangame, Horror, Incredibox, minigames, Sprunki",,"HTML5, Windows, macOS, Linux, Android"
+1,3224595,Released,4.5,35.0,"3D, Atmospheric, Horror, PSX (PlayStation), Psychological Horror, Retro, Singleplayer, Survival Horror",,"Windows, macOS, Linux"
+2,3216520,Released,4.1,92.0,"Creepy, Dark, Horror, Indie, Multiple Endings, Psychological Horror, Retro, Short, Spooky, Unity",,Windows
+3,3148668,Released,4.3,280.0,"3D, Atmospheric, First-Person, Horror, PSX (PlayStation), Psychological Horror, Short, Singleplayer, Unity",A few seconds,"Windows, macOS"
+4,2513640,Released,4.8,301.0,"Atmospheric, Horror, Low-poly, PSX (PlayStation), Psychological Horror, Singleplayer, Story Rich, Unreal Engine, Voice Acting",About an hour,Windows
+5,3170979,Released,4.1,64.0,"Aliens, First-Person, Funny, Horror, storygame",,
+6,2920892,Released,4.8,265.0,"Dating Sim, Horror, Monsters, Otome, Romance, yandere",About a half-hour,"Windows, macOS, Linux"
+7,3264682,Released,4.7,14.0,"3D, Atmospheric, Creepy, First-Person, Horror, Mystery, Psychological Horror, Short, Survival Horror, Thriller",,Windows
+8,3255210,Released,3.9,9.0,"Atmospheric, First-Person, Horror, PSX (PlayStation), Retro, Short",,Windows
+9,566214,Released,4.5,2230.0,"2D, Atmospheric, Horror, Pixel Art",,"HTML5, Windows"
+10,2553372,Released,4.8,23.0,"Brain Training, Casual, fallacy, Hand-drawn, Indie, Local multiplayer, Quiz, Singleplayer, Text based, Trivia",About a half-hour,"Windows, macOS, Linux"
+11,2896565,Released,4.8,1289.0,"Horror, PSX (PlayStation), Retro, Short, Story Rich",About a half-hour,Windows
+12,2896565,Released,4.8,1289.0,"Horror, PSX (PlayStation), Retro, Short, Story Rich",About a half-hour,Windows
+13,228320,In development,4.8,221.0,"3D, Atmospheric, Exploration, Lovecraftian Horror, Multiplayer, Open World, Pixel Art, Procedural Generation, Sandbox, Voxel",About an hour,"Windows, macOS, Linux"
+14,3245484,Released,4.9,479.0,"Minesweeper, Roguelike",,HTML5
+15,3117580,Released,5.0,83.0,"a-date-with-death, Amare, chatsim, chat-simulator, Otome, Queer",,"Windows, macOS, Linux"
+16,469917,In development,4.9,3517.0,"Amare, Cyberpunk, Dating Sim, Meaningful Choices, Romance, Sci-fi, Story Rich",A few hours,"Windows, macOS, Linux"
+17,2343933,Released,4.8,1903.0,"2D, Horror, Multiple Endings, RPG Maker, Story Rich, Tycoon",,"Windows, macOS"
+18,1103651,Released,4.9,4605.0,"Comedy, Mystery, Otome, Ren'Py, Romance, Voice Acting",,"Windows, macOS"
+19,2273093,Released,4.4,465.0,"Atmospheric, Creepy, First-Person, Horror, Low-poly, Psychological Horror, Short, Singleplayer",,"Windows, macOS, Linux"
+20,1785163,Released,4.8,1200.0,"Amare, Boys' Love, Dating Sim, Horror, Mystery, Otome, Psychological Horror, Romance, Story Rich, yandere",About an hour,"Windows, macOS, Linux"
+21,564238,Released,4.4,714.0,"3D, Comedy, First-Person, Horror, Pixel Art, Retro, Singleplayer, Survival Horror, Unity",,Windows
+22,2061766,In development,4.8,11.0,"Arcade, PICO-8, tweetcart, tweettweetjam",About a half-hour,"HTML5, Windows, macOS, Linux"
+23,1442352,In development,4.7,18.0,"3D, Arena Shooter, Fast-Paced, FPS, Low-poly, Movement Shooter, stylized",A few minutes,Windows
+24,2472758,In development,5.0,505.0,"Atmospheric, Cute, Furry, Gay, LGBT, Romance, Singleplayer, Story Rich",,"Windows, macOS, Linux, Android"
+25,1825289,In development,4.9,480.0,"Detective, Episodic, Fangame, Mystery, Point & Click, Singleplayer, Story Rich, Text based, Thriller, Voice Acting",A few hours,
+26,2950451,Released,4.7,372.0,"bloody-painter, bp, creepypasta, Horror, Indie, Otome, Romance",A few seconds,"Windows, macOS, Android"
+27,2115103,Released,4.9,946.0,"Dating Sim, Superhero, yandere",,"Windows, macOS, Linux"
+28,3208750,Released,4.7,10.0,"Atmospheric, dark-themes, existential, Experimental, human-condition, immersive-experience, psychological, retro-graphics, Surreal, Walking simulator",,Windows
+29,3268700,Released,5.0,2.0,"3D, Chess, Funny, go",,Windows
+30,2551689,Released,4.1,35.0,"3D, Anime, Cute, Dating Sim, Escape Game, Experimental, First-Person, Horror, Multiple Endings",About a half-hour,"Windows, macOS"
+31,465774,In development,4.9,1578.0,"2D, Gore, Horror, Point & Click, Ren'Py, Sci-fi",A few hours,"Windows, macOS, Linux"
+32,2313653,In development,4.7,30.0,"Fangame, Multiplayer, Pixel Art",A few seconds,"Windows, Android"
+33,2390774,Released,4.7,1231.0,"2D, Clicker, Cute, Multiple Endings, Pixel Art, RPG Maker, RPG Maker MV, Short, Singleplayer",A few minutes,"HTML5, Windows"
+34,1785709,Released,4.8,56.0,"Atmospheric, First-Person, found-footage, Horror, Immersive, PSX (PlayStation), Psychological Horror, Short, Singleplayer, Walking simulator",A few minutes,Windows
+35,500035,Prototype,4.7,1517.0,"Arcade, Casual, High Score, infinite-runner, Relaxing, Score Attack, Skating, Synthwave",About a half-hour,"HTML5, Windows"
+36,1050580,Released,4.6,773.0,"3D, Archery, Fantasy, First-Person, Medieval, Multiplayer, Team-Based, Versus",About a half-hour,HTML5
+37,1858351,Released,4.4,488.0,"Christmas, Horror, Otome, yandere",,"Windows, macOS, Linux"
+38,29736,Released,4.7,433.0,"Animals, ecology, hunting, Mountains, nature, pups, wildlife, wolf, yellowstone",A few hours,"Windows, macOS"
+39,1212963,Released,4.7,661.0,"Anime, Atmospheric, Horror, Mystery, Short",About a half-hour,"Windows, macOS, Linux, Android"
+40,1497150,Released,4.8,1725.0,"2D, clown, Creepy, Hand-drawn, Horror, html5, Mouse only, Psychological Horror, Short",A few minutes,HTML5
+41,2270561,In development,4.4,59.0,"Deck Building, Multiplayer, online, PvP, raising, resource-management, Roguelite, Virtual Pet",About a half-hour,"Windows, Android"
+42,974566,Released,4.8,1794.0,"2D, Horror, RPG Maker",About an hour,"HTML5, Windows"
+43,2799756,In development,4.9,323.0,"Dark, Dating Sim, Mystery, Ren'Py, Singleplayer, yandere",A few seconds,"Windows, macOS, Linux"
+44,2437465,Released,4.8,192.0,"Boys' Love, Cute, Dating Sim, mythology, Otome, Relaxing, Romance, Short, Slice Of Life",,"Windows, macOS, Linux"
+45,1165696,In development,4.8,681.0,"Cute, Hand-drawn, Low-poly, Unity",,Windows
+46,803435,In development,4.9,1521.0,"Action-Adventure, Fantasy, LGBT, Magic, Meaningful Choices, Medieval, Romance, Story Rich, Text based, Twine",A few hours,HTML5
+47,2349135,Released,5.0,75.0,"16-bit, 2D, Dogs, Game Boy Advance, Homebrew, Indie, Metroidvania, Puzzle-Platformer",A few hours,
+48,2349135,Released,5.0,75.0,"16-bit, 2D, Dogs, Game Boy Advance, Homebrew, Indie, Metroidvania, Puzzle-Platformer",A few hours,
+49,1877056,In development,4.8,881.0,"Creepy, Dating Sim, Episodic, erotic-horror, Horror, Otome, yandere",,"Windows, macOS"
+51,3262422,Released,4.9,35.0,"2D, Short, storygame, Story Rich, zine",,HTML5
+52,1958369,In development,4.8,524.0,"Dark, Dating Sim, Episodic, Horror, Otome, Psychological Horror, Romance, Story Rich, Thriller, yandere",About an hour,"Windows, macOS, Linux"
+53,880570,Prototype,4.8,1513.0,"Cute, Pixel Art, Relaxing, Typing, Walking simulator",A few minutes,HTML5
+54,395249,Released,4.3,1533.0,"Creepy, Cute, Horror, Low-poly, memoir, Minimalist, Pixel Art, Short, Singleplayer, Walking simulator",A few seconds,"HTML5, Windows, macOS"
+55,511571,Released,4.5,784.0,"3D, FPS, Horror, meta, Narrative, Retro, Walking simulator",A few seconds,Windows
+56,1037088,In development,4.7,277.0,"3D, Casual, Cooking, family, Female Protagonist, Food, Singleplayer, Story Rich",About a half-hour,"Windows, macOS, Linux"
+57,1037088,In development,4.7,277.0,"3D, Casual, Cooking, family, Female Protagonist, Food, Singleplayer, Story Rich",About a half-hour,"Windows, macOS, Linux"
+58,1658002,Released,4.7,199.0,"3D, Atmospheric, Creepy, Horror, Psychological Horror, Short, Thriller",About a half-hour,Windows
+59,2194898,In development,4.8,208.0,"Fangame, Horror, PSX (PlayStation), Retro, Singleplayer, twin-peaks, Unity",,Windows
+60,2412060,Released,4.2,13.0,Virtual Reality (VR),,
+61,2566651,Released,4.9,301.0,"Amare, Dating Sim, Dungeons & Dragons, Fantasy, LGBT, LGBTQIA, Otome, Queer, Romance",,"Windows, macOS, Linux"
+62,1421039,In development,4.8,140.0,"Amare, Atmospheric, Crime, Dystopian, Female Protagonist, Mystery, Romance, Story Rich",,"Windows, macOS, Linux, Android"
+63,329131,Released,4.6,697.0,"Clicker, Idle, Incremental",A few minutes,"HTML5, Windows"
+64,406400,In development,4.9,158.0,"2D, creepycute, demo, Fantasy, killmonday-games, Singleplayer, Unity",,"Windows, macOS, Linux"
+65,1344124,In development,4.9,1069.0,"Character Customization, Dating Sim, LGBTQIA, Romance, Story Rich, Twine",A few hours,HTML5
+66,2313708,In development,4.9,254.0,"Amare, Dark Fantasy, Dating Sim, Horror, LGBT, Mystery, Narrative, Otome, Romance",A few hours,"Windows, macOS, Linux, Android"
+67,2094063,Released,4.9,338.0,"3D, Atmospheric, First-Person, Horror, Short, Unreal Engine",About an hour,Windows
+68,2037025,In development,4.5,26.0,"Economy, grand-strategy, map, politics, Turn-based Strategy, War",About an hour,"HTML5, Windows, macOS, Linux, Android"
+69,2330583,Released,4.8,331.0,"Atmospheric, Dark, Gothic, Horror, Male protagonist, Multiple Endings, Psychological Horror, Romance, Story Rich",,"HTML5, Windows, macOS, Linux"
+70,2293607,Released,4.8,157.0,"3D, Atmospheric, Creepy, Horror, Immersive, Narrative, Psychological Horror, Retro, suspense, Thriller",,Windows
+71,3149451,Released,4.6,8.0,"First-Person, Multiple Endings, Narrative, Singleplayer",,Windows
+72,31162,Released,4.8,339.0,"2D, Exploration, JRPG, Pixel Art, RPG Maker, Turn-Based Combat, weird",About a half-hour,Windows
+73,558218,Released,4.8,1741.0,"Creative, desktop, goose, Virtual Pet",,"Windows, macOS"
+74,1124624,In development,4.8,394.0,"Amare, Anime, Fantasy, LGBT, Narrative, Otome, Romance, Story Rich",About an hour,"Windows, macOS, Linux"
+75,3271330,Released,4.8,6.0,"Atmospheric, Dark, First-Person, Horror, PSX (PlayStation), Psychological Horror, Retro, Short, Singleplayer, Survival Horror",,Windows
+76,775853,Released,4.6,1471.0,"3D, Atmospheric, Creepy, Horror, Monsters, Mouse only, Short, Singleplayer",,HTML5
+77,1339579,Released,4.6,86.0,"Creepy, First-Person, Horror, Singleplayer",About an hour,Windows
+78,1855901,Prototype,4.9,217.0,Ghosts,,"Windows, macOS, Linux"
+79,3004021,Released,5.0,21.0,"oracles, Print & Play, solo, Solo RPG, Tabletop role-playing game, zine",,
+80,583454,Released,4.9,1118.0,"2D, Cute, meta, Pixel Art, Singleplayer, Story Rich",A few hours,"Windows, Linux"
+81,1830543,In development,4.9,235.0,"2D, Creepy, Cute, Dating Sim, demo, Horror, Mystery, Romance, Singleplayer",About an hour,
+82,2705054,In development,4.8,174.0,"Amare, Dating Sim, Indie, Otome, Ren'Py, Romance, Slice Of Life, Story Rich",,"Windows, macOS, Linux"
+83,1852282,In development,4.7,102.0,"digital-logic, electronics, simulator",,"Windows, macOS, Linux"
+84,719124,In development,4.9,373.0,"2D, Anime, Fantasy, Female Protagonist, Lesbian, LGBT, Pixel Art, RPG Maker, Yuri",About a half-hour,Windows
+85,2351815,In development,4.8,103.0,"2D, bfdi, Level Editor",A few minutes,Windows
+86,666558,In development,4.6,164.0,"Anime, Dating Sim, Horror, Meaningful Choices, Multiple Endings, Mystery, Narrative, Romance, Story Rich, suspense",A few hours,"Windows, macOS, Linux, Android"
+87,1718225,Released,4.9,1381.0,"First-Person, Horror, Indie, Monsters, Psychological Horror, scary, Short, Spooky, Unity",About an hour,
+88,631448,In development,4.8,176.0,"Dreams, Moddable, PSX (PlayStation), Singleplayer, Walking simulator",A few minutes,"Windows, macOS, Linux"
+89,1843196,Released,4.7,207.0,"Cute, Female Protagonist, josei, Lo-fi, Otome, Pixel Art, relationship, Ren'Py, Romance",About a half-hour,"Windows, macOS, Linux"
+90,523323,In development,4.8,308.0,"2D, 4X, civ, civilization, Moddable",A few seconds,"Windows, Linux"
+91,528213,Released,4.5,394.0,"Fangame, Fantasy, Loot, Pixel Art, Retro, Roguelike, Roguelite, Shoot 'Em Up",A few minutes,"HTML5, Windows"
+92,2469044,In development,4.9,431.0,"Amare, amare-game, Fantasy, LGBT, Romance, Story Rich, Text based, Twine",,HTML5
+93,712594,In development,4.4,272.0,"Anime, Dating Sim, Horror, Mystery, Romance, Singleplayer, Story Rich",About a half-hour,"Windows, macOS, Linux"
+94,1341940,Released,4.6,198.0,"3D, doghouse, Horror, PSX (PlayStation)",A few minutes,"Windows, macOS, Linux"
+95,16106,Released,4.8,832.0,"death, Exploration, life, night-in-the-woods, Point & Click, snowman, talking-animals, winter",,"Windows, macOS, Linux"
+96,1515077,On hold,4.7,173.0,"Beat 'em up, changed, Fangame, Parody, Pixel Art",,"Windows, macOS, Linux"
+97,663902,Released,4.7,719.0,"angel, Comedy, Dating Sim, demon, drama, Horror, LGBT, LGBTQIA, Romance",,"Windows, macOS, Linux"
+98,1727837,Released,4.8,667.0,"Escape Game, Point & Click, Singleplayer",,HTML5
+99,373608,Released,4.8,475.0,"Animals, Cute, Dark, Dating Sim, Dogs, Gore, Horror, LGBT",,"Windows, macOS, Linux"
+100,766072,Prototype,4.8,1039.0,"2D, Cute, Funny, Mouse only, Point & Click, Short, Singleplayer, Unity",,HTML5
+101,2738903,Released,4.9,741.0,"2D, Cute, Fantasy, Frogs, Pixel Art, Puzzle-Platformer, Short, Singleplayer, Skating, Speedrun",,"HTML5, Windows"
+102,274604,Released,4.5,120.0,"FPS, Multiplayer, Real time strategy, Sandbox, Third-Person Shooter, Tower Defense, War, Zombies",A few hours,"Windows, macOS, Linux"
+103,1527103,Released,4.7,325.0,"Atmospheric, Creepy, Horror, Monsters, Short, Singleplayer, Surreal, TyranoBuilder, Violent",A few minutes,Windows
+104,593692,In development,4.8,260.0,"Amare, Female Protagonist, Male protagonist, Mystery, Otome, Romance, Story Rich, supernatural, urban-fantasy",A few hours,"Windows, macOS, Linux"
+105,964542,Released,4.7,1409.0,"2D, Dark, Fangame, Horror, Manga, Pixel Art, Retro",,"HTML5, Windows"
+106,1989600,In development,4.5,42.0,"2D, Anime, Creepy, Horror, Psychological Horror, ray_kbys, Ren'Py, Singleplayer, teaching-feeling",,"Windows, macOS, Linux, Android"
+107,406257,On hold,4.4,164.0,"Alternate History, Procedural Generation",A few minutes,"Windows, macOS"
+108,1544412,Released,4.9,35.0,"Female Protagonist, Indie, Metroidvania, NES (Nintendo Entertainment System), NES ROM, Pixel Art",,
+109,2634753,In development,4.6,126.0,"Amare, Dating Sim, Episodic, Female Protagonist, josei, Otome, Romance, Story Rich",A few hours,"Windows, macOS, Linux, Android"
+110,2903789,In development,4.7,202.0,"2D, Casual, Cozy, Short",,"HTML5, Windows"
+111,25491,Released,4.6,282.0,"drone, fpv, miniquad, multirotor, quadcopter, quadrocopter, rc, simulator",A few minutes,"Windows, macOS, Linux"
+112,664210,On hold,4.8,1520.0,"Dating Sim, Female Protagonist, LGBT, Male protagonist, Otome, Post-apocalyptic, Romance, Story Rich, Text based",A few seconds,"HTML5, Windows, macOS, Linux"
+113,3171782,Released,4.8,135.0,"2D, Arcade, Fangame, Parody, Pixel Art, Sci-fi, Shoot 'Em Up, Singleplayer, video",,"HTML5, Windows, macOS"
+114,698587,Released,4.7,1335.0,"Funny, Horror, Narrative, tea, Walking simulator, weird",A few minutes,"HTML5, Windows"
+115,1400584,Released,4.8,1064.0,"2D, Dating Sim, Fantasy, Magic, Pixel Art",About a half-hour,"Windows, macOS, Linux"
+116,1169767,In development,4.6,139.0,"Fast-Paced, First-Person, FPS, Low-poly, Roguelike, Roguelite, Singleplayer, Unity",A few minutes,Windows
+117,302222,Released,4.8,2110.0,"Dark Fantasy, Horror, LGBT, LGBTQIA, Mystery, Romance, supernatural, unspeakable, Vampire",A few hours,"Windows, macOS, Linux"
+118,3250730,Released,4.9,16.0,"Atmospheric, Female Protagonist, Forest, Game Boy, Horror, RPG Maker, Short",About a half-hour,"HTML5, Windows"
+119,3058577,Released,4.7,21.0,"Cartoon, Comedy, Horror, Pixel Art, Retro",,"HTML5, Windows"
+120,329624,Released,4.7,1062.0,"2D, Anime, Casual, Comedy, Dark, LGBT, Romance, Short",,HTML5
+121,1674629,Released,4.8,155.0,"Boys' Love, Horror, LGBT, LGBTQIA, Narrative, tragedy",About an hour,Windows
+123,556259,Released,4.6,202.0,"3D, 90s, Female Protagonist, Horror, Low-poly, PSX (PlayStation), Retro, Third Person, Unity",,"Windows, macOS, Linux"
+124,31318,Released,4.7,864.0,"2D, gdq, hardcore, PICO-8, Speedrun",,HTML5
+125,2570671,In development,4.9,64.0,,A few hours,
+126,148146,Released,4.6,456.0,"8-Bit, chiptune, four-quarters, Ludum Dare",,"HTML5, Windows, Android"
+127,3136828,Released,4.3,92.0,"Atmospheric, Pixel Art, Short, Singleplayer",,"HTML5, Windows"
+128,92002,Released,4.7,972.0,"Anime, Cute, Fantasy, Halloween, LGBT, Multiple Endings, Ren'Py, Romance, Spooky",About a half-hour,"HTML5, Windows, macOS, Linux"
+129,598634,Released,4.9,192.0,"3D, lego, mining, raiders, Remake, rock, rock-raiders, rock_raiders, Singleplayer, Unreal Engine",,Windows
+130,211171,In development,4.6,455.0,"Cyberpunk, Metroidvania, Pixel Art, speedrun-friendly, Story Rich, Unity, vaporwave",About an hour,"HTML5, Windows, macOS"
+131,86528,Released,4.6,210.0,"Comedy, Creepy, Dark Humor, First-Person, FPS, Horror, Singleplayer, Story Rich",About a half-hour,"Windows, macOS, Linux"
+132,1449456,Released,4.8,414.0,"Amare, Dating Sim, Female Protagonist, Otome, Romance, Story Rich, Vampire",A few hours,"Windows, macOS, Linux"
+133,1285091,Released,4.6,145.0,"2D, Fangame, Mystery, Psychological Horror, Text based, tragedy",A few hours,"Windows, macOS"
+134,582861,Released,4.7,524.0,"2D, Atmospheric, Exploration, Horror, Pixel Art, Short",,"Windows, macOS, Linux"
+135,309672,In development,4.5,331.0,"2D, io, Multiplayer, Top-Down",Days or more,"Windows, Android"
+136,784989,Released,4.9,684.0,"Casual, Dice, Fantasy, Pixel Art, Roguelike, Roguelite, Singleplayer",About a half-hour,"Windows, macOS, Android"
+137,1476383,In development,4.8,930.0,"Deck Building, Pixel Art, Roguelike, Turn-based, Turn-Based Combat",About a half-hour,"HTML5, Windows, macOS, Linux"
+138,2427989,Released,4.4,227.0,"2D, Cute, Hand-drawn, Multiple Endings, RPG Maker, RPG Maker MV, Short",A few minutes,"HTML5, Windows"
+139,2144787,In development,4.9,188.0,"2D, Anime, Cute, Indie, JRPG, Pixel Art, Retro, RPG Maker",About an hour,Windows
+140,1587667,Released,4.8,30.0,"bl, Boys' Love, Dating Sim, Gay, LGBT, Romance, Yaoi",A few seconds,"macOS, Android"
+141,2405619,In development,4.4,175.0,"2D, Cute, Idle, Incremental, Relaxing, Roguelike, Singleplayer, Tower Defense",About a half-hour,"HTML5, Windows, Android"
+142,1102175,Released,4.5,100.0,"2D, Anime, Dark, Female Protagonist, Horror, Magic, Pixel Art, RPG Maker",,"Windows, macOS, Linux, Android"
+143,977254,In development,5.0,10.0,"Escape Game, Horror, Virtual Reality (VR)",,"Windows, Android"
+144,742341,Prototype,4.8,536.0,"Amare, Fantasy, Meaningful Choices, Medieval, Ren'Py, Romance, Singleplayer, Story Rich",A few hours,"Windows, macOS, Linux"
+145,824142,Released,4.8,610.0,"artificial-intelligence, Multiple Endings, Mystery, Sci-fi, Story Rich, Text based, Twine",About a half-hour,"HTML5, Windows, macOS, Linux"
+146,1266375,Released,4.8,277.0,"2D, Anime, Cute, Female Protagonist, Lesbian, LGBT, protagonist-is-still-a-useless-gay, Ren'Py, Romance, Yuri",About an hour,"Windows, macOS, Linux"
+147,748271,Released,4.5,190.0,"Amare, Halloween, Lesbian, LGBT, Queer, Romance, Vampire, wlw, Yuri",A few hours,"Windows, macOS, Linux, Android"
+148,1558803,Released,4.6,486.0,"3D, Atmospheric, Creepy, First-Person, Horror, Retro, Short, Singleplayer",,Windows
+149,727585,Released,4.8,102.0,"Animals, Comedy, Funny, Horrible, Local Co-Op, Non violent, Sandbox, Stealth, Third Person",About a half-hour,"Windows, macOS"
+150,2363869,Released,5.0,201.0,"Dating Sim, Fangame, Female Protagonist, Horror, Indie, Lesbian, LGBTQIA, Ren'Py, Romance",,"Windows, macOS, Linux, Android"
+151,2115183,Released,4.9,410.0,"2D, Casual, Cute, Fangame, Romance, Short",,
+152,2168917,Released,4.6,22.0,"blood, euphoria, euphoria-physics, euphoria-ragdoll, Funny, Gore, ragdoll, ragdoll-physics, Singleplayer",,Windows
+153,2667076,Released,4.4,80.0,"Atmospheric, Casual, Creepy, Exploration, First-Person, Horror, Low-poly, PSX (PlayStation), Retro, Short",,Windows
+154,172151,Released,4.7,151.0,"Dating Sim, Fantasy, Romance, Slice Of Life",,"Windows, macOS, Linux"
+155,278051,Released,4.6,67.0,"iwbtg, masocore, needle-game",,Windows
+156,278051,Released,4.6,67.0,"iwbtg, masocore, needle-game",,Windows
+157,1865292,Released,4.6,354.0,"3D, Atmospheric, Creepy, Dark, Horror, PSX (PlayStation), Psychological Horror, Retro, Short, Singleplayer",About a half-hour,Windows
+158,2142166,Released,4.6,254.0,,A few minutes,"Windows, macOS"
+159,399109,Released,4.7,149.0,"Horror, weird",,"Windows, macOS, Linux"
+160,40415,Released,4.4,336.0,"3D, Atmospheric, contemplative, Experimental, Space",,"Windows, macOS, Linux"
+161,3061660,In development,4.8,78.0,"Horror, RPG Maker, RPG Maker MZ, Survival Horror, Turn-Based Combat, Turn-based Strategy",About a half-hour,Windows
+162,1820653,Released,4.6,20.0,"Casual, Creative, Music, musicbox, Playdate, Relaxing, Soundtoy, tools",A few minutes,
+163,2827081,Released,4.7,227.0,"Comedy, Dating Sim, free, Otome, Romance",,"Windows, macOS, Linux"
+164,2833012,Released,4.4,149.0,Horror,,"Windows, macOS"
+165,2833012,Released,4.4,149.0,Horror,,"Windows, macOS"
+166,2675884,Released,4.8,142.0,"Anime, Creepy, Cute, Horror, Monsters, Romance, Short, yandere",,"HTML5, Windows, macOS"
+167,1689029,In development,4.5,37.0,"3D, Cartoon, Cats, Comedy, Difficult, Fast-Paced, Funny, Multiplayer, Unity",About an hour,Windows
+168,2224136,Released,4.9,308.0,"Amare, Atmospheric, Creepy, Horror, Narrative, Otome, Romance, Story Rich, velox-fabula-2023",About a half-hour,"Windows, macOS"
+169,1684116,Released,4.9,808.0,"2D, Anime, Female Protagonist, LGBT, Narrative, Romance, Short, Slice Of Life, Story Rich",A few hours,"Windows, macOS, Linux"
+170,3109288,Released,5.0,6.0,,,
+171,934803,Released,4.5,111.0,"MMORPG, Multiplayer, omori, Pixel Art",About an hour,"HTML5, Windows, Android"
+172,1172488,In development,4.9,1076.0,"arthurian, Dragons, drama, Fantasy, Magic, Queer, Romance",,HTML5
+173,567671,Released,4.8,577.0,"Amare, Cyberpunk, Dating Sim, Meaningful Choices, Romance, Sci-fi, Story Rich",,"Windows, macOS"
+174,334765,Released,4.8,40.0,"3D, biathlon, Non violent, pc",,Windows
+175,3084510,Released,4.8,25.0,"Atmospheric, Gore, Horror, Low-poly, PSX (PlayStation), Retro, Slasher, Spooky, Survival Horror, vhs",About an hour,Windows
+176,127806,Released,4.8,335.0,"Dating Sim, Horror, Multiple Endings, Romance",,"Windows, macOS"
+177,1547052,Released,4.5,71.0,"3D, Comedy, Comics, First-Person, Horror, Retro, Short, Singleplayer, Unity",,Windows
+178,1353167,Released,4.7,576.0,"2D, Casual, Cute, Dogs, Pixel Art, Relaxing, Short, Virtual Pet",A few minutes,"HTML5, Windows, macOS, Linux"
+179,1303261,In development,4.8,147.0,"Cute, eufree, Horror, JRPG, kawaii, pink, rpghorror, RPG Maker, rpgmakerhorror",A few minutes,Windows
+180,2567612,Released,4.8,51.0,"2D, Seven Day Roguelike Challenge, Dungeon Crawler, Fantasy, Godot, Multiplayer, Pixel Art, Retro, Roguelike",About a half-hour,"HTML5, Windows, macOS, Linux"
+181,2713059,Released,4.9,274.0,"Bara, Furry, Gay, LGBT, Romance, Slice Of Life",,"Windows, macOS, Linux, Android"
+182,2114841,In development,4.9,132.0,"Bara, Boys' Love, Dating Sim, Furry, Gay, LGBT, LGBTQIA, Romance",A few hours,"Windows, macOS, Linux, Android"
+183,1036989,released,4.9,248.0,"aromantic, asexual, cute, female protagonist, lesbian, lgbt, multiple endings, ren'py, transgender",about an hour,"windows, macos, linux"
+184,1745167,Released,4.7,173.0,"2D, Gore, Physics, Sandbox, Singleplayer, Unity, Violent",A few minutes,Windows
+185,415287,Released,4.5,643.0,"2D, cosy, Cute, Gacha, Ludum Dare 44, Short",,"HTML5, Windows, macOS"
+186,1073800,Released,4.8,65.0,"3D, Baldi's Basics, baldis-fun-new-school, First-Person, html5, Multiplayer, Singleplayer, Unity",About a half-hour,"HTML5, Windows, macOS, Linux, Android"
+187,510625,Released,4.4,85.0,"Atmospheric, First-Person, Halloween, Horror, Pixel Art, Singleplayer, Survival Horror, Unity, Violent",,Windows
+188,147405,Released,4.5,28.0,"Arcade, Game Boy, gamepad, libGDX, mobile, Multiplayer, NES (Nintendo Entertainment System), Retro, Singleplayer, Tetris",A few minutes,"HTML5, Android"
+189,405024,Released,4.8,75.0,"Anime, Casual, Comedy, Dating Sim, Fangame, Multiple Endings, Ren'Py, Romance, Singleplayer, sonic",,"Windows, macOS"
+190,653400,Released,4.6,447.0,"Atmospheric, PICO-8, Pixel Art, Retro, rndgame2020",,"HTML5, Windows, macOS, Linux"
+191,339268,Released,4.7,371.0,"Indie, Ludum Dare, Ludum Dare 43, sacrifices",A few minutes,"Windows, macOS, Linux"
+192,339268,Released,4.7,371.0,"Indie, Ludum Dare, Ludum Dare 43, sacrifices",A few minutes,"Windows, macOS, Linux"
+193,2071667,Released,4.9,129.0,"Cute, Dating Sim, Dinosaurs, Hand-drawn, Multiple Endings, Romance, Singleplayer, Slice Of Life",A few hours,"Windows, macOS, Linux, Android"
+194,299619,Released,4.3,116.0,"Horror, Photorealistic, psychedelic, Short, Walking simulator",,Windows
+195,1325173,Released,4.5,94.0,"2D, Action RPG, Game Boy, gb-studio, gbstudio, Homebrew, Retro, Top Down Adventure, zelda",A few minutes,HTML5
+196,876614,Released,4.7,77.0,"3D Platformer, Atmospheric, Difficult, Experimental, First-Person, Low-poly, Retro, Singleplayer",,"Windows, macOS, Linux"
+197,162219,In development,4.6,240.0,"bl, Boys' Love, bxb, drama, Gay, murder, Romance, vn, Yaoi",,"Windows, macOS, Linux"
+198,83145,Released,4.7,469.0,"Action-Adventure, Co-op, Local multiplayer, Multiplayer, Roguelike, Stealth, Top Down Adventure, Top down shooter, Twin Stick Shooter",About a half-hour,"Windows, macOS, Linux"
+199,3000315,In development,4.9,77.0,"Atmospheric, autobattler, Fantasy, Indie, Mouse only, Roguelike, Sci-fi, Singleplayer",,"HTML5, Windows"
+200,2872786,In development,4.8,20.0,"Creepy, Dating Sim, LGBT, Multiple Endings, Ren'Py, Romance, Story Rich, yandere, Yaoi",A few hours,"Windows, macOS, Linux, Android"
+201,235552,Released,4.3,139.0,"16-bit, 2D, Fantasy, MMORPG, Multiplayer, Open World, Pixel Art",Days or more,"HTML5, Windows"
+202,426461,Released,4.7,360.0,"2D, Animals, Chicken, Cute, Farming, Management, Pixel Art, Singleplayer, web",A few minutes,"HTML5, Windows, macOS"
+203,2126825,Released,4.7,63.0,"2D, Arcade, Godot, Monsters, Multiplayer, Pixel Art, PvP, Simple",A few minutes,"HTML5, Windows, Linux"
+204,537118,In development,4.9,8.0,"Exploration, Fantasy, Medieval, Open World, Roguelike, Roguelite, Story Rich, Text based, Turn-based",About an hour,"Windows, macOS, Linux, Android"
+205,898699,Prototype,4.8,957.0,"Fast-Paced, GameMaker, Pixel Art, self, Space, Speedrun",About a half-hour,"HTML5, Windows"
+206,2564417,Released,4.9,8.0,"16-bit, 2D, Level Editor, Pixel Art, Retro, Side Scroller, Singleplayer",A few minutes,HTML5
+207,2836939,Released,5.0,9.0,"journaling, Solo RPG, Tabletop role-playing game, writing",Days or more,"Windows, Linux"
+208,2456997,Released,4.9,85.0,"Amare, Dark, Horror, josei, Monsters, Psychological Horror, Romance, Voice Acting, yandere",About an hour,"Windows, macOS"
+209,1725982,Released,4.8,79.0,"Cute, Fantasy, Horror, Monsters, Otome, Romance, Spooky, Vampire",,"Windows, macOS, Linux"
+210,2027795,In development,4.8,13.0,"2D, MMORPG, Pixel Art",About a half-hour,"HTML5, Windows, Linux, Android"
+211,1775868,Released,5.0,54.0,"Cute, Difficult, Exploration, Female Protagonist, Funny, LGBT, lime, Romance, sylvie",About a half-hour,"Windows, macOS, Linux"
+212,75486,Released,4.4,272.0,"Anime, Cute, Dating Sim, Female Protagonist, Life Simulation, Management, Multiple Endings, Otome, Romance",About an hour,"Windows, macOS, Linux"
+213,806329,In development,4.8,159.0,"2D, Comedy, Fangame, Feel Good, helltaker, Narrative, relationship, Slice Of Life, Story Rich, TyranoBuilder",About an hour,"Windows, macOS, Linux"
+214,693450,Released,4.6,384.0,"2D, Casual, Cute, Game Maker's Toolkit Jam, Minimalist, Short",A few minutes,"HTML5, Windows"
+215,1939497,In development,4.8,83.0,"3D Platformer, Creative, Fangame, Level Editor, Low-poly, PSX (PlayStation), Retro, Singleplayer, Unity",A few seconds,"Windows, Android"
+216,2217419,Released,4.8,162.0,"Amare, asexual, Boys' Love, Dating Sim, Fantasy, josei, LGBT, Otome, Romance",A few minutes,"Windows, macOS, Linux, Android"
+217,871394,Released,4.8,33.0,"2D, Difficult, GameMaker, iwbtg, masocore, needle-game, precision-platformer, remaster, Side Scroller, Singleplayer",,Windows
+218,1928025,In development,4.6,96.0,"Dark, Horror, Psychological Horror, Romance, yandere",,
+219,2290683,Released,4.4,335.0,"3D, Atmospheric, First-Person, Horror, Indie, Pixel Art, PSX (PlayStation), Survival Horror",A few minutes,Windows
+220,2636484,In development,4.9,124.0,"2D, Casual, Dating Sim, enemies-to-lovers, First-Person, LGBT, Romance, Singleplayer, Slice Of Life",,HTML5
+221,1741876,Released,4.5,60.0,"3D, 3D Platformer, Atmospheric, Dark, Ghosts, Horror, Retro, Third Person, upgrades",About an hour,"Windows, Linux"
+222,624121,Released,4.7,492.0,"2D, Atmospheric, Casual, Cute, LGBT, Romance, Short, Singleplayer, Story Rich",,"Windows, macOS, Linux"
+223,1942002,Released,4.6,144.0,"Anime, Atmospheric, Gay, Horror, LGBT, mv3d, Mystery, Retro, RPG Maker",,"HTML5, Windows"
+224,309512,Released,4.1,82.0,"First-Person, Horror, Story Rich",About a half-hour,Windows
+225,1415172,In development,4.7,199.0,"Horror, Psychological Horror, Romance, yandere",,
+226,1367486,Released,5.0,8.0,"2D, Anime, Game Boy, gbstudio, Pixel Art, Retro, Short, Singleplayer",,HTML5
+227,1230512,In development,4.4,19.0,"3D, Comedy, Fast-Paced, Horror, suspense",A few minutes,Windows
+228,939581,Released,4.3,92.0,"Boys' Love, Cute, Fantasy, Gay, LGBT, Multiple Endings, Romance, Story Rich, Yaoi",,"HTML5, Windows, macOS, Linux, Android"
+229,2911191,Released,4.7,102.0,Puzzle-Platformer,,HTML5
+230,587312,Released,4.7,129.0,"2D, Abstract, Creative, Gravity, Mouse only, particles, Physics, Relaxing, Sandbox",A few minutes,HTML5
+231,1979014,In development,4.9,97.0,"8-Bit, Game Boy, Game Boy ROM, gbstudio, halo, Retro, Short, Singleplayer, Top down shooter",,HTML5
+232,1928335,Released,4.6,143.0,"Amare, Comedy, Dark Humor, Dating Sim, Horror, LGBT, Multiple Endings, Romance, satire, yandere",,"HTML5, Windows, macOS, Linux"
+233,683814,Released,4.9,311.0,"Cute, kalimba, Music, Soundtoy",A few seconds,HTML5
+234,152121,In development,4.8,183.0,Nonlinear,About an hour,"Windows, Linux"
+235,585053,Released,4.8,784.0,"Board Game, Economy, Historical, Medieval",A few hours,HTML5
+236,1120412,Prototype,4.5,32.0,"3D, Arcade, drift, Driving, rally, Singleplayer, Unreal Engine",,Windows
+237,678343,Released,4.4,33.0,"Action-Adventure, gb-studio, zelda",,HTML5
+238,1645984,Released,4.8,77.0,"2D, Gore, Pixel Art, Romance, RPG Maker, Violent",,Windows
+239,921038,In development,4.9,84.0,"Casual, cat, Cats, Creative, Cute, desktop, pets, Pixel Art, Relaxing, Virtual Pet",,Windows
+240,3191595,Released,5.0,93.0,"Amare, Character Customization, Comedy, Dating Sim, LGBT, Otome, Romance, yandere",A few hours,"Windows, macOS, Linux"
+241,1016658,Released,4.7,521.0,"Aliens, Atmospheric, Ludum Dare, Ludum Dare 48, Monsters, Pixel Art, Retro, Short, Singleplayer",A few minutes,"HTML5, Windows, Linux"
+242,98968,Released,4.7,84.0,"16-bit, 4-player, 8-Bit, Beat 'em up, deathmatch, Local multiplayer, pixel, Pixel Art",A few minutes,"Windows, macOS"
+243,146084,Released,4.6,594.0,"8-Bit, four-quarters, Horror, Ludum Dare, Ludum Dare 38, Pixel Art, quest",,"HTML5, Windows"
+244,3269874,Prototype,4.8,4.0,"Management, Meaningful Choices, Multiple Endings, Narrative, Pixel Art, Story Rich",About a half-hour,"HTML5, Windows, macOS, Linux, Android"
+245,885372,Released,4.4,54.0,"Action-Adventure, Altgame, Creepy, Horror, Mystery, Siren Head, sirenhead",About an hour,Windows
+246,1512145,In development,4.7,32.0,Playdate,,
+247,593361,Released,4.9,150.0,"Anime, Casual, Lesbian, LGBT, Period Piece, Retro, Romance, Yuri",A few hours,"Windows, macOS, Linux"
+248,332020,In development,4.7,89.0,"2D, Cult Classic, Fangame, GameMaker, Moddable, Pixel Art, Singleplayer",,Windows
+249,2211144,In development,4.9,97.0,"Dark, Dating Sim, Female Protagonist, Horror, Mystery, Otome, Romance, Story Rich, Time Travel",,"Windows, macOS"
+250,660,Released,4.5,193.0,"gangster, hiphop, rap, vlambeer, yung-venuz",,"Windows, macOS"
+251,1812533,In development,4.8,567.0,"Character Customization, Fantasy, LGBT, Meaningful Choices, Romance, Story Rich, Text based, Twine",About an hour,HTML5
+252,694877,Released,4.7,958.0,"artgame, Atmospheric, Board Game, Game Maker's Toolkit Jam, Hand-drawn, Horror, Narrative, Short, Singleplayer, Unity",,"HTML5, Windows"
+253,2874874,Released,4.8,115.0,"2D, Casual, Fangame, GameMaker, Pixel Art, Singleplayer, Sprites, Virtual Pet",Days or more,"Windows, Android"
+254,1025316,In development,4.8,209.0,"16-bit, 2D, Dogs, Game Boy Advance, gamepad, Homebrew, Metroidvania, Pixel Art, Sci-fi, Space",About a half-hour,"HTML5, Windows"
+255,256386,In development,4.5,205.0,"Endless, Fantasy, Perma Death, Procedural Generation, Retro, Roguelike, Sandbox, Singleplayer, Text based",About an hour,"HTML5, Windows, macOS, Linux"
+256,571125,Released,4.6,78.0,"Game Boy, gb-studio, gbstudio, Pixel Art",,"HTML5, Windows"
+257,2363640,Released,4.8,25.0,"Creepy, Driving, First-Person, Horror, PSX (PlayStation), Psychological Horror, Singleplayer, Survival Horror",,"Windows, macOS"
+258,3264559,Released,4.8,15.0,Pixel Art,,HTML5
+259,745086,Released,4.6,135.0,"2D, Demake, PICO-8, Pixel Art, Retro",A few minutes,"HTML5, Windows, macOS, Linux"
+260,3122607,Released,4.7,31.0,"2D, Atmospheric, Creepy, Furry, Horror, Indie, Narrative, Short, Side Scroller, storygame",,Windows
+261,1973075,Released,4.9,18.0,"Casual, Fangame, genshin, genshin-impact, Otome, Romance, xiao",A few hours,"Windows, macOS, Linux, Android"
+262,31308,Released,4.7,96.0,"Endless, Experimental, Exploration, Math, non-eucledian, Procedural Generation, Roguelike, stepping-game, traditional-roguelike",About a half-hour,"Windows, macOS, Android"
+263,20790,Released,4.6,415.0,"Story Rich, Text based, Twine",,HTML5
+264,20790,Released,4.6,415.0,"Story Rich, Text based, Twine",,HTML5
+265,1565367,Prototype,3.7,9.0,"3D, Horror, Psychological Horror, Survival Horror",,Windows
+266,431606,Released,4.8,42.0,"Ciphers, codes",A few seconds,"Windows, macOS, Linux"
+267,95679,Released,4.8,141.0,"2D, Dark Humor, Difficult, Dystopian, jumping, Pixel Art, Post-apocalyptic, RPG Maker, Short, weird",A few hours,
+268,76194,Released,4.6,376.0,"2D, 8-Bit, chiptune, Female Protagonist, LGBT, Multiple Endings, Pixel Art, RPG Maker, Story Rich",About a half-hour,Windows
+269,349841,Released,4.7,353.0,"2D, Cats, Comedy, Dating Sim, Gay, LGBT, Pixel Art, Romance, Singleplayer, Transgender",About an hour,"HTML5, Windows, macOS, Linux"
+270,645092,In development,4.8,148.0,"2D, Dating Sim, Fangame, Multiple Endings, Ren'Py, Romance, rwby, Singleplayer, Story Rich",About an hour,"HTML5, Windows, macOS, Linux, Android"
+271,3094810,In development,4.7,18.0,"Atmospheric, Game Boy, gameboycolor, Horror, insects, Retro, Space, Story Rich",,"HTML5, Windows, macOS, Linux, Android"
+272,81573,Released,4.7,593.0,"Gore, liar-liar",,"Windows, macOS, Linux"
+273,2167584,In development,4.5,114.0,"Anime, Creepy, Dark, Dating Sim, Horror, Ren'Py, Romance, yandere",,"Windows, macOS"
+274,147395,Released,4.7,970.0,"2D, Arcade, Comedy, Cute, Dating Sim, LGBT, Romance, Story Rich",About an hour,"Windows, macOS, Linux"
+275,818775,Released,4.7,180.0,"Abstract, artgame, blood, Experimental, Exploration, First-Person, Lo-fi, Surreal",About a half-hour,"Windows, macOS"
+276,89306,Released,4.8,156.0,"Action-Adventure, Comedy, commercial, Fantasy, Otome, Romance",,"Windows, macOS, Linux"
+277,569216,Released,4.8,127.0,"2D, chat-noir, Cute, Dating Sim, miraculous-ladybug, Otome, Romance, valentines-day",A few minutes,"Windows, macOS, Linux"
+278,864082,Released,4.7,146.0,"3D Platformer, Atmospheric, Horror, Low-poly, n64",,Windows
+279,1599607,Released,4.7,175.0,"Anime, Cute, Dating Sim, Female Protagonist, LGBT, Otome, Romance, Yaoi",A few hours,"Windows, macOS, Linux, Android"
+280,425350,Released,4.5,249.0,"3D, 3D Platformer, Fangame, Fast-Paced, Multiplayer, Physics, Remake, sonic",About a half-hour,"HTML5, Windows, macOS, Linux"
+281,3005065,In development,4.9,7.0,"Doom, First-Person",A few seconds,Windows
+282,93366,Released,4.7,167.0,"Fairy Tale, Fantasy, Female Protagonist, Gay, Horror, Lesbian, LGBT, Romance, Story Rich, Yuri",About a half-hour,"HTML5, Windows, macOS, Linux"
+283,24492,Released,4.5,529.0,"Dating Sim, incubus, michaela-laws, Otome, seduce-me, seraphime-entertainment, vn",,"Windows, macOS, Linux"
+284,1466852,Released,4.6,440.0,"2D, Bullet Hell, Clicker, Endless, Ludum Dare 50, Pixel Art, Retro, Roguelike, Roguelite, Singleplayer",,"HTML5, Windows"
+285,762748,Released,4.8,62.0,"Female Protagonist, Isometric, melkhior, Pixel Art, Retro, Singleplayer, ZX Spectrum",,"Windows, macOS, Linux"
+286,907011,Released,4.9,50.0,"Co-op, Exploration, Multiplayer, Procedural Generation, Top-Down",A few minutes,Windows
+287,2500042,In development,4.8,162.0,"Fantasy, LGBT, Mystery, Narrative, Romance, Story Rich, supernatural, Twine",About a half-hour,"HTML5, Windows"
+288,1154240,Released,4.4,86.0,"Comedy, Dark, Dark Fantasy, Female Protagonist, Multiple Endings, Narrative, Otome, Romance, Story Rich",A few hours,"Windows, macOS, Linux, Android"
+289,37095,Released,4.6,104.0,"3D, Abstract, Atmospheric, Experimental, Exploration, Horror, Open World, Pixel Art, Singleplayer, Surreal",About a half-hour,Windows
+290,45920,In development,4.7,82.0,"2D, 90s, Arcade, Co-op, Local multiplayer, Minimalist, Multiplayer, party, Retro",A few minutes,"Windows, macOS, Linux"
+291,1368129,Released,4.8,79.0,"caverns, caves, Frogs, goblets, meat",,"Windows, macOS, Linux"
+292,398292,In development,4.4,655.0,"Dating Sim, Fantasy, LGBT, LGBTQIA, Medieval, Mystery, Romance",,"Windows, macOS, Linux"
+293,2438913,Released,4.9,33.0,"2D, 32-bit, Pixel Art, Retro, saturn, Singleplayer",,Windows
+294,2164148,Released,4.8,127.0,"Furry, Gay, LGBT, LGBTQIA, Male protagonist, Romance, storygame, Story Rich",,"Windows, macOS, Linux, Android"
+295,2235781,Released,4.7,984.0,"Dungeon Crawler, Roguelike, Roguelite, Strategy RPG, Turn-based, Turn-based Strategy",,"HTML5, Windows"
+296,1195065,In development,4.7,18.0,"16-bit, 2D, Anime, Fantasy, Manga, Pixel Art, RPG Maker, Sprites, Top-Down",,"HTML5, Windows, macOS, Linux, Android"
+297,756960,Released,4.5,422.0,"Clicker, Idle, Incremental, upgrades",A few minutes,HTML5
+298,3244929,In development,4.8,9.0,"Creepy, Dark, Dating Sim, Gore, Horror, Monsters, Multiple Endings, Romance",,"Windows, macOS, Linux"
+299,2991287,Released,4.8,177.0,"astronauts, Horror, Indie, monstrousdesires, Romance, Sci-fi, Short, Thriller, yandere",,"Windows, macOS, Linux"
+300,22755,Released,4.7,97.0,"Archery, competitive, Co-op, Local Co-Op, Local multiplayer, Multiplayer, Pixel Art, Versus, xna",A few minutes,"Windows, macOS, Linux"
+301,3264957,Released,5.0,1.0,"3D, Atmospheric, Creepy, Fangame, Horror, PSX (PlayStation), Psychological Horror, Retro, Survival Horror",About a half-hour,Windows
+302,568051,Released,4.5,404.0,"Creepy, Horror, meta, Parody",About a half-hour,"HTML5, Windows, macOS, Linux, Android"
+303,676118,Released,4.8,189.0,"Animals, Dogs, Furry, Gore, Horror, LGBT, lgbtq, LGBTQIA, Ren'Py, Violent",,"Windows, macOS, Linux, Android"
+304,2435983,Released,4.7,24.0,"Baldi's Basics, Fangame, five-nights-at-baldis, five-nights-at-baldis-redone, fnab, fnab-redone, Five Nights at Freddy's, Horror, Survival Horror",About a half-hour,"HTML5, Windows, Android"
+305,1232552,In development,4.8,276.0,"Cyberpunk, Horror, Romance, Sci-fi, Thriller",A few hours,HTML5
+306,503101,Released,3.9,96.0,"3D, Experimental, First-Person, Horror, horror-games, indie-horror, Mystery, Psychological Horror, Singleplayer, Story Rich",,Windows
+307,844056,Released,4.5,58.0,"3D, Action-Adventure, Open World, Pixel Art, Singleplayer",,Windows
+308,1598330,In development,4.6,30.0,"Demake, Doom, First-Person, halo, Sci-fi",,Windows
+309,148167,Released,4.2,23.0,"3D, 64-bit, Female Protagonist, Lo-fi, Low-poly, Retro, Sci-fi, Singleplayer, Space, Third-Person Shooter",A few minutes,Windows
+310,60473,Released,4.7,168.0,"drone, Flight, fpv, miniquad, multicopter, multirotor, quadcopter, quadrocopter, rc, simulator",,"Windows, macOS, Linux"
+311,770777,In development,4.3,12.0,"3D, Co-op, Exploration, fear-channel, First-Person, Horror, Multiplayer, parsec, Unity",A few minutes,Windows
+312,2556363,In development,4.4,54.0,"Bara, Furry, growth, mm, muscle, weight-gain",,"Windows, macOS, Linux"
+313,2129934,Prototype,4.6,49.0,"Action-Adventure, Boss battle, Dark Fantasy, Exploration, Low-poly, PSX (PlayStation), Retro, Short, Souls-like",About a half-hour,"Windows, macOS"
+314,1317078,In development,4.7,253.0,"cyoa, Dark Fantasy, Fantasy, Magic, Meaningful Choices, Mystery, Romance, Story Rich, Text based",A few hours,HTML5
+315,2404504,Released,4.8,6.0,"2D, Idle, Incremental, Indie, Pixel Art, Playdate, Retro, Short, Singleplayer",About a half-hour,
+316,2293807,Released,4.7,381.0,"2D, Atmospheric, Comedy, Horror, LGBT, Ludum Dare, Ludum Dare 54, Short, Singleplayer",About a half-hour,"Windows, macOS, Linux"
+317,294335,Released,4.6,456.0,"8-Bit, Anime, Casual, Cute, PICO-8, Pixel Art, Retro, Short, Singleplayer",A few minutes,HTML5
+318,890630,Released,4.6,64.0,"Game Boy, Game Boy ROM, gbstudio, Horror, Retro",,HTML5
+319,83945,Released,4.5,85.0,"2D, ascii, City Builder, god, Idle, Isometric, Ludum Dare 36, Minimalist, Retro, Text based",,"Windows, macOS, Linux"
+320,3188622,Released,4.6,34.0,"2D, Short, Singleplayer",,HTML5
+321,53265,In development,4.8,25.0,"2D, battle, collect, Cute, Pixel Art, pony, Strategy RPG, Top Down Adventure, Turn-Based Combat",A few minutes,"Windows, macOS, Linux"
+322,51634,Released,4.8,110.0,"2D, Co-op, greek, labyrinth, Local Co-Op, maze, minotaur, Multiplayer, Puzzle-Platformer",A few hours,Windows
+323,475008,In development,4.7,76.0,"2D, Beat 'em up, combos, GameMaker, Neon, Pixel Art, Singleplayer",About a half-hour,Windows
+324,884831,In development,4.8,1514.0,"2D, Female Protagonist, Manga, Pixel Art, Short",,"HTML5, Windows"
+325,1752950,Released,4.8,149.0,"2D, Creepy, Horror, Indie, Multiple Endings, Pixel Art, Retro, Singleplayer",A few hours,Windows
+326,493946,Released,4.1,323.0,"Fantasy, JRPG, Ludum Dare 45, Pixel Art, Story Rich",A few minutes,"HTML5, Windows, macOS"
+327,2741653,Released,4.5,117.0,"Creepy, Dark, Game Boy, Horror, Minimalist, Pixel Art, Short, Singleplayer, Surreal",,HTML5
+328,1914567,Released,4.6,206.0,"1990s, 3D, Creepy, Dark, First-Person, glitch, Horror, old-school, Spooky, Unity",,Windows
+329,1013672,Released,4.7,329.0,"2D, Dice, Ludum Dare 48, Pixel Art, Short",A few minutes,"HTML5, Windows, macOS, Linux"
+330,2097705,Released,4.7,195.0,"Comedy, Cozy, Cute, Dating Sim, Female Protagonist, josei, Otome, Relaxing, Romance, Slice Of Life",,"Windows, macOS, Linux"
+331,3212288,Released,4.4,12.0,"Horror, Short",,Windows
+332,266707,On hold,4.7,101.0,"Abstract, Atmospheric, First-Person, Horror, Surreal, Survival Horror, Third-Person Shooter, Violent",,Windows
+333,517892,Released,4.5,104.0,"2D, Detective, Game Boy, Mystery, Pixel Art, Retro",A few minutes,HTML5
+334,1936656,Prototype,4.5,118.0,"Horror, Otome, RPG Maker, Short, Singleplayer, yandere",,Windows
+335,652559,In development,4.6,12.0,"3D, Immersive, Oculus Quest, Physics, physics-melee, ragdoll, swordplay, Virtual Reality (VR), vr-physics",About a half-hour,Android
+336,2289361,In development,4.9,21.0,"bl, Boys' Love, Gay, Horror, Romance, Yaoi",About an hour,"Windows, macOS, Android"
+337,2652393,Released,4.9,158.0,"Amare, Character Customization, Fairy Tale, Fantasy, Otome, Romance",A few hours,"Windows, macOS"
+338,8557,Released,4.2,78.0,"Abstract, FPS, Horror, Retro, Unity",,"Windows, macOS"
+339,276184,Released,4.8,335.0,"depression, family, Female Protagonist, filipino, minimalistic, suicide, Text based",A few minutes,HTML5
+340,570504,Released,4.5,42.0,"2D, Sandbox, Violent",A few seconds,Windows
+341,186617,In development,4.8,136.0,"Arcade, Beat 'em up, brawler, Co-op, GameMaker, Local Co-Op, Local multiplayer, Multiplayer",A few minutes,Windows
+342,1548077,Released,4.5,53.0,"2D, 8-Bit, analoguepocket, Game Boy, Game Boy ROM, gbstudio, Pixel Art, Retro, Short, Speedrun",,HTML5
+343,3138765,Released,4.7,11.0,"Dogs, Furry, LGBT",,"Windows, Android"
+344,1785154,On hold,4.5,57.0,"3D, Difficult, First-Person, FPS, Gore, Low-poly, madness, Short, Singleplayer, Unity",About a half-hour,"HTML5, Windows"
+345,186617,In development,4.8,136.0,"Arcade, Beat 'em up, brawler, Co-op, GameMaker, Local Co-Op, Local multiplayer, Multiplayer",A few minutes,Windows
+346,1548077,Released,4.5,53.0,"2D, 8-Bit, analoguepocket, Game Boy, Game Boy ROM, gbstudio, Pixel Art, Retro, Short, Speedrun",,HTML5
+347,3138765,Released,4.7,11.0,"Dogs, Furry, LGBT",,"Windows, Android"
+348,337859,Released,4.5,147.0,"8-Bit, Atmospheric, Controller, Creepy, Cute, Female Protagonist, Non violent, Pixel Art, Short",A few minutes,HTML5
+349,1696393,Released,4.8,12.0,"blocks, Game Boy, Game Boy ROM, NES (Nintendo Entertainment System), NES ROM",,"Windows, macOS, Linux, Android"
+350,689669,Released,4.7,19.0,"Open Source, Pixel Art, Real time strategy, Sci-fi",About a half-hour,"Windows, macOS, Linux"
+351,65552,Released,4.9,17.0,"ants, dungeon-management, Real time strategy, Unreal Engine",A few seconds,"Windows, macOS, Linux"
+352,2863546,Released,4.3,151.0,"3D, Atmospheric, Funny, Horror, Monsters, Spooky, Survival Horror",A few minutes,"Windows, macOS"
+353,2338952,Released,5.0,212.0,"Atmospheric, Fantasy, JRPG, Kinetic Novel, Short",,"Windows, macOS, Linux"
+354,524424,Released,4.1,34.0,"3D, Fangame, First-Person, Horror, my-little-pony, pinkamena, ponies, Survival Horror, Unity",,"Windows, macOS, Android"
+355,2127567,In development,4.8,219.0,"Fantasy, Horror, LGBTQIA, Sci-fi, Story Rich, Twine",,HTML5
+356,1651362,Released,4.6,99.0,"3D, Atmospheric, Creepy, First-Person, Horror, Retro, Short, Singleplayer",,Windows
+357,1571992,Released,4.8,136.0,"2D, 3D, Atmospheric, Experimental, Horror, Lo-fi, Low-poly, PSX (PlayStation), Singleplayer, Spooky",,Windows
+358,91670,Released,4.7,89.0,"Horror, Point & Click, room-escape",,"Windows, macOS"
+359,381944,Released,4.7,274.0,"bl-game, Boys' Love, Gay, LGBTQIA, nanoreno, Ren'Py, Slice Of Life, Story Rich, Text based",,"Windows, macOS"
+360,195390,Released,4.7,533.0,"Dark, Female Protagonist, Horror, Multiple Endings, Otome, Romance, Spooky, Yuri",,"Windows, macOS, Linux"
+361,739541,In development,4.7,49.0,"Boys' Love, Fantasy, Yaoi",About an hour,"Windows, macOS, Linux"
+362,453349,Released,4.5,157.0,"2D, 8-Bit, Arcade, Horror, NES (Nintendo Entertainment System), Pixel Art, Retro, Spooky",,"HTML5, Windows, macOS"
+363,21746,In development,4.5,151.0,"Atmospheric, Cyberpunk, Dark, Experimental, Exploration, First-Person, glitch, mind-bending, Noir, weird",About a half-hour,"Windows, macOS, Linux"
+364,617803,Released,4.6,541.0,"2D, Fantasy, Funny, Godot, Ludum Dare 46, Open Source, Pixel Art, Short, Singleplayer",A few minutes,"HTML5, Windows, Linux"
+365,223568,Released,4.4,111.0,"16-bit, 2D, Anime, Arcade, Fangame, GameMaker, High Score, Pixel Art, Singleplayer",A few minutes,Windows
+366,296136,Released,4.6,94.0,"Demake, demakejam, PICO-8, Space Sim",,"HTML5, Windows, macOS, Linux"
+367,2697906,Released,5.0,8.0,"1-bit, 2D, 8-Bit, Arcade, Flying, Playdate, Retro, Shoot 'Em Up",A few minutes,
+368,54706,In development,4.5,155.0,"Action-Adventure, Action RPG, Atmospheric, Co-op, myth, mythology, Pixel Art",About an hour,"Windows, macOS"
+369,3265177,Released,4.5,4.0,"2D, 8-Bit, godo, Horror, Pixel Art, Psychological Horror, Retro, storygame, ZX Spectrum",,"HTML5, Windows"
+370,7614,Released,4.6,56.0,"Driving, Multiplayer, parking, saga",A few seconds,Windows
+371,1045805,Released,4.9,276.0,"Dating Sim, gxb, Horror, Otome, Psychological Horror, Romance",,
+372,296921,In development,4.5,196.0,"2D, 8-Bit, Arcade, Demake, Horror, Pixel Art, Retro",,"HTML5, Windows"
+373,804125,Released,4.8,31.0,"Atmospheric, Cute, First-Person, Horror, Low-poly, Singleplayer, Spooky, Spoopy, Walking simulator",,Windows
+374,3207047,In development,5.0,23.0,"Otome, Romance",About an hour,"Windows, macOS, Linux"
+375,1785555,In development,4.8,641.0,"PvP, Turn-based",About a half-hour,Windows
+376,193229,Released,4.6,79.0,"Horror, Indie, Mystery, Pixel Art, Point & Click, puzzles, Retro, Short, Singleplayer, Spooky",About a half-hour,"Windows, Linux"
+377,1140553,Released,4.3,55.0,"1-bit, 2D, Dungeon Crawler, Game Boy, Game Boy ROM, gb-studio, gbstudio, Roguelike, Roguelite",,HTML5
+378,3077380,Released,4.8,108.0,"Dating Sim, Fangame, Female Protagonist, Otome, Romance",About an hour,"HTML5, Windows, macOS"
+379,1684601,Released,4.8,439.0,"Character Customization, Dating Sim, Fantasy, Female Protagonist, LGBT, Meaningful Choices, Multiple Endings, Romance, Story Rich, Twine",A few hours,HTML5
+380,715721,In development,4.7,35.0,"2D, Cute, floraverse, Furry, Pixel Art, Retro, Singleplayer",,"Windows, macOS, Linux"
+381,119294,Released,4.8,68.0,"escape, Point & Click, secrets, skutnik, submachine",A few hours,Windows
+382,2862552,In development,4.8,48.0,"Economy, hardware, Management, Tycoon",A few hours,"HTML5, Windows, Linux"
+383,1915735,Released,4.7,23.0,"1-bit, celeste, Open Source, Playdate",A few minutes,
+384,63589,Released,4.6,517.0,"16-bit, 2D, Boss battle, Difficult, Experimental, GameMaker, Ludum Dare 35, Pixel Art, Puzzle-Platformer, weird",,Windows
+385,1922888,Released,4.7,63.0,"Controller, Endless, First-Person, FPS, movement, Robots, Singleplayer, Voxel",,"HTML5, Windows, Android"
+386,1879585,Released,4.5,275.0,"Atmospheric, Horror, Indie, PSX (PlayStation), Retro, Singleplayer, Story Rich, Voice Acting",A few hours,Windows
+387,59338,Released,4.3,32.0,"8-Bit, Boss battle, Difficult, Exploration, Female Protagonist, Metroidvania, princess, Retro, Robots, Space",A few hours,"Windows, Android"
+388,1744815,Released,4.8,407.0,"boba, boba-tea, Cats, Cute, Idle, Point & Click, shop-simulation, Tycoon, Working Simulator",A few minutes,HTML5
+389,1224810,Released,3.4,20.0,"3D, Atmospheric, Creepy, Horror, Multiplayer, Short, Singleplayer, Survival Horror",A few minutes,"Windows, Linux, Android"
+390,95189,In development,4.8,608.0,"1-bit, Exploration, Horror, Mystery, mythology, Retro, suspense, Text based, Turn-based, weird",About a half-hour,"Windows, macOS"
+391,1936153,In development,5.0,8.0,"3D, Third Person, Third-Person Shooter, Unreal Engine",A few seconds,"Windows, macOS, Android"
+392,232934,Released,4.7,429.0,"City Builder, Futuristic, Incremental, Management, Pixel Art, resource-management, Sci-fi, Singleplayer, Space, Space Sim",About an hour,HTML5
+393,2416091,Released,4.2,9.0,"2D, Anime, Christmas, girl-friend, ray_kbys, Ren'Py, sylvie, teaching-feeling",,"Windows, macOS, Linux, Android"
+394,1082044,Released,4.3,215.0,"City Builder, Economy, Endless, Farming, Management, Relaxing, Sandbox, Space",About an hour,"HTML5, Windows"
+395,2477228,Released,4.9,14.0,"2D, Arcade, Funny, live-action, Two Player, Versus",A few minutes,
+396,2656478,Released,4.3,206.0,"3D, Atmospheric, Creepy, creepypasta, First-Person, Horror, Low-poly, PSX (PlayStation), Short, Unity",,Windows
+397,1110444,Released,4.0,13.0,"customnight, fanmade, Five Nights at Freddy's, official, original, ultimate, ultra",,"Windows, Android"
+398,1893547,Released,4.8,53.0,"3D, Atmospheric, Creepy, First-Person, Horror, Pixel Art, Retro, Short, Story Rich, Text based",About a half-hour,Windows
+399,1893547,Released,4.8,53.0,"3D, Atmospheric, Creepy, First-Person, Horror, Pixel Art, Retro, Short, Story Rich, Text based",About a half-hour,Windows
+400,340666,Released,4.8,435.0,"Creative, Crime, Dystopian, Gay, Ludum Dare 43, Narrative, Pixel Art",,Windows
+401,147837,Released,4.6,207.0,"Anime, Cute, Dating Sim, Fantasy, Female Protagonist, Lesbian, LGBT, mermaid, Ren'Py, Yuri",About a half-hour,"Windows, macOS, Linux, Android"
+402,225997,Released,4.7,254.0,"Atmospheric, Casual, Exploration, First-Person, Narrative, Non violent, One-shot, Relaxing, Short, Singleplayer",About an hour,"Windows, macOS, Linux"
+403,40576,Released,4.7,376.0,"2D, Crime, Detective, Ludum Dare 32, Mystery, Point & Click, Touch-Friendly",A few minutes,HTML5
+404,916026,In development,4.7,721.0,,,HTML5
+405,251501,Released,4.9,55.0,"16-bit, frenzy, luigi, mario, power-star, power-star-frenzy, psf, randomnick, smpsf, super-mario",,Windows
+406,870996,Released,4.4,16.0,"Brain Training, Co-op, Escape Game, Unity",About an hour,Windows
+408,1348193,In development,4.6,184.0,"Dark Fantasy, Dystopian, Fantasy, LGBT, Romance, Text based, Twine",About a half-hour,HTML5
+409,1173730,Released,4.8,53.0,"Horror, Lovecraftian Horror, one-button, Pixel Art",,"Windows, macOS"
+410,3111636,Prototype,4.9,132.0,"Coming Of Age, Narrative, Short, Singleplayer, Slice Of Life, Story Rich, Surreal, weird",About a half-hour,"Windows, macOS, Linux, Android"
+411,1697686,Released,4.7,91.0,"Arcade, Local multiplayer, Multiplayer, social-deduction, Space",A few minutes,Windows
+412,2595922,In development,4.4,38.0,"Dragons, drama, Fantasy, First-Person, Romance, Sci-fi, Singleplayer, Slice Of Life",About an hour,"Windows, macOS, Linux"
+413,2295033,Released,4.8,608.0,"desktop, Experimental, Ludum Dare, Ludum Dare 54, Shoot 'Em Up, Top down shooter, Twin Stick Shooter, Vector, weird, windows",,"Windows, Linux"
+414,2089360,In development,4.4,46.0,"Crime, Furry, Gay, LGBT, LGBTQIA, Sci-fi",,"Windows, macOS"
+415,2510281,Released,4.4,192.0,"Horror, PSX (PlayStation), Short, Singleplayer",,Windows
+416,1228289,Released,4.5,145.0,"3D, Exploration, First-Person, Horror, PSX (PlayStation), Surreal",About an hour,Windows
+417,1993864,Released,4.7,325.0,"artgame, Atmospheric, Bitsy, Experimental, Minimalist, Narrative, Short, Simple, weird",A few minutes,HTML5
+418,2492047,Released,4.8,618.0,"3D, Female Protagonist, Indie, Singleplayer, Speedrun",,"Windows, Linux"
+419,552652,Released,4.7,1099.0,"3D, Atmospheric, Experimental, First-Person, Funny, glitch, mind-bending, Puzzle-Platformer, Unity",,"HTML5, Windows"
+420,41815,Released,4.5,144.0,"Cult Classic, Fantasy, GameMaker, glitch, Pixel Art, Roguelike",A few hours,"Windows, macOS, Linux"
+421,1362657,Released,4.8,2093.0,"2D, Cute, Deck Building, Dungeon Crawler, Pixel Art, Roguelike, Roguelite, Turn-based",About an hour,"HTML5, Windows, macOS, Linux"
+422,571792,Released,4.9,18.0,"Commodore 64, Pixel Art, Retro",,
+423,1441275,Released,4.9,102.0,"Amare, Fantasy, Gay, Horror, LGBT, Meaningful Choices, Otome, Romance, Text based",A few hours,"Windows, macOS, Linux"
+424,172500,Released,4.8,102.0,"Anime, Cute, Dating Sim, Female Protagonist, Life Simulation, Multiple Endings, Otome, Romance, Slice Of Life",,"Windows, macOS, Linux"
+425,1995997,Released,4.8,100.0,"Amare, Comedy, Dating Sim, LGBTQIA, prince, Ren'Py, Romance, Short, Text based",,"HTML5, Windows, macOS, Linux"
+426,2795465,Released,4.8,72.0,"2D, bo-noise, Fangame, Funny, mod, noise, Pixel Art, Pizza Tower, Singleplayer",About a half-hour,Windows
+427,1504397,Released,4.6,71.0,"2D, Anime, Boys' Love, Dating Sim, Gay, LGBT, Romance, Slice Of Life, Yaoi",About an hour,"Windows, macOS, Linux, Android"
+428,457614,In development,4.7,63.0,"2D, City Builder, Retro",A few hours,"Windows, macOS, Linux"
+429,2557309,In development,4.8,110.0,"3D, blocks, Multiplayer",About a half-hour,"Windows, macOS, Linux"
+430,415291,Released,4.5,536.0,"2D, Casual, Comedy, Cute, Dark, Ludum Dare 44, minigames, wolvesden",,HTML5
+432,716894,Released,4.3,75.0,"3D, Arcade, First-Person, Halloween, Horror, Pixel Art, Procedural Generation, Spooky, Survival Horror, Unity",A few minutes,"HTML5, Windows"
+433,1850948,Released,5.0,10.0,"Furry, lagoon-lounge, sfw",,"Windows, Android"
+434,1072604,In development,4.7,56.0,"3D, Arcade, Cyberpunk, Dystopian, Flight, Flying, Futuristic, Space",A few minutes,"HTML5, Windows, Linux"
+435,802074,Released,4.6,87.0,"Co-op, cowboy, Doom, Multiplayer, online, red-dead-redemption, shaggy, shaggy-online, shaggy-ultra-instinct",,"HTML5, Windows"
+436,2907459,Released,4.8,88.0,2D,A few minutes,HTML5
+437,244653,Released,4.7,110.0,"Anime, Female Protagonist, Life Simulation, Meaningful Choices, Otome, Ren'Py",,"Windows, macOS, Linux"
+438,2386872,Released,4.8,15.0,"Fangame, Five Nights at Freddy's, Horror, Meme, terror",,"HTML5, Android"
+439,1626585,In development,4.5,27.0,"Low-poly, on-rails, Retro, Shoot 'Em Up, space-harrier, star-fox, starfox, stg",,"Windows, macOS, Linux"
+440,1683722,Released,4.8,60.0,"Boys' Love, Comedy, Cute, Indie, Kinetic Novel, LGBT, Romance, Slice Of Life, Yaoi",,"Windows, macOS, Linux"
+441,1523251,Released,4.9,19.0,"1-bit, botany, Comics, Hand-drawn, Playdate, Retro, Space",,
+442,1410244,Released,4.9,106.0,"Horror, Low-poly, Multiple Endings, Mystery, Narrative, Point & Click, Retro, Singleplayer, Surreal",,
+443,24484,In development,4.7,464.0,"Dating Sim, Female Protagonist, First-Person, Management, Moddable, Multiple Endings, Ren'Py, Romance, Story Rich",A few hours,"Windows, macOS, Linux"
+444,240797,Released,4.5,786.0,"1-bit, Frogs, Indie, minit, Retro, Speedrun, Time Attack",A few seconds,"Windows, macOS, Linux"
+445,240855,Released,4.8,153.0,"aprils-fool, Comedy, Ren'Py, Slice Of Life, va-11-hall-a",,"Windows, macOS, Linux"
+446,1482363,In development,4.9,56.0,"5, Boys' Love, Fangame, Multiple Endings, persona, persona-5",,"Windows, macOS"
+447,924919,Released,4.5,62.0,,,"Windows, macOS, Linux"
+448,3271271,In development,5.0,5.0,"3D, Creepy, First-Person, Horror, Indie, Retro, Short, Singleplayer, Unity",About a half-hour,Windows
+449,573563,Released,4.7,143.0,"2D, Atmospheric, Minimalist, Pixel Art, RPG Maker, Short",About a half-hour,"Windows, macOS, Linux"
+450,730766,Released,4.6,85.0,"2D, builder, Clicker, Idle, Incremental, Management",,"Windows, macOS, Linux, Android"
+451,76077,In development,4.8,173.0,"caves, haunty-tonk, kentucky, Magical Realism",A few hours,"Windows, macOS, Linux"
+452,1391574,Prototype,4.7,248.0,,,"Windows, macOS, Linux"
+453,47011,Prototype,4.6,265.0,"Abstract, Difficult, Endless, Ludum Dare, Ludum Dare 34, Minimalist, Procedural Generation",A few minutes,HTML5
+454,129655,Released,4.8,633.0,"Colorful, Cute, Dating Sim, LGBT, Multiple Endings, Ren'Py",A few hours,"Windows, macOS, Linux"
+455,1963253,In development,4.9,266.0,"Dating Sim, mafia, mafiafell, Mystery, Noir, Romance, Twine, Undertale",About a half-hour,HTML5
+456,263277,Released,4.8,80.0,"Anime, Fantasy, Female Protagonist, Lesbian, LGBT, Mystery, Romance, supernatural, Yuri",,"Windows, macOS, Linux"
+457,2414536,In development,4.8,12.0,"2D, Furry, Gay, LGBT, muscle",,"Windows, macOS"
+458,188760,Released,4.8,105.0,"artgame, collaboration, collection, Experimental, First-Person, gallery, museum, party-game, Walking simulator, zine",,"Windows, macOS, Linux"
+459,1101792,Released,4.9,130.0,"Anime, Cute, Dating Sim, Fantasy, Female Protagonist, Otome, Romance, Singleplayer, Story Rich",,"HTML5, Windows, macOS, Linux"
+460,254149,In development,4.4,50.0,,,"Windows, macOS"
+461,1599314,Released,4.8,80.0,"2D, Atmospheric, Dark, Gay, Lesbian, LGBT, Ren'Py, Short, Yuri",About an hour,"Windows, macOS, Linux, Android"
+462,1171180,Released,4.9,64.0,"analogue-pocket, Game Boy, Game Boy ROM, gbstudio, Narrative, Pixel Art, pocket, Story Rich",About a half-hour,HTML5
+463,2277001,Released,4.9,42.0,"3D, Atmospheric, Cozy, Cute, Low-poly, Meaningful Choices, Narrative, Singleplayer, Story Rich",,HTML5
+464,2474768,In development,4.6,62.0,"Amare, Dark, Dating Sim, Horror, Meaningful Choices, Multiple Endings, Mystery, Psychological Horror, Romance",,"HTML5, Windows, macOS, Linux"
+465,876894,Released,4.7,75.0,"Atmospheric, GameMaker, Pixel Art, Relaxing, Tentacles, Typing",A few minutes,"HTML5, Windows, Linux"
+466,2768439,Released,4.9,107.0,"2D, 3D, Bullet Hell, Fangame, Pixel Art, Singleplayer",,"Windows, macOS"
+467,528240,Released,4.8,51.0,"Atmospheric, dont, escape, Escape Game, Pixel Art, Point & Click, Singleplayer, Story Rich",,"Windows, macOS"
+468,1145806,In development,4.5,33.0,"First-Person, FPS, Retro, slaughter",,Windows
+469,383934,Released,4.9,50.0,"Atmospheric, Exploration, Fantasy, Female Protagonist, Gore, orc, Pixel Art, Retro, Story Rich",About an hour,"Windows, Linux"
+470,998672,In development,4.9,8.0,"Dungeon Crawler, First-Person, grid-based",About an hour,"Windows, Linux"
+471,69899,Released,4.4,51.0,"2D, Anime, Halloween, Multiple Endings, Mystery, novela-visual, Ren'Py, Romance, spanish",About an hour,"Windows, macOS, Linux, Android"
+472,1521100,Released,5.0,24.0,"Dungeon Crawler, ZX Spectrum",,
+473,2357907,Released,4.6,28.0,"Atmospheric, Creepy, First-Person, Liminal space, Mystery, Psychological Horror, Spooky, Surreal, Walking simulator, weird",About a half-hour,"Windows, macOS, Linux"
+474,508242,Released,4.7,75.0,"Pixel Art, Short, Singleplayer",About a half-hour,Windows
+475,2289267,Released,4.4,137.0,"3D, Creepy, Dark, Exploration, First-Person, Horror, Indie, Psychological Horror, Short, Singleplayer",A few minutes,Windows
+476,1806064,In development,5.0,7.0,"Arcade, Emulator, Indie, mame, Oculus Quest, Retro, Unity, Virtual Reality (VR)",,
+477,543894,Released,4.8,41.0,"Animals, Game Boy, Pixel Art, Retro, witch",A few minutes,HTML5
+480,1881272,In development,4.0,32.0,"inflation, pregnant, Slime",,"Windows, macOS"
+481,1353356,Released,4.4,150.0,"3D, Atmospheric, Creepy, First-Person, Horror, Psychological Horror, Short, Singleplayer, spanish, Unreal Engine",,"Windows, macOS"
+482,1500707,Released,4.7,336.0,"2D, Anime, Cute, Female Protagonist, Lesbian, LGBT, RPG Maker, Short, Yuri",A few minutes,"HTML5, Windows, macOS, Linux"
+483,491622,Released,4.5,79.0,"3D, Aliens, Atmospheric, Destruction, Experimental, First-Person, Low-poly, political, Singleplayer",About a half-hour,"Windows, macOS, Linux"
+484,1514131,Released,4.8,4.0,"caper, Christmas, Commodore 64, designs, quasimodo, rwx",A few minutes,
+485,2770217,In development,4.7,28.0,"Cozy, Cute, Horror, skittering-peaks",,HTML5
+492,610128,Released,4.3,100.0,"hauntedps1, Horror, Low-poly, PSX (PlayStation), underwater",,"Windows, macOS, Linux"
+493,901999,Released,4.4,172.0,"2D, Atmospheric, Casual, Experimental, Exploration, Global Game Jam, Management, Open World, Relaxing, Trading",About a half-hour,"HTML5, Windows, macOS, Linux"
+494,1904297,In development,4.5,22.0,,,"HTML5, Windows, macOS, Linux, Android"
+495,364611,In development,4.7,203.0,"2D, Casual, Cute, Fantasy, Farming, Pixel Art, Romance, Singleplayer, Unity",,"Windows, macOS, Linux"
+496,1693823,Released,4.7,88.0,"2D, PICO-8, Pixel Art, Tower Defense",,HTML5
+497,2448117,Released,4.7,86.0,"2D, Christmas, collection, Creepy, Cute, Female Protagonist, Pixel Art, RPG Maker, Short",A few minutes,"Windows, macOS, Linux"
+498,2873212,Released,4.6,271.0,"3D, Cute, Female Protagonist, Horror, Indie, Low-poly, PSX (PlayStation), Psychological Horror, Retro, Short",About a half-hour,Windows
+499,2578651,Released,4.7,98.0,"Action-Adventure, Action RPG, Cute, elf, Exploration, Female Protagonist, Pixel Art, Short, Top-Down",About a half-hour,"HTML5, Windows, macOS, Linux"
+500,1568247,Released,4.9,8.0,"collectathon, Colorful, Cute, insects, nature, Open Source, pangea-software, Remake, source-port, Third Person",A few minutes,"Windows, macOS, Linux"
+501,403815,In development,4.7,47.0,"Exploration, Game Boy, Metroidvania, Pixel Art, Puzzle-Platformer, Retro, Singleplayer, Unity",About a half-hour,"Windows, macOS, Linux"
+502,344507,Released,4.5,57.0,"2D, Local Co-Op, Local multiplayer, Mechs, party-game, Pixel Art, Robots, Romance, Split Screen",About a half-hour,"Windows, macOS, Linux"
+503,1325702,Released,4.8,19.0,"Anime, chinese, Gacha, guns-girlz, japanese, mihoyo, tool, translation, Zombies",,"Windows, macOS, Linux, Android"
+504,792758,Released,4.7,68.0,"2D, Animals, Clicker, Cute, Dark Humor, Dogs, GameMaker, Idle",,Windows
+505,1713484,In development,4.7,113.0,"Dating Sim, Fantasy, LGBT, LGBTQIA, Magic, Queer, Romance, Story Rich, Text based, Twine",,HTML5
+506,2265699,In development,4.3,29.0,,,"Windows, macOS, Linux, Android"
+507,1450561,Released,4.4,26.0,"2D, Cute, Dating Sim, Furry, Ren'Py, Short, Singleplayer",About a half-hour,"Windows, macOS"
+508,1653752,Released,4.7,22.0,"Gacha, Gacha Club",,"Windows, Android"
+509,3193556,Released,4.8,22.0,"Boys' Love, Christmas, Comedy, Family Friendly, LGBT, LGBTQIA, Romance, Story Rich, Transgender",A few seconds,"Windows, macOS, Android"
+510,2709861,In development,4.8,5.0,"3D, Atmospheric, Creepy, Dinosaurs, First-Person, Horror, Indie, Retro, Singleplayer, Unreal Engine",About a half-hour,Windows
+511,84541,Released,4.2,142.0,"Boys' Love, Comedy, Dating Sim, Gay, LGBT, Multiple Endings, Romance, spies, Yaoi",A few seconds,"Windows, macOS, Linux, Android"
+512,415510,Released,4.0,114.0,"2D, Mouse only, Pixel Art, Sandbox, Singleplayer, Turn-based, Turn-based Strategy, War",,"HTML5, Windows, macOS"
+513,264662,Prototype,4.1,45.0,"Atmospheric, First-Person, Horror, Multiplayer, Survival Horror, Tower Defense",A few seconds,"Windows, macOS, Linux"
+514,2032527,Released,4.9,164.0,"Cozy, cyoa, Dating Sim, Exploration, Fantasy, Singleplayer, underswap, Undertale",A few hours,HTML5
+515,2032040,Released,4.9,100.0,"Dating Sim, dottore, genshin, il-dottore, impact, Otome, Singleplayer",,"Windows, macOS, Linux, Android"
+516,271459,Released,4.8,702.0,"Character Customization, Characters, customization, dress, dress-up, Gacha, gacha-simulator, gachaverse, lunime",,Windows
+517,1914196,Released,4.6,145.0,"Atmospheric, Creepy, Dark, First-Person, Horror, monochrome, ps1, PSX (PlayStation), Psychological Horror, vhs",About a half-hour,Windows
+518,1583573,Released,4.8,71.0,"Horror, Lesbian, LGBT, LGBTQIA, Queer, Vampire",,HTML5
+519,543813,In development,4.5,330.0,"Escape Game, Point & Click",,"Windows, macOS"
+520,1432620,In development,3.7,37.0,"3D, Co-op, First-Person, Ghosts, Horror, Low-poly, Multiplayer, phasmophobia, Voice Acting",A few minutes,"HTML5, Windows, Android"
+521,2693638,Prototype,4.7,12.0,"3D, Co-op, Horror, Low-poly, Multiplayer, PSX (PlayStation), Retro, Survival Horror, Third Person",About a half-hour,Windows
+522,1687693,In development,4.4,30.0,"3D, Cartoon, changed, Cute, Difficult, Fangame, Horror, Singleplayer, Unreal Engine",A few hours,Windows
+523,746675,Released,4.9,23.0,"Anime, Female Protagonist, Ghosts, Horror, Lesbian, LGBT, Romance, Sci-fi, Thriller, Yuri",A few hours,"Windows, macOS, Linux, Android"
+524,27564,Prototype,4.8,72.0,Cyberpunk,,
+525,65747,Released,4.7,584.0,"Action-Adventure, Dating Sim, Fantasy, free, indonesia, nusantara, Otome, Romance, tribal, winged",,"Windows, macOS, Linux"
+526,276535,Released,4.6,280.0,"Bara, coming-out, Dating Sim, Gay, LGBT, Queer, Romance, Slice Of Life, Yaoi",A few hours,"Windows, macOS, Linux, Android"
+527,2816104,Released,4.7,13.0,"3D, First-Person, FPS, Horror, Indie, PSX (PlayStation), Retro, Survival Horror, War",A few minutes,Windows
+528,1770250,Released,4.5,275.0,"3D, Atmospheric, Cute, First-Person, Horror, Retro, Singleplayer",,
+529,336439,Prototype,4.5,37.0,"2D, Metroidvania, Pixel Art",,Windows
+530,1168467,Released,4.9,12.0,"Board Game, Chess, Mouse only, Multiplayer, Pixel Art, Space",A few seconds,"Windows, Linux"
+531,1555657,Released,4.7,400.0,"2D, Arcade, Bullet Hell, Endless, Pixel Art, Retro, Roguelike, Score Attack, Singleplayer, Top-Down",,"HTML5, Windows"
+532,906496,Released,4.4,60.0,"Abstract, disturbing, Exploration, Halloween, Horror, Point & Click, secrets, Surreal, weird",A few minutes,Windows
+533,2592473,Released,4.8,147.0,"2D, Creepy, Cute, Female Protagonist, Horror, LGBT, LGBTQIA, Pixel Art, RPG Maker, Short",About an hour,"Windows, macOS, Linux"
+534,3261154,Released,5.0,1.0,,,
+535,2243754,Released,4.8,56.0,"Fairy Tale, folk-horror, Horror, Magic, Multiple Endings, Psychological Horror, witch",,"Windows, macOS, Linux"
+536,167215,Released,4.4,136.0,"artificial-intelligence, Cyberpunk, Mouse only, Robots, Sci-fi, Story Rich, Twine",About a half-hour,"Windows, macOS, Linux"
+537,144873,Released,4.5,239.0,"2D, Atmospheric, Exploration, Hand-drawn, Narrative, Non violent, Point & Click",About a half-hour,"Windows, macOS"
+538,1513769,Released,4.4,35.0,"3D, Baldi's Basics, fake-education, First-Person, foxo, Horror, Survival Horror, Unity, weird",A few hours,"Windows, Linux"
+539,2227877,Released,4.5,102.0,"8-Bit, analogue-pocket, Game Boy, Game Boy ROM, gbstudio, Horror, Metroidvania, Speedrun",About a half-hour,HTML5
+540,1466480,Released,3.8,21.0,"2D, Anime, Comedy, Fantasy, Funny, Multiple Endings, Parody, Ren'Py, Story Rich",,"Windows, macOS, Linux, Android"
+541,2212770,Released,4.4,8.0,"3D, 3D Platformer, Low-poly, Short, Singleplayer",,"Windows, Linux, Android"
+542,987268,Released,4.3,24.0,"3D, Atmospheric, Co-op, First-Person, Horror, Multiplayer, pixel, PSX (PlayStation), Unity",About an hour,Windows
+543,1130050,Released,4.5,316.0,"Atmospheric, haunted-ps1, Horror, ps1, PSX (PlayStation), resident-evil, scary, Short, silent-hill, Unity",About a half-hour,"Windows, macOS, Linux"
+544,245298,Released,4.5,342.0,"Female Protagonist, norway, Pixel Art, Point & Click, Retro, Sci-fi, Story Rich",About a half-hour,"Windows, macOS, Linux"
+545,2676999,In development,4.8,9.0,"geography, map, observation, War",,"Windows, macOS, Linux"
+546,1519850,Released,4.4,119.0,"3D, Atmospheric, Creepy, First-Person, Horror, Psychological Horror, Retro, Short, Singleplayer",,Windows
+547,173796,Released,4.7,388.0,"3D, Exploration, First-Person, Horror, Lo-fi, Retro, Singleplayer, Story Rich, Walking simulator",About an hour,"Windows, macOS"
+548,2715023,Released,4.9,110.0,Golf,,
+549,2805989,In development,4.8,48.0,"Dating Sim, josei, Life Simulation, Otome, Romance, Slice Of Life",,"Windows, macOS"
+550,35729,Released,4.6,99.0,"3D, Abstract, artgame, Atmospheric, Experimental, Exploration, First-Person, Horror, Pixel Art, Singleplayer",A few minutes,Windows
+551,2943487,Released,4.9,14.0,"Horror, Lovecraftian Horror, Meaningful Choices, Monsters, monstrousdesires, Romance, spooktober24",,"HTML5, Windows"
+552,483287,On hold,4.9,15.0,"Historical, ocean, Physics, realistic, Sailing, sea, ship, slow, weather",About a half-hour,Windows
+553,16569,Prototype,4.5,115.0,"Arcade, Driving, Retro, Time Attack",About a half-hour,"Windows, macOS, Linux"
+554,736669,Released,4.5,40.0,"Multiplayer, Touhou",A few minutes,"HTML5, Windows"
+555,1002252,In development,4.4,23.0,"3D, Arcade, Top down shooter, Unity",A few minutes,Windows
+556,901232,Released,4.4,71.0,"arctic, dinohazard, Dinosaurs, hazard, Horror, snow",,Windows
+557,34954,In development,4.6,50.0,"16-bit, 2D, Arcade, Local Co-Op, Pixel Art, Retro, Shoot 'Em Up, Side Scroller",A few minutes,Windows
+558,50324,Released,4.5,189.0,"2D, Anime, demo, Gothic, Romance, Story Rich, Yaoi",A few hours,"Windows, macOS, Linux, Android"
+559,1924481,In development,4.9,50.0,"Comedy, Dating Sim, LGBT, Multiple Endings, Otome, Romance",,"Windows, macOS, Linux"
+560,1454757,In development,4.8,432.0,"Comedy, Dark Humor, Horror, LGBT, Monsters, Mystery, Narrative, Romance, Twine",About a half-hour,HTML5
+561,1027533,Released,4.7,182.0,"Amare, Atmospheric, drama, Fantasy, Female Protagonist, Indie, Otome, Romance, Sci-fi",,"Windows, macOS"
+562,196960,Released,4.4,306.0,"City Builder, communist, Experimental, leftist, socialist, utopia",A few minutes,"HTML5, Windows, macOS, Linux"
+563,138180,Released,4.7,48.0,"3D, Exploration, Life Simulation, Low-poly, mind-bending, Non violent, Open World, Procedural Generation, Sandbox, Third Person",A few hours,"Windows, macOS, Linux"
+564,2988671,Released,5.0,6.0,"Exploration, Hand-drawn, Mystery, Spooky",About a half-hour,"Windows, macOS"
+565,1533594,Released,4.6,9.0,"Arcade, classic, comecocos, Ghosts, maze, pacman, Playdate",,
+566,822886,Released,4.6,127.0,"3D, First-Person, FPS, guns, Low-poly, Unity, wave-based, Zombies",About a half-hour,"HTML5, Windows"
+567,505117,Released,4.7,257.0,"Funny, Mystery, Point & Click, Short, Singleplayer, Story Rich",A few minutes,"HTML5, Windows, macOS, Linux, Android"
+568,203447,Released,4.3,28.0,"Arcade, Commodore 64, luftrauserz, paul-koller, Retro, rgcd, Shoot 'Em Up, vlambeer",,"Windows, macOS, Linux"
+569,2911462,In development,4.6,23.0,,,Windows
+570,874491,In development,4.7,63.0,"Comedy, Dating Sim, Female Protagonist, Narrative, Otome, Romance, Slice Of Life, Story Rich",A few hours,"Windows, macOS, Linux"
+571,24775,Prototype,4.6,99.0,"Arcade, Music, Western",,"Windows, macOS, Linux"
+572,322138,Released,4.5,122.0,"First-Person, glitch, Horror, mind-bending, psychedelic, Retro, Sci-fi, Short, Story Rich",,Windows
+573,76416,In development,4.3,472.0,"3D, artgame, Atmospheric, Experimental, islands, liminal, Surreal",About an hour,"Windows, macOS, Linux"
+574,266192,Released,4.5,328.0,"2D, Fantasy, Management, Pixel Art, Procedural Generation, Sandbox, Singleplayer, Top-Down",A few minutes,"Windows, macOS, Linux"
+575,694019,In development,4.2,166.0,"Atmospheric, Creepy, Dark, Game Maker's Toolkit Jam, Horror, Narrative, Psychological Horror, Short, Singleplayer, Unity",,"HTML5, Windows, macOS"
+576,275634,In development,4.8,88.0,"Crime, Cyberpunk, espionage, Hacking, Unity",,"Windows, macOS"
+577,774375,Released,4.8,156.0,"Atmospheric, Exploration, Horror, Multiple Endings, Psychological Horror, Short, Singleplayer, Spooky, Voice Acting",,"Windows, macOS, Linux"
+578,2151837,Released,5.0,29.0,"1-bit, crawler, dungeon, Fantasy, pixel, Playdate, Retro, rogue, Roguelike, Swords",A few minutes,
+579,2483551,Prototype,4.2,128.0,"3D, Atmospheric, Casual, environmental-storytelling, Low-poly, Narrative, Pixel Art, Relaxing, Slice Of Life",,Windows
+580,1554930,Released,4.6,53.0,"Comedy, Dark Humor, First-Person, Horror, Narrative, PSX (PlayStation), Short, Singleplayer, Transgender",About a half-hour,"Windows, macOS, Linux"
+581,97247,In development,4.7,119.0,"3D, Atmospheric, Dark, demo, Experimental, Exploration, fractal, raymarching",About an hour,"Windows, Linux"
+582,350932,Released,4.5,60.0,"2D, 8-Bit, Creepy, Game Boy, garfield, Horror, lasagna, Pixel Art, Singleplayer",About a half-hour,Windows
+583,213104,Released,4.5,29.0,"2D, 8-Bit, Arcade, LÖVE, Open Source, PICO-8, Puzzle-Platformer",About an hour,"Windows, macOS, Linux"
+584,2718126,Released,4.6,26.0,"Atmospheric, Difficult, First-Person, Horror, Mouse only, Singleplayer, Survival Horror, weird",About a half-hour,"HTML5, Windows, Linux"
+585,45666,Released,4.7,209.0,"Point & Click, room-escape",About an hour,"Windows, macOS"
+586,208387,Released,4.1,51.0,"Colorful, Comedy, Cult Classic, dad, family, fumblecore, Low-poly, octodad, octopus, Physics",A few minutes,"Windows, macOS"
+587,2027635,Released,4.6,259.0,"Atmospheric, Cozy, Cute, Female Protagonist, Minimalist, Narrative, Relaxing, Short, Slice Of Life",A few minutes,"HTML5, Windows, macOS"
+588,1397439,Released,4.7,286.0,"Anime, Boys' Love, Dating Sim, LGBT, Multiple Endings, Otome, Romance, Slice Of Life, Yaoi",About an hour,"Windows, macOS, Linux"
+589,2115216,In development,4.8,68.0,"Horror, shady-doctors, yandere",,"Windows, macOS"
+590,2540266,Released,4.9,18.0,"Deck Building, Roguelike, yugioh",A few hours,"Windows, macOS, Linux"
+591,405098,In development,4.7,22.0,"16-bit, Arcade, Homebrew, Mega Drive, retrogaming, sega, Sega Genesis, shoot, Shoot 'Em Up",A few minutes,"Windows, macOS, Linux, Android"
+592,317725,Prototype,4.7,164.0,"2D, Experimental, Music, Mystery, Pixel Art, Top Down Adventure, Undertale",A few minutes,Windows
+593,3273350,Released,5.0,4.0,"2D, Casual, Comedy, Fast-Paced, ggj2025, Manga, speech-bubbles",A few minutes,"Windows, Linux"
+594,2611118,In development,4.4,42.0,"2D, Casual, Fantasy, LGBT, LGBTQIA, Ren'Py, Short, Singleplayer, Story Rich, watercolor",About a half-hour,"Windows, macOS, Linux, Android"
+595,1983398,In development,4.8,64.0,"Action-Adventure, Alternate History, Amare, Dating Sim, Fantasy, Female Protagonist, Otome, Romance, Story Rich",,"Windows, macOS"
+596,361167,Released,4.1,59.0,"2D, Abstract, Board Game, Medieval, Turn-based",A few minutes,"Windows, macOS, Linux, Android"
+597,3269259,In development,5.0,3.0,"2D, Boss battle, Female Protagonist, Pixel Art, Roguelike",,"HTML5, Windows"
+598,2928838,Released,4.6,13.0,"Creepy, Dark, Dating Sim, Horror, Romance",,"Windows, macOS, Linux"
+599,753695,Released,4.0,38.0,"Horror, hunt, jumpscare, night, nightmare, scary, Siren Head, sirenhead, terror",,Windows
+600,844712,Released,4.9,55.0,"eufree, Lovecraftian Horror, Pixel Art, RPG Maker",,Windows
+601,491795,In development,4.4,14.0,"Action-Adventure, Action RPG, Exploration, Horror, Pixel Art, Psychological Horror, RPG Maker, Story Rich",About a half-hour,Windows
+602,91655,Released,4.7,194.0,"3D, artgame, Controller, First-Person, mind-bending",About a half-hour,Windows
+603,1277911,On hold,4.8,21.0,"3D, Arena Shooter, Fast-Paced, First-Person, FPS, Low-poly, Multiplayer, non-eucledian, party-game, PvP",A few minutes,Windows
+604,871639,In development,4.4,65.0,"Clicker, Idle, Incremental, Mouse only, Sci-fi",A few minutes,HTML5
+605,902378,Released,4.8,589.0,"Fishing, Game Jam, narrative-experiment",A few minutes,"HTML5, Windows, Linux"
+606,1829735,In development,4.9,106.0,"Casual, Colorful, Cute, Funny, Hand-drawn, minigames, Music, Score Attack, wholesome",,"Windows, macOS, Linux"
+607,687194,In development,4.1,11.0,"3D, Atmospheric, Creepy, Dark, Horror, Short, Singleplayer, Survival Horror, Unity",A few minutes,"Windows, Android"
+608,30023,Released,4.6,73.0,"half-life-2, hotline-miami, mashup",A few minutes,Windows
+609,1913917,Released,4.7,66.0,"Bullet Hell, Cute, Deck Building, Dungeon Crawler, Narrative, Roguelike, Roguelite, witch",A few minutes,"HTML5, Windows, macOS, Linux"
+610,108822,Released,4.5,80.0,"2D, artgame, Dating Sim, Hand-drawn, Romance, Short, sitting-simulator, Story Rich",,Flash
+611,93957,Released,4.4,180.0,"2D, Atmospheric, chilling, Halloween, Horror, Pixel Art, Point & Click, Singleplayer, snow, winter",A few minutes,"Windows, macOS, Linux"
+612,303420,Released,4.5,174.0,"Altgame, artgame, Atmospheric, Experimental, Female Protagonist, Horror, LGBT, Lo-fi, Queer, Retro",About an hour,Windows
+613,1603336,Released,4.2,39.0,"Amare, amaregame, Dating Sim, Fantasy, LGBT, Otome, Queer, Romance, Transgender, Yuri",About a half-hour,
+614,2046487,In development,4.4,310.0,"2D, autobattler, Fantasy, Godot, Hand-drawn, inventory-management, Roguelike",,"HTML5, Windows"
+615,66078,Released,4.5,75.0,"First-Person, FPS, Gore, Monsters, Pixel Art, Retro, secrets, Short, Singleplayer",A few seconds,"Flash, Windows"
+616,17999,Released,4.5,94.0,,About a half-hour,"Windows, macOS"
+617,23890,Released,4.6,118.0,"ambient, Gardening, Ludum Dare 32, Sci-fi, Story Rich, War",A few hours,"Windows, macOS"
+618,1456067,Released,4.3,113.0,"3D, First-Person, FPS, Horror, Short, shrek, Singleplayer, the-backrooms",A few minutes,"Windows, macOS, Linux"
+619,62055,Released,4.4,50.0,"2D, Action RPG, Anime, Arcade, Beat 'em up, Dungeon Crawler, Hand-drawn, Local multiplayer, Singleplayer",About a half-hour,Windows
+620,2075599,Released,5.0,65.0,"Fantasy, Furry, Magic, Male protagonist, Meaningful Choices, Medieval, Multiple Endings, Singleplayer, storygame, Text based",,
+621,2258019,In development,5.0,10.0,"Historical, Pirates, Sailing, Singleplayer",A few hours,Windows
+622,65346,Released,4.6,196.0,"Atmospheric, Coming Of Age, Female Protagonist, Horror, Pixel Art, RPG Maker",About a half-hour,Windows
+623,4508,Released,4.4,173.0,"airships, Alternate History, Moddable, Pixel Art, Real time strategy, Steampunk",About a half-hour,"Windows, macOS, Linux"
+624,1981202,Released,4.8,41.0,"Comedy, josei, Multiple Endings, Otome, Ren'Py, Romance",A few minutes,"HTML5, Windows, macOS, Linux, Android"
+625,1046535,Released,4.9,14.0,"3D, Casual, Co-op, Fast-Paced, gamepad, Local Co-Op, Local multiplayer, Multiplayer",About a half-hour,"Windows, macOS, Linux"
+626,675125,In development,4.7,38.0,"2D, Difficult, glitch, Horror, Music, Pixel Art, psychedelic, Singleplayer, Unity",A few minutes,Windows
+627,874826,In development,4.8,601.0,"hololive, Singleplayer",,"HTML5, Windows"
+628,416835,Released,4.7,170.0,"1-bit, 2D, Bitsy, Dark, Forest, Minimalist, Narrative, Pixel Art, Retro, Short",A few minutes,HTML5
+629,1967420,Released,4.8,333.0,"2D, Atmospheric, Cute, Fantasy, mushroom, nature, Pixel Art, Short, Singleplayer",,"HTML5, Windows"
+630,3266756,Released,5.0,11.0,"2D, Singleplayer, Unity",About a half-hour,Windows
+631,1338127,Released,4.7,111.0,"1-bit, 2D, 8-Bit, Cute, Farming, Management, moth, Pixel Art, Relaxing, Virtual Pet",About a half-hour,"HTML5, Windows, macOS"
+632,3141283,Released,4.5,58.0,"Bara, Cozy, Furry, Gay, novembear2024",,"HTML5, Windows, macOS, Linux, Android"
+633,1332375,Released,4.7,162.0,"artgame, Pixel Art, Short",A few minutes,HTML5
+634,3240390,Released,4.8,4.0,"2D, Creepy, Fangame, Horror, Singleplayer",,"HTML5, Windows, macOS, Linux, Android"
+635,2996121,Released,4.9,21.0,"2D, Female Protagonist, Ghosts, Horror, minigames, Multiple Endings, Short, supernatural, Thriller",,"Windows, macOS, Linux"
+636,3215949,Released,3.8,21.0,"Creepy, First-Person, Horror, Low-poly, PSX (PlayStation), Retro, Unity",,"Windows, macOS, Linux"
+637,2351785,Released,4.5,19.0,"2D, Anime, Dark, Dating Sim, Horror, Multiple Endings, Ren'Py, Romance, Short",A few seconds,"HTML5, Windows, macOS, Android"
+638,1253000,On hold,4.5,22.0,"3D, Atmospheric, First-Person, Low-poly, Mystery, Retro, Sci-fi, secrets",,Windows
+639,2784509,Released,4.9,84.0,"2D, Cute, Female Protagonist, Narrative, Non violent, One-shot, Pixel Art, RPG Maker, Short",A few minutes,"HTML5, Windows, macOS"
+640,1993251,In development,4.8,34.0,"Anime, Bara, Gay, LGBT, mlm, Multiple Endings, Ren'Py, Romance, Yaoi",,"Windows, macOS, Linux"
+641,1423243,Released,4.7,26.0,"Anime, First-Person, Horror, Meaningful Choices, Multiple Endings, Psychological Horror, Romance, yandere",About an hour,"Windows, macOS, Linux, Android"
+642,20078,In development,4.4,57.0,"2D, Action-Adventure, Dark Humor, Funny, Metroidvania, Pixel Art, Roguelike",A few minutes,Windows
+643,201779,Released,4.6,427.0,"artgame, grocery, Ludum Dare 40, Physics, shopping, silly, store",,"Windows, macOS, Linux"
+644,296785,Released,4.3,85.0,"2D, Demake, Fangame, fantasy-console, PICO-8, Pixel Art, Time Attack",,"HTML5, Windows, macOS, Linux"
+645,2050162,Released,4.6,16.0,"3D Platformer, climb, Fast-Paced, First-Person, jumping, Liminal space, Minimalist, Parkour",,Windows
+646,262308,Released,4.4,131.0,"Character Customization, Dating Sim, Female Protagonist, LGBT, love-story, Otome, Romance, Slice Of Life, Story Rich",About an hour,"Windows, macOS, Linux"
+647,24907,Released,4.6,146.0,,About an hour,"Windows, macOS"
+648,1670118,Released,4.4,311.0,"Creepy, Multiple Endings, yandere",A few minutes,"Windows, macOS, Linux"
+649,3117456,Released,4.7,18.0,"Creepy, First-Person, Horror, Indie, Retro, Short, Singleplayer, Story Rich",About a half-hour,Windows
+650,3272113,Released,5.0,1.0,"Escape Game, Horror, PSX (PlayStation)",,Windows
+651,691721,Released,4.6,15.0,"1-bit, 2-button, Arcade, Pixel Art, Retro, Sci-fi, Singleplayer, Space, Zero Gravity",About a half-hour,"Windows, macOS, Linux"
+652,947637,Released,4.9,25.0,"3D, Casual, First-Person, Multiplayer, Relaxing, Sandbox, Singleplayer",About an hour,"Windows, Linux"
+653,2561690,Released,4.4,68.0,"Atmospheric, Creepy, Dark, Dating Sim, Multiple Endings, obsession, Psychological Horror, Ren'Py, yandere",A few minutes,"Windows, macOS, Linux"
+654,987871,In development,4.8,212.0,"2D, Exploration, First-Person, Horror, Lo-fi, Mystery, PSX (PlayStation), Short, Singleplayer, Spooky",,HTML5
+655,2341614,Prototype,4.9,24.0,,,Windows
+656,2859751,Released,5.0,14.0,"2D, Anime, Indie, Male protagonist, Multiple Endings, Mystery, Ren'Py, Singleplayer, Thriller",A few hours,Windows
+657,167535,Released,4.6,13.0,Real time strategy,About a half-hour,"Windows, Linux"
+658,609612,Released,4.0,42.0,"Fishing, Horror, Low-poly, PSX (PlayStation), Unity",,"Windows, macOS"
+659,2804715,Released,4.9,31.0,"Gore, Horror, LGBT, LGBTQIA, Mystery, Transgender",,"Windows, macOS, Linux"
+660,254717,Released,3.7,118.0,"3D, Comedy, Dating Sim, First-Person, flat-shading, Low-poly, Romance, Short, Singleplayer",A few minutes,"Windows, macOS"
+661,1034263,Released,4.9,282.0,"Atmospheric, birds, Cats, Cute, Exploration, Lesbian, LGBT, Queer, Slice Of Life",A few hours,"Windows, macOS, Linux"
+662,606964,Released,4.8,512.0,"Amare, Dating Sim, Fantasy, LGBT, Otome, Romance",,"Windows, macOS, Linux"
+663,94968,Released,4.4,207.0,"Action-Adventure, Co-op, Multiplayer, Open World, Roguelike, Top-Down, Tower Defense, Twin Stick Shooter, Zombies",A few minutes,"Windows, macOS, Linux"
+664,265671,Released,4.9,105.0,"3D, 3D Platformer, Exploration, Lo-fi, Pixel Art, Story Rich, Surreal",About an hour,"Windows, macOS, Linux"
+665,1867685,Released,4.4,35.0,"bullet-heaven, Bullet Hell, Driving, Lovecraftian Horror, Roguelike, Roguelite, Shoot 'Em Up, survivors, upgrades",A few minutes,HTML5
+666,1806521,Prototype,4.5,156.0,"3D, Creepy, Horror, Low-poly, Nintendo 64, PSX (PlayStation), Retro, Singleplayer, Survival Horror, Third Person",About a half-hour,Windows
+667,779446,Canceled,4.2,35.0,"2D, html5, Level Editor, Retro, Side Scroller, Singleplayer, sonic",About a half-hour,"HTML5, Windows"
+668,166920,Released,4.6,141.0,,,"Windows, macOS, Linux"
+669,129970,Released,5.0,21.0,,,
+670,1889899,Released,5.0,50.0,,,HTML5
+671,582335,Released,4.4,94.0,"Dating Sim, Ren'Py, Romance, Singleplayer",,"Windows, macOS, Linux, Android"
+672,80487,In development,4.8,271.0,"3D, Dark Humor, Dystopian, Mechs, Perma Death, Robots, Roguelike, Singleplayer, Third-Person Shooter, Voxel",About a half-hour,"Windows, macOS"
+673,24074,Released,4.0,56.0,"apocalyptic, loom, lute, Magic, olav, Pixel Art",,Windows
+674,1054897,Released,4.8,13.0,"2D, analogue-pocket, Game Boy, Game Boy ROM, gbstudio, Pixel Art, Short, Top Down Adventure, Walking simulator",,HTML5
+675,381236,In development,4.6,357.0,"3D, Abstract, artgame, Atmospheric, Experimental, Lo-fi, Low-poly, Pixel Art, Singleplayer",About a half-hour,"Windows, macOS"
+676,1892445,Released,4.7,67.0,"Anime, Dating Sim, Experimental, Funny, Horror, Psychological Horror, Retro, Romance, Short",About an hour,"Windows, macOS, Linux"
+677,1692382,In development,4.6,56.0,"Comedy, Dark Humor, Horror, LGBTQIA, Queer, Vampire",,"Windows, macOS, Linux"
+678,1108217,Released,4.7,90.0,"Amare, Dark, Mystery, Otome, Psychological Horror, Romance, Slice Of Life, Story Rich, yandere",,"Windows, macOS"
+679,2020897,Released,4.9,81.0,"Atmospheric, Creepy, Dark, free, Gothic, Historical, Horror, Psychological Horror, Spooky",A few hours,"Windows, macOS"
+680,674237,Released,4.4,51.0,"3D, Atmospheric, Exploration, Fantasy, Low-poly, Pixel Art, Short, Third Person",About a half-hour,"Windows, macOS, Linux"
+681,3180505,Released,4.9,8.0,"Anime, Dating Sim, Horror, Otome, Pixel Art, Romance, RPG Maker, school, yandere",,Windows
+682,1636438,In development,4.0,43.0,"chub, chubby, fat, Furry, gain, weight, weightgain",A few minutes,"Windows, Android"
+683,1629009,Released,4.5,23.0,"Lo-fi, Playdate, Relaxing, Tetris",,
+684,61852,Released,4.6,95.0,"bishoujo, Mystery, Romance, Thriller, vn",,"Windows, macOS, Linux"
+685,2248780,Released,4.7,275.0,"Cute, decorate",A few seconds,HTML5
+686,2122794,Released,4.7,45.0,"3D, Atmospheric, Creepy, Horror, PSX (PlayStation), Psychological Horror, Retro, Singleplayer, slow-motion",,Windows
+687,3269552,Prototype,5.0,2.0,"2D, 3D, Atmospheric, Fantasy, kiosk, lithuania, Pixel Art, Retro, Singleplayer, Unity",A few minutes,
+688,1297223,In development,4.3,14.0,"3D, Dungeon Crawler, First-Person, Horror, Lovecraftian Horror, Retro, Roguelike, Turn-based, Unity",A few hours,"Windows, Linux"
+689,1705691,Released,4.7,34.0,"2D, 3D, Co-op, Escape Game",A few hours,"Windows, macOS"
+690,223100,In development,4.3,33.0,"Archery, Crafting, Difficult, Exploration, Fantasy, First-Person, lone-survivor, Open World, Singleplayer, Unreal Engine",Days or more,Windows
+691,848,Released,4.8,66.0,"compilation, marker-games, thecatamites",,Windows
+692,884877,Released,4.9,135.0,"2D, Ren'Py",A few hours,"HTML5, Android"
+693,2502925,Released,4.8,258.0,"3D, Atmospheric, Mystery, Point & Click, Retro",A few seconds,"HTML5, Windows"
+694,733587,Released,4.8,108.0,"2D, Difficult, Ghosts, Singleplayer, Sokoban, TIC-80, Turn-based",About a half-hour,"HTML5, Windows, macOS"
+695,2834391,Released,4.6,38.0,"3D Platformer, DOS, mecha, Mechs, prerender, Short, User Interface (UI)",About a half-hour,"Windows, Linux"
+696,506750,Released,4.9,41.0,"bug-fables, everlasting-sapling, Indie, moonsprout-games, paper, role-playing-game, Turn-Based Combat",,Windows
+697,775347,Released,4.8,63.0,"Anime, Cute, Horror, Pixel Art, Psychological Horror, RPG Maker, Short, Story Rich",,Windows
+698,713063,In development,4.6,48.0,"2D, cardgame, Dark Fantasy, Deck Building, Dungeon Crawler, Hand-drawn, Singleplayer, Story Rich",A few hours,Windows
+699,1594977,Released,4.9,10.0,"2D, Arcade, atari-ste, Mega Drive, neogeo, Pixel Art, Retro, run-and-gun, Sega Genesis, Singleplayer",,Windows
+700,1497671,Released,4.5,16.0,"2D, Game Boy, Game Boy Advance, Game Boy ROM, gb-studio, Retro, Singleplayer",,HTML5
+701,1273770,In development,5.0,24.0,"Atmospheric, Dark Fantasy, Dungeon Crawler, Exploration, First-Person, Immersive, Physics, Traps",About an hour,"Windows, Linux"
+702,3057826,Released,4.9,10.0,"2D, jumping, PICO-8, Speedrun",A few minutes,"HTML5, Windows, macOS, Linux"
+703,894289,On hold,4.5,33.0,"Action-Adventure, FPS, Loot, Low-poly, Open World, Sandbox, Singleplayer, Stealth, War",,"Windows, macOS"
+704,2982722,Released,4.9,9.0,"Atmospheric, Creepy, Deck Building, Fast-Paced, First-Person, Godot, Horror, PSX (PlayStation), Psychological Horror",About a half-hour,"Windows, macOS, Linux"
+705,2639784,Prototype,4.3,79.0,"Archery, elf, Idle, Incremental, Magic, Pixel Art, upgrades",,"HTML5, Windows"
+706,397,Released,4.7,100.0,"computer, door, ferry, Magic, Mountains, pizza, science, SHARECART1000, warp, waterfall",,"Windows, macOS"
+707,972405,Released,4.5,149.0,"Atmospheric, Escape Game, First-Person, Point & Click",A few hours,HTML5
+708,221195,Released,4.8,116.0,"2D, Dating Sim, Fangame, mettaton, Otome, Romance, Undertale",About an hour,"Windows, macOS"
+709,137926,Released,4.6,36.0,"2D, City Builder, GameMaker, Ludum Dare 38, Pixel Art, Sci-fi",A few minutes,"HTML5, Windows"
+710,397547,In development,4.7,36.0,"Dragons, Fairy Tale, Fantasy, Meaningful Choices, Medieval, Narrative, Romance",About an hour,"Windows, macOS, Linux"
+711,46546,Released,4.8,16.0,"deer, Multiplayer, Open World",Days or more,Windows
+712,928199,Released,4.1,15.0,"2D, Co-op, Horror, Local Co-Op, Pixel Art, Top-Down, Top down shooter, Zombies",A few seconds,Windows
+713,2010100,In development,4.8,9.0,"16-bit, 2D, Anime, Arcade, Homebrew, Mega Drive, Pixel Art, Sega Genesis, Two Player",,
+714,231709,Released,4.8,99.0,"Abstract, artificial-intelligence, Atmospheric, GameMaker, glitch, LGBT, Minimalist, Sci-fi, Typing",,"Windows, macOS"
+715,2004867,Released,4.7,214.0,"3D, Creepy, Demake, Horror, PSX (PlayStation), Space, Survival Horror, Third Person, Third-Person Shooter",,Windows
+716,377859,Released,4.9,90.0,"2D, Female Protagonist, Mystery, Noir, Ren'Py, Singleplayer, Story Rich, Text based",About an hour,"Windows, macOS"
+717,687636,Released,4.6,31.0,"FPS, Horror, slender, slenderman",,"Windows, macOS, Linux"
+718,447041,In development,4.7,43.0,"castlevania, classicvania, draculas-curse, Horror, igavania, Monsters, simons-quest, Spooky, universal-monsters",,Windows
+719,54490,Released,4.7,51.0,"2D, Speedrun",,"Windows, macOS, Linux"
+720,150315,Released,4.7,62.0,"2D, Anime, Fantasy, LGBT, Multiple Endings, Ren'Py, Romance",,"Windows, macOS, Linux"
+721,381596,Prototype,4.5,26.0,"2D, dnd, GameMaker, Generator, map, Procedural Generation, Sandbox",,Windows
+722,2237412,Released,5.0,8.0,"3D, Atmospheric, Cartoon, Indie, Multiplayer, PvP, Sci-fi, Swords, Unity, weird",A few minutes,Windows
+723,787836,In development,4.6,5.0,"3D, Atmospheric, First-Person, Horror, Indie, new, quest, Spooky",,Windows
+724,2349234,In development,4.9,76.0,"Horror, LGBT, Meaningful Choices, Romance, Text based, Twine",,HTML5
+725,804346,Released,4.6,67.0,"Horror, Shoot 'Em Up, Spooky",About an hour,"HTML5, Windows, macOS, Linux"
+726,77011,In development,4.2,41.0,"Football, Physics, Sandbox, Soccer",A few seconds,"Windows, macOS"
+727,2539153,Released,4.3,26.0,,,
+728,3158356,Released,5.0,6.0,"Arcade, candy, Endless, Game Boy, Halloween, Monsters, Pixel Art",About a half-hour,"Windows, macOS, Linux"
+729,2143024,Released,4.8,63.0,"Difficult, PICO-8, picoCAD, Pixel Art, Retro, Shoot 'Em Up, stg",,"HTML5, Windows, macOS, Linux"
+730,488821,In development,4.9,66.0,"2D, GameMaker, Metroidvania, Pixel Art, Side Scroller, Top Down Adventure, Turn-based",A few hours,Windows
+731,3010830,Released,4.8,17.0,"Atmospheric, Creepy, Female Protagonist, Horror, PSX (PlayStation), Psychological Horror, Retro, Survival Horror, Third Person, Third-Person Shooter",About a half-hour,Windows
+732,320479,Released,4.6,186.0,"daniel-mullins, meta, Mystery, Narrative, pony-island, Story Rich, the-hex",About an hour,"Windows, macOS, Linux"
+733,1564252,Released,5.0,8.0,"a-dance-of-fire-and-ice, adofai, heaven, Indie, Music, one-button, rhythm-doctor, taro, taronuke",,"Windows, macOS, Linux"
+734,1501520,Released,4.7,19.0,"3D, germ, infection, macrophage, phage, royal, Shoot 'Em Up, Top down shooter, virus",,Windows
+735,64478,Released,4.9,105.0,"david-lynch, Exploration, First-Person, immersive-sim, Surreal, Walking simulator",A few hours,"Windows, macOS, Linux"
+736,861944,Released,4.9,112.0,"2D, Animals, Cats, Singleplayer, Sokoban",A few hours,HTML5
+737,2190211,Released,4.9,77.0,piss,,"Windows, macOS, Linux"
+738,494724,In development,4.8,120.0,"Dungeon Crawler, Pixel Art, Procedural Generation, Roguelike, Roguelite, Virtual Reality (VR), Voxel",About a half-hour,"Windows, Android"
+739,3041604,In development,4.4,5.0,"Atmospheric, Creepy, Horror, Survival Horror",About an hour,Windows
+740,1359282,Released,4.8,36.0,"Anime, Dating Sim, Horror, Lovecraftian Horror, Singleplayer",,
+741,2979502,Released,4.8,38.0,"Hand-drawn, Horror, Otome, Romance",,Windows
+742,723129,Released,4.5,64.0,"First-Person, FPS, Hack and Slash, Retro, Roguelike",About an hour,"Windows, macOS, Linux"
+743,930763,Released,4.4,33.0,"Creative, Drawing, Game Boy, Local multiplayer, Multiplayer, Non violent, Painting, Pixel Art, Retro",A few seconds,Windows
+744,171727,Released,4.4,438.0,"Atmospheric, cliff, conversation, deer, far-from-noise, Female Protagonist, Narrative, story, Story Rich",,"Windows, macOS"
+745,3087912,Released,4.8,25.0,"Atmospheric, Horror, Multiple Endings, Romance, Short, Singleplayer, Story Rich",,"Windows, macOS"
+746,707420,Released,4.7,115.0,"3D, Action-Adventure, Comedy, Cute, Funny, Relaxing, Singleplayer",About a half-hour,"HTML5, Windows, macOS, Linux"
+747,341186,In development,4.5,88.0,"Arcade, First-Person, Funny, Ludum Dare, Ludum Dare 43, Singleplayer, Unity",,"HTML5, Windows, macOS, Linux"
+748,500563,In development,4.4,64.0,"3D, Anime, Exploration, Oculus Quest, Oculus Rift, pico, Relaxing, Virtual Reality (VR)",About a half-hour,"Windows, Linux, Android"
+749,2518801,In development,4.8,25.0,"Boys' Love, Detective, Indie, LGBT, Mystery, Ren'Py, Romance, Singleplayer, Thriller",About a half-hour,"Windows, macOS"
+750,224352,Released,4.3,188.0,"Colorful, Frogs, jelly, jumping, the-floor-is-jelly, Vector",A few minutes,"Windows, macOS"
+751,339563,Released,4.6,204.0,"2D, Anime, Female Protagonist, graphic-adventure, Mystery, RPG Maker, Story Rich",About a half-hour,"HTML5, Windows, Linux"
+752,1281581,Released,4.4,141.0,"Animals, Funny, Idle, Math, monkey, Pixel Art, random, sitting-simulator",,HTML5
+753,228066,Released,4.9,16.0,"2D, anime-characters, Arcade, Bullet Hell, GameMaker, loli, Pixel Art, Shoot 'Em Up",About a half-hour,Windows
+754,307555,In development,4.8,44.0,"2D, Atmospheric, Exploration, Music, Sci-fi, Singleplayer, Space, Space Sim, Top-Down",About a half-hour,"Windows, macOS, Linux"
+755,656754,Released,4.6,47.0,"3D, brower, head, Horror, nathan-brower, retribution, siren, Siren Head, sirenhead, trevor-henderson",,Windows
+756,61275,In development,4.4,22.0,"Anime, Comedy, Dating Sim, dating-simulation, ecchi, maid, maids, olevn, Romance",About an hour,"Windows, macOS, Linux"
+757,834190,Released,3.9,35.0,"3D, First-Person, Horror, horror-games, indie-horror, Psychological Horror, Retro, Singleplayer, Survival Horror, vhs",,Windows
+758,2073220,Released,4.2,13.0,"2D, Fangame, Funny, GameMaker, plants, plants-vs-zombies, plantsvszombies, pvz, Tower Defense, Zombies",,"Windows, Android"
+759,92655,Released,4.8,40.0,"Female Protagonist, Meaningful Choices, Narrative, Point & Click, Singleplayer, Story Rich",About a half-hour,"Windows, macOS, Linux"
+760,456955,Released,4.4,49.0,"90s, Horror, playstation, ps1, Remake, remastered, Retro, silent-hill, silent-hill-remake, Survival Horror",,Windows
+761,111388,Released,4.1,126.0,"Atmospheric, Female Protagonist, mystic, Pixel Art, Point & Click",A few minutes,"Windows, macOS, Linux, Android"
+762,108521,Released,4.6,101.0,"cga, Story Rich, Twine",A few minutes,"HTML5, Windows, macOS, Linux"
+763,22840,Released,4.5,151.0,"Anime, Dark, Horror, Multiple Endings, Mystery, Ren'Py, suspense",,"Windows, macOS, Linux"
+764,828648,Released,5.0,31.0,"2D, Shoot 'Em Up, stg, Unity",About a half-hour,"HTML5, Windows"
+765,46387,Prototype,4.3,48.0,"2D, Arcade, Co-op, Fast-Paced, gamepad, Local multiplayer, Pixel Art, Short, Singleplayer",A few seconds,"Windows, macOS, Linux"
+766,1655549,In development,4.8,11.0,"Atmospheric, Cyberpunk, Exploration, Female Protagonist, Game Boy Advance, Pixel Art, Top-Down",,HTML5
+767,2399676,Released,4.3,46.0,"Christmas, Retro",,"HTML5, Windows"
+768,3035362,Released,4.1,13.0,"Arcade, belly, burp, Cute, fart, fetish, Indie, Pinball, pregnancy, pregnant",,"Windows, Android"
+769,21281,Released,4.3,55.0,"Fantasy, Magic, Point & Click, Romance, War",A few hours,"Windows, macOS, Linux"
+770,2746180,Released,5.0,3.0,"Female Protagonist, Low-poly, n64, ps1, PSX (PlayStation), Retro, Singleplayer",About a half-hour,"HTML5, Windows"
+771,286824,Released,4.5,159.0,"Female Protagonist, Gay, Lesbian, LGBT, Pixel Art",A few hours,"Windows, macOS"
+772,2706917,Released,3.7,35.0,"3D, Creepy, First-Person, Horror, Low-poly, PSX (PlayStation), Retro, Singleplayer",,"Windows, Linux, Android"
+773,2087415,Released,4.8,10.0,"8-Bit, alien, Aliens, ZX Spectrum, zx-spectrum-next",,
+774,37082,Released,4.6,34.0,"2D, Co-op, GameMaker, Local Co-Op, Local multiplayer, Multiplayer, online-co-op, online-multiplayer, Pixel Art, Versus",A few minutes,"Windows, Linux"
+775,814339,In development,4.1,61.0,"Alternate History, Dungeon Crawler, First-Person, Retro, Roguelike, Violent, World War II",About an hour,"HTML5, Windows"
+776,814339,In development,4.1,61.0,"Alternate History, Dungeon Crawler, First-Person, Retro, Roguelike, Violent, World War II",About an hour,"HTML5, Windows"
+777,2138855,Released,4.7,30.0,"Amare, LGBT, LGBTQIA, Romance, Short, Yuri",,"Windows, macOS, Linux, Android"
+778,2059853,Released,4.7,24.0,"2D, Arcade, Bullet Hell, Fast-Paced, High Score, Shoot 'Em Up, Top down shooter, Touhou, Twin Stick Shooter",A few minutes,"HTML5, Windows, macOS, Linux"
+779,2026638,Released,3.9,41.0,"Cute, femboy, Gay, LGBT, Nonlinear, Short, Yaoi",,"HTML5, Windows, Linux"
+780,542757,Released,4.8,30.0,"Atmospheric, Fishing, LÖVE, Minimalist, Relaxing",,"Windows, macOS, Linux"
+781,2083205,Released,4.7,81.0,"2D, Anime, artgame, Character Customization, Characters, Cute, doll-maker, dress-up, Monsters",,HTML5
+782,332692,In development,4.6,34.0,"capgras, Horror, kemonoproject, Pixel Art, Psychological Horror, RPG Maker, Singleplayer",A few hours,Windows
+783,2688244,Released,4.7,15.0,"3D, Atmospheric, cryptid, First-Person, Horror, Psychological Horror, Singleplayer, Story Rich, Survival Horror, werewolf",,Windows
+784,1132164,In development,4.4,22.0,"abandoned, demetrescu, evil, hill, Horror, lady, pt, resident, silent, visage",,
+785,489790,Released,4.7,105.0,"Physics, Relaxing, Sandbox",A few seconds,HTML5
+786,205734,Released,4.5,82.0,"Fantasy, inform-7, Narrative, parser, sad, Story Rich, Text based, tragedy, Twine",About a half-hour,"HTML5, Windows, macOS, Linux"
+787,992527,Released,4.4,54.0,"Experimental, Generator, Idle, Incremental, Instrument, Management, Music, Soundtoy, Typing",About a half-hour,HTML5
+788,28072,Released,4.6,41.0,"Dark Fantasy, Fairy Tale, girls, grandmother, Horror, mythology, Perma Death, red, soundtrack, wolves",,"Windows, macOS"
+789,2950277,Released,4.9,504.0,"2D, Cozy, Cute, Fantasy, Mouse only, Pixel Art, secrets, Short, Singleplayer, Trains",,"HTML5, Windows"
+790,474283,Released,4.5,125.0,"2D, Atmospheric, Casual, Dark, Escape Game, Mouse only, Mystery, Point & Click",About a half-hour,"Windows, macOS"
+791,1573418,Released,4.6,316.0,"2D, Abstract, absurd, Comedy, Difficult, Funny, Narrative, Singleplayer, sisyphus, Typing",About an hour,"HTML5, Windows"
+792,3266503,Released,5.0,5.0,"3D, Multiplayer, No AI",,"Windows, macOS, Linux"
+793,593714,Released,4.5,89.0,"Godot, Pixel Art, Roguelite, Singleplayer, Sprites",A few minutes,"Windows, macOS, Linux"
+794,118642,Released,5.0,47.0,"escape, Point & Click, submachine",A few hours,Windows
+795,521688,Released,4.6,45.0,"glitch, historia, Horror, Kinetic Novel, Psychological Horror, rainbow-serpent, snake, Thriller",A few hours,
+796,1583968,Released,4.7,127.0,"Creepy, Gay, Horror, LGBT, Pixel Art, Queer, Remake, RPG Maker, Transgender",,
+797,136635,In development,4.4,28.0,"earth, Ludum Dare 38, planet, Space, Tower Defense",A few minutes,"Windows, Linux"
+798,1757713,Released,4.8,45.0,"2D, Casual, Cute, Fantasy, Farming, Furry, Pixel Art, Slice Of Life, Vampire",A few minutes,HTML5
+799,330588,In development,4.5,125.0,"2D, Anime, Comedy, Management, Pixel Art, villain-protagonist",About an hour,"Windows, macOS, Linux"
+800,288001,Released,4.7,10.0,"2D, ambient, artgame, emergent, generative, Life Simulation, screensaver, Short, Singleplayer, Virtual Pet",A few minutes,"Windows, macOS, Linux"
+801,1313473,Released,4.7,29.0,"Amiga, Amstrad CPC, atari, atari-st, Commodore 64, commodore-plus4, MSX, Retro, ZX Spectrum",,
+802,954388,Released,4.2,397.0,"3D, Casual, Fast-Paced, Unity",,"Windows, macOS, Linux"
+803,593549,Released,4.9,8.0,"16-bit, 2D, Retro",,
+804,128550,Released,4.7,40.0,"2D, Seven Day Roguelike Challenge, Action-Adventure, dungeon, Gardening, hard, PICO-8, Pixel Art, Roguelike",About a half-hour,HTML5
+805,2227966,In development,4.9,38.0,"Fantasy, Pixel Art, Roguelike, Strategy RPG, Tactical RPG, Tower Defense, Turn-based, Turn-Based Combat, Turn-based Strategy",A few minutes,HTML5
+806,215623,Released,4.4,74.0,"2D, 8-Bit, construction, Crafting, Demake, Non violent, PICO-8, Pixel Art",About a half-hour,"HTML5, Windows, macOS, Linux"
+807,1200874,Released,4.6,49.0,"2D, Anime, Creepy, Dark, Exploration, Horror, Point & Click, Short, Survival Horror",About a half-hour,"Windows, macOS, Linux, Android"
+808,413783,Released,4.7,180.0,Ludum Dare 44,,"HTML5, Windows"
+809,23224,Released,4.2,60.0,,About an hour,Windows
+810,131772,Released,4.7,313.0,,,"Windows, macOS"
+811,609913,Prototype,4.3,97.0,"Atmospheric, Horror, hps1jam, PSX (PlayStation), Retro, Walking simulator",,Windows
+812,1009633,Released,4.8,92.0,"2D, Cooking, Cute, Ghosts, Ludum Dare 48, minigames, Narrative, Singleplayer, Story Rich",,"HTML5, Windows, macOS"
+813,46276,Released,4.6,17.0,"2D, Casual, Management, Minimalist, Moddable, Procedural Generation, Relaxing, Score Attack, Singleplayer",About an hour,Windows
+814,351104,Released,4.7,212.0,"Anime, Female Protagonist, gxg, LGBT, Ren'Py, Romance, Yuri",About an hour,"Windows, macOS, Linux"
+815,2833985,Released,4.8,19.0,"2D, Dating Sim, First-Person, Hand-drawn, Horror, Indie, murdersim, Short, Singleplayer",,"Windows, macOS, Linux, Android"
+816,1150914,Released,4.7,59.0,"Anime, Casual, Escape Game, Female Protagonist, First-Person, Narrative, Point & Click, Story Rich",A few minutes,
+817,23122,Released,5.0,14.0,"Arcade, Commodore 64, forget-me-not, Local multiplayer, Multiplayer, Retro, rgcd",A few minutes,"Windows, macOS, Linux"
+818,9217,Released,4.1,27.0,"16-bit, 2D, dungeons, permadeath, Pixel Art, Procedural Generation, Roguelike, Top-Down, Turn-based",A few hours,"Windows, macOS, Linux, Android"
+819,2360499,Released,4.7,17.0,"Anime, Boys' Love, Cozy, Cute, Fantasy, Gay, LGBT, Romance, Slice Of Life, wholesome",,"Windows, macOS, Linux, Android"
+820,1296015,Released,4.6,14.0,"making, potion, Singleplayer, tempo, Touhou, witch",,Windows
+821,3244833,In development,5.0,10.0,"Anime, Dating Sim, Indie, No AI, Otome, Retro, Romance, snowkissed",,"Windows, macOS"
+822,35436,Released,4.4,83.0,"2D, Anime, Dating Sim, Female Protagonist, Multiple Endings, Otome, otome-game, Romance, Voice Acting",A few hours,
+823,202590,Released,4.8,65.0,"artgame, dan-hett, hypertext, serious, Text based, Twine",,HTML5
+824,578538,Released,4.9,10.0,"2D, Action RPG, Atmospheric, Hack and Slash, Pixel Art, Post-apocalyptic, Sci-fi, Singleplayer, Story Rich",About a half-hour,"Windows, Linux"
+825,882206,Released,4.7,20.0,"3D, asmr, focus, mindfulness, Music, Relaxing, Singleplayer, study, usc-games, Walking simulator",About a half-hour,"Windows, macOS"
+826,1941968,In development,4.9,27.0,"bartending, Creepy, First-Person, Hand-drawn, Indie, Multiple Endings, Pixel Art, Story Rich",,
+827,658179,Released,4.9,168.0,"2D, Animals, brain, construct3, Cute, Food, grid, logic, Singleplayer, Sokoban",A few seconds,HTML5
+828,2880701,Released,4.4,9.0,"Baldi's Basics, Friday Night Funkin' (FNF), Horror",,"Windows, macOS, Linux"
+829,55722,In development,4.6,101.0,"80s, time-bending, Top-Down, Top down shooter",A few minutes,"Windows, macOS, Linux"
+830,136326,Released,4.1,83.0,"Action-Adventure, Horror",,"Windows, macOS"
+831,27168,Released,4.8,136.0,"Funny, Local Co-Op, Local multiplayer, Multiplayer, party-game",A few minutes,"Windows, macOS, Linux"
+832,313063,In development,4.9,47.0,"8-Bit, Atmospheric, Creepy, Game Boy, Horror, Pixel Art, Point & Click, Singleplayer, Story Rich",About an hour,"Windows, Android"
+833,2802098,Released,4.6,25.0,"Cartoon, Co-op, Fantasy, joust, Local Co-Op, Local multiplayer, Medieval",A few minutes,"HTML5, Windows, Android"
+834,10182,Released,4.4,28.0,"lazycow, Metroidvania, rgcd, run-n-gun, Shoot 'Em Up",,"Windows, macOS, Linux"
+835,2429991,Released,4.4,9.0,"8-Bit, Commodore 64, commodore-plus4, Dungeon Crawler, Minimalist, Pixel Art, Retro, ZX Spectrum",,
+836,1217889,In development,5.0,11.0,"3D, DRM Free, nature, Open Source, Procedural Generation, Sandbox, Top-Down",A few minutes,"Windows, Linux"
+837,252387,Released,4.8,24.0,"2D, Casual, Cute, Female Protagonist, Mystery, RPG Maker, witch",,"Windows, macOS, Linux"
+838,2446656,Released,4.9,222.0,"Amare, Anime, Cozy, Cute, Dating Sim, Female Protagonist, Male protagonist, Otome, Romance, Slice Of Life",About a half-hour,"HTML5, Windows, macOS, Linux"
+839,20787,Released,4.4,49.0,"8-Bit, Dungeon Crawler, Hack and Slash, Perma Death, Procedural Generation, Roguelike",About a half-hour,"Windows, macOS, Linux"
+840,2387552,Released,4.9,86.0,"Atmospheric, Colorful, Exploration, LGBT, Multiple Endings, narrative-driven, nonbinary-protagonist, Pixel Art, RPG Maker, Surreal",A few hours,Windows
+841,1131183,Released,4.6,110.0,"bento, cat, Cooking, cuisine, family, Food, japan, kitten, minimal, sushi",A few minutes,"Windows, macOS, Android"
+842,1352246,Released,4.0,14.0,"analogue-pocket, dmg, Dungeon Crawler, Game Boy, Game Boy ROM, gbc, Homebrew, Medieval, Pixel Art, Roguelike",A few minutes,HTML5
+843,2043711,Released,4.8,68.0,"Atmospheric, Creepy, Dark, Exploration, Horror, Pixel Art, Psychological Horror, Singleplayer",A few minutes,"HTML5, Windows"
+844,132425,In development,4.4,49.0,"3D, 3D Platformer, Cats, Colorful, Cute, Exploration, Low-poly, Robots, Singleplayer, Third Person",About a half-hour,"Windows, macOS, Linux"
+845,112260,Released,4.5,46.0,"8-Bit, Open World, Retro",A few minutes,"Windows, macOS, Linux"
+846,1716974,Released,4.5,128.0,"2D, Pixel Art, Short, Singleplayer, Unity",,"HTML5, Windows, macOS"
+847,2194216,Released,5.0,5.0,Singleplayer,,Windows
+848,2304706,Released,4.5,60.0,"2D, Atmospheric, Indie, Psychological Horror, Ren'Py, Story Rich, Text based",About a half-hour,"Windows, macOS, Linux"
+849,565813,Released,4.6,131.0,"2D, Atmospheric, Cute, Pixel Art, Short, Singleplayer, Time Attack, Top-Down",A few minutes,Windows
+850,1469346,Released,4.5,109.0,"2D, Ludum Dare 50, Non violent, PICO-8, Pixel Art, Retro, Short",,"HTML5, Windows, macOS, Linux"
+851,1886209,Released,5.0,4.0,Experimental,,Windows
+852,1141747,Released,4.9,154.0,"boston, Game Boy, gb-studio, pixel",,HTML5
+853,42712,Released,4.7,108.0,"Cult Classic, Cute, delicious, Funny, melon",,"Windows, macOS"
+855,520444,Released,4.3,151.0,"faeries, fireworks, Gardening, Physics, secrets",About an hour,"Windows, macOS, Linux"
+856,254894,Released,4.7,206.0,"Altgame, artgame, Bitsy, Coming Of Age, Dark, maze, Minimalist, Narrative, Pixel Art, Singleplayer",A few minutes,HTML5
+857,880447,In development,4.6,9.0,"3D, Low-poly, Open World, Singleplayer, Unity",About a half-hour,Windows
+858,2793643,Released,4.5,54.0,"Atmospheric, Clicker, First-Person, Horror, Noir, Psychological Horror, Short, Singleplayer, Surreal",,Windows
+859,2453809,Released,4.9,152.0,"3D, Creepy, Farming, Horror, PSX (PlayStation), Retro, Singleplayer",,"Windows, Linux"
+860,2020523,In development,4.9,22.0,"Coming Of Age, Fantasy, Furry, Gay, Monsters",,"Windows, macOS, Linux, Android"
+861,662527,Released,4.8,37.0,"2D, 8-Bit, Arcade, Difficult, Female Protagonist, GameMaker, Pixel Art, Retro, Singleplayer",,Windows
+862,2931489,Released,5.0,4.0,"blood, euphoria, First-Person, Gore, ragdoll, ragdolls, realism, realistic, Unreal Engine",,Windows
+863,495449,Released,4.6,206.0,,,
+864,752561,Released,4.6,39.0,"2D, Cute, Game Boy, Pixel Art, Top Down Adventure",,HTML5
+865,259656,Released,4.8,35.0,"Mystery, psychological, Slice Of Life, Yuri",,Windows
+866,1774838,Released,4.8,18.0,"1-bit, Horror, Pixel Art, Roguelike, Singleplayer, Turn-based",,"Windows, Android"
+867,506815,Released,4.2,137.0,"2D, City Builder, Clicker, cthulhu, Management, Minimalist, Pixel Art, Retro, Sandbox, Time Attack",,"HTML5, Windows"
+868,81143,Released,4.5,13.0,"Action-Adventure, Commodore 64, jungle, Retro, ultimate",,
+869,1191526,Released,4.7,117.0,"Atmospheric, Dark, First-Person, LGBT, Monsters, Narrative, Queer, Story Rich",,"Windows, macOS, Linux"
+870,1562768,In development,4.5,8.0,"2D, 4X, Godot, Historical, Management, Pixel Art, Procedural Generation, Singleplayer, War",Days or more,"Windows, Linux"
+871,2814111,Released,4.7,68.0,"3D, Atmospheric, Horror, Psychological Horror, Retro, Short, Singleplayer, weirdcore, y2k",,Windows
+873,107138,Released,3.8,23.0,"Comedy, Coming Of Age, Dating Sim, Female Protagonist, Meaningful Choices, Otome, Parody, Romance, Sims 4",,Windows
+874,3196846,In development,4.9,17.0,"minigames, Pixel Art, Vampire, Virtual Pet",,Android
+875,584463,Released,4.9,40.0,"Historical, Open World, Roguelike, Sandbox, Singleplayer",A few hours,"Windows, macOS, Linux"
+876,108274,In development,4.8,15.0,"ascii, Dark Fantasy, Dungeon Crawler, Fantasy, Open World, Perma Death, Roguelike, Turn-based",About a half-hour,
+877,664316,Released,4.4,99.0,"2D, Cult Classic, Difficult, Fast-Paced, Female Protagonist, Hack and Slash, Horror, Pixel Art, supernatural",About an hour,"Windows, macOS, Linux"
+878,2626561,Released,4.9,10.0,"8-Bit, Dice, Game Boy, Game Boy ROM, gbstudio, Homebrew",,HTML5
+882,131376,Released,4.4,151.0,"Comedy, nanoreno-2017, Romance, yandere",About a half-hour,"Windows, macOS, Linux"
+883,382815,Released,4.7,71.0,"Anime, Dark, Dark Humor, Dating Sim, Horror, Parody, Romance, Singleplayer, Thriller",A few hours,"Windows, macOS, Linux"
+884,3038843,In development,4.8,72.0,"Action-Adventure, Fantasy, Romance, Sci-fi, Text based, Twine",,HTML5
+885,89332,Released,4.1,54.0,"2D, 8-Bit, Action-Adventure, Action RPG, Fantasy, NES (Nintendo Entertainment System), Pixel Art, Retro, Singleplayer, Steampunk",A few hours,"Windows, macOS, Linux"
+886,582128,Released,4.1,14.0,"2D, Minimalist, Pixel Art, Tower Defense, Turn-based",About a half-hour,"HTML5, Windows, macOS, Linux"
+887,1276474,Released,4.9,14.0,"128k, Arcade, egypt, shovel, speccy, ZX Spectrum",,
+888,3005094,Released,4.6,13.0,"2D, 90s, Creepy, Dreams, Horror, Psychological Horror, Retro, windows-98",,"Windows, macOS, Linux"
+889,689322,Released,4.4,27.0,"Clicker, Idle, LGBTQIA",Days or more,"Windows, Linux"
+890,157817,Released,4.9,48.0,"artgame, Atmospheric, hypertext, Mechs, Mouse only, Short, Story Rich, Twine, weird",,"HTML5, Windows, macOS"
+891,101897,Released,4.5,59.0,"8-Bit, Arcade, Controller, Difficult, Fast-Paced, Ninja, one-hit-kill, Pixel Art, Singleplayer",A few seconds,Windows
+893,764607,Released,4.8,72.0,"Furry, Gay, Halloween, Lesbian, LGBTQIA, Monster Girls, Otome, Romance, Yuri",A few hours,"Windows, macOS, Linux"
+894,3269269,In development,5.0,1.0,"3D, Creepy, First-Person, Horror, Low-poly, No AI, PSX (PlayStation), Retro, Short, Singleplayer",,
+895,753353,In development,4.7,190.0,"beach, Furry, LGBT, ocean, Slice Of Life, volleyball",,"Windows, macOS, Linux, Android"
+896,2856985,Released,4.0,66.0,"3D, Atmospheric, Creepy, Dark, Horror, Indie, Low-poly, PSX (PlayStation), Retro, Spooky",A few minutes,"Windows, Linux"
+897,763850,In development,4.9,10.0,"lockstep, rhythm-heaven, rhythm-paradise, rhythm-tengoku, rhythm-tengoku-gold, stepswitcher, ura-omote",,"Windows, macOS, Linux"
+898,154833,Released,4.2,36.0,"autobiographical, RPG Maker, Story Rich, syria, War",About a half-hour,"Windows, macOS, Linux"
+899,1215019,Released,4.7,52.0,"Dark Fantasy, Folklore, Halloween, Male protagonist, Narrative, Ren'Py, spooktober, Story Rich, supernatural",About an hour,"Windows, macOS, Linux, Android"
+900,2048190,Released,4.9,77.0,"Arcade, Funny, Ludum Dare, Ludum Dare 53, Narrative, Pixel Art",,"Windows, macOS, Linux"
+901,397376,Released,4.5,177.0,"2D, Atmospheric, Exploration, Minimalist, Multiplayer, Pixel Art, rain, strand",,"Windows, macOS, Linux"
+902,1310391,Released,4.8,13.0,"2D, gunner, megadrive, metalslug, Pixel Art",,"Windows, macOS, Linux, Android"
+903,1297992,Released,4.7,102.0,"2D, Fantasy, Female Protagonist, Romance, Short, Singleplayer, Surreal, Yuri",,"Windows, macOS, Linux, Android"
+904,318140,Released,4.5,117.0,"2D, Dark, glitch, Horror, Pixel Art, Retro, Singleplayer, unspeakable",,Windows
+905,495367,Released,4.5,68.0,"Atmospheric, Creepy, First-Person, Horror, Narrative, Psychological Horror, Singleplayer, Spooky, Story Rich",About a half-hour,Windows
+906,2649350,Released,4.4,13.0,"demon, Desktop Pet, Idle, Ludum Dare 55, Virtual Pet",,Windows
+907,750991,In development,4.5,11.0,"8-Bit, chiptune, Comedy, Cute, Game Boy, Game Boy ROM, GBJam, gbstudio, Pixel Art",,HTML5
+908,478869,Released,4.5,591.0,"2D, Casual, Horror, Narrative, Pixel Art, Short, Singleplayer, taxes, Unity",A few minutes,"Windows, macOS"
+909,1613279,In development,4.7,84.0,"3D, Animals, Cute, Low-poly, PSX (PlayStation), Retro, Singleplayer, Stealth, Unity",About a half-hour,"Windows, Linux"
+910,959593,In development,4.0,9.0,"Casual, Exploration, First-Person, FPS, Low-poly, Multiplayer, Open World, Sandbox, Unity, Zombies",Days or more,"Windows, Android"
+911,243615,Released,4.4,47.0,"Character Customization, Dungeon Crawler, Female Protagonist, Otome, Yuri",,"Windows, macOS, Linux"
+912,328794,Released,3.9,57.0,"Bara, barajam, bxb, Gay, LGBT, muscle, Ren'Py, Slice Of Life, Yaoi",About a half-hour,"Windows, macOS, Linux"
+913,583084,In development,4.3,96.0,"Non violent, Pixel Art, Roguelike, Roguelite",About a half-hour,HTML5
+914,1233450,Released,4.5,49.0,"china, chinese, Funny, Internet, Meme, Multiple Endings, test, Text based, Unity",,"HTML5, Windows, Android"
+915,703070,Released,4.8,14.0,"Action-Adventure, Comedy, Funny, Pixel Art, RPG Maker, Singleplayer, Surreal, weird",,Windows
+916,935681,Released,4.6,110.0,"2D, Atmospheric, Cozy, Cute, Fantasy, LGBT, Narrative, Pixel Art, witch",About a half-hour,"Windows, macOS"
+917,289629,Released,4.6,18.0,"dungeon, Dungeon Crawler, Fantasy, Procedural Generation, Roguelike",About a half-hour,Windows
+918,941523,Released,5.0,10.0,"2D, artificial-intelligence, artificial-life, evolution, Life Simulation, neural-networks, Procedural Generation, Relaxing, Sandbox, Unity",A few hours,"Windows, macOS, Linux"
+919,60918,In development,4.3,124.0,"2D, Casual, Cute, Gardening, Hand-drawn, no-combat, Pixel Art, plants, Relaxing",A few minutes,Windows
+920,1462416,Released,4.8,49.0,"Animals, Comedy, Cute, Furry, Kinetic Novel, Non violent, Relaxing, Ren'Py, Slice Of Life, Story Rich",,"Windows, macOS, Linux, Android"
+921,1330679,In development,4.7,67.0,"Dark Fantasy, LGBT, LGBTQIA, Meaningful Choices, Romance, supernatural, Text based, Twine",,HTML5
+922,12355,Released,4.4,82.0,"candy, dungeon, ghost, graveyard, Halloween, haunted, Horror, Monsters, Spooky",About a half-hour,Windows
+923,418153,Released,4.6,143.0,"Cute, happy-snake-games, Horror",,"Windows, macOS, Linux"
+926,292960,Released,4.8,34.0,"2D, Anime, Dark, Dating Sim, Mystery, Otome, Romance, supernatural",,
+927,180972,Prototype,4.5,24.0,"2D, artgame, Casual, Endless, Hand-drawn, Magic, Point & Click, psychedelic, Relaxing, Singleplayer",A few minutes,"Windows, macOS, Linux"
+928,378414,Released,4.9,20.0,"4playeradapter, commodore, Commodore 64",,
+929,1307741,Released,4.8,70.0,"2D, Horror, LGBTQIA, Narrative, Pixel Art, Psychological Horror, RPG Maker, Singleplayer, Story Rich",A few hours,Windows
+930,1777398,Released,4.6,48.0,"2D, Minesweeper, Pixel Art, Retro, Singleplayer",,HTML5
+931,190265,In development,4.6,93.0,"Anime, Crafting, Cute, Dating Sim, Fantasy, Female Protagonist, Multiple Endings, Otome, Romance",,"Windows, macOS, Linux"
+932,1803584,In development,4.3,20.0,"Farming, Furry, Pixel Art, Top-Down",,"Windows, macOS, Linux"
+933,632272,In development,4.4,30.0,"2D, Arcade, Automation, Breakout, brickbreaker, Clicker, Incremental, Indie, Unity",A few minutes,Windows
+934,2746015,In development,4.9,22.0,"2D, Dating Sim, LGBT, Meaningful Choices, Otome, Romance, Singleplayer, Story Rich",A few hours,"Windows, macOS"
+935,1260810,Released,4.5,84.0,"2D, Anime, Boys' Love, Fangame, Yaoi",A few minutes,"HTML5, Windows, macOS, Linux, Android"
+936,762944,Released,4.4,26.0,"murloc, murloc-rpg, murlocrpg, world-of-warcraft",A few hours,"Windows, Android"
+937,2763250,In development,4.8,16.0,"Atmospheric, Psychological Horror, Short, Singleplayer, Story Rich",,Windows
+938,616441,Released,4.7,155.0,"2D, Atmospheric, Casual, Creative, Funny, Ludum Dare 46, Relaxing, Short, Singleplayer, Unity",,HTML5
+939,2124426,In development,4.7,22.0,"Anime, Dark, Horror, josei, Otome, Romance, yandere",,"Windows, macOS"
+940,433685,Released,4.8,87.0,"2D, Cats, Colorful, Co-op, Cute, Local Co-Op, Multiplayer, pastel, Puzzle-Platformer",A few minutes,HTML5
+941,1608008,Released,4.8,164.0,"Cute, Food, Minimalist, Modern, snake, Sokoban, spicy, Vector, vector-art",,HTML5
+942,20218,Released,4.4,255.0,"artgame, Experimental, Exploration, Female Protagonist, Music, Narrative, Non violent, Short, Singleplayer, story",About a half-hour,"Windows, macOS, Linux"
+943,10358,Released,4.5,61.0,"3D, free, Funny, mouse, thecatamites",,"Windows, macOS, Linux"
+944,1444237,Released,4.4,32.0,"Amare, Crafting, Fantasy, Gender, LGBT, LGBTQIA, Magic, Queer, Transgender",About a half-hour,"HTML5, Windows, macOS, Linux"
+945,461044,Released,4.8,117.0,"2D, Aliens, Atmospheric, Female Protagonist, Narrative, Point & Click, Relaxing, Sci-fi, Singleplayer, Story Rich",,"Windows, macOS, Linux"
+946,23424,Released,4.6,21.0,"Commodore 64, Retro, rgcd, Shoot 'Em Up, vertical",,"Windows, macOS, Linux"
+947,653126,Released,4.7,54.0,"2D, Casual, Cute, earthbound, Pixel Art, Retro, RPG Maker, Singleplayer, Spooky",A few minutes,Windows
+948,9699,Released,4.6,25.0,"2-all, Shoot 'Em Up, stg",About a half-hour,"Windows, macOS"
+949,76251,Released,4.1,31.0,"2D, Action-Adventure, jumping, NES (Nintendo Entertainment System), Pixel Art, Retro, Robots, Side Scroller",About a half-hour,Windows
+950,298911,Released,4.7,15.0,"3D, agbic, Arcade, Cute, Food, Funny, Short, Singleplayer, Top Down Adventure, Unreal Engine",A few minutes,Windows
+951,803714,Released,4.6,10.0,"3D, audio-reactive, hand-tracking, Music, Oculus Quest, particle, Virtual Reality (VR), visual-effect",,Android
+952,492077,Released,4.7,171.0,"2D, Atmospheric, Bitsy, Narrative, Pixel Art, Yuri",A few minutes,HTML5
+953,2989266,Released,3.9,85.0,"3D, Atmospheric, First-Person, Horror, Indie, Short",About a half-hour,"Windows, macOS, Linux"
+954,2160832,Released,4.5,363.0,"Casual, Cute, Funny, Game Maker's Toolkit Jam, Pixel Art, Retro, Tower Defense",,HTML5
+955,57637,Released,4.1,122.0,"Dark Fantasy, Fantasy, Female Protagonist, JRPG, RPG Maker",,"HTML5, Windows, macOS, Android"
+956,1532303,Released,4.9,23.0,"Pixel Art, Playdate, Retro, snake, worm",,
+957,17580,Released,4.6,85.0,"3D, Atmospheric, Colorful, Experimental, Exploration, First-Person, Music, Procedural Generation, Relaxing, Walking simulator",About an hour,"Windows, macOS"
+958,1410194,released,4.9,34.0,"atmospheric, cozy, cute, fantasy, female protagonist, lgbt, narrative, relationship, romance",about a half-hour,"windows, macos, linux"
+959,1510948,Released,5.0,22.0,"1-bit, Dungeon Crawler, Exploration, First-Person, Playdate",About a half-hour,
+960,1117003,In development,5.0,9.0,"16-bit, 2D, blocks, Game Boy, Game Boy Advance, Multiplayer, Pixel Art, Real time strategy, Retro, Singleplayer",About a half-hour,"Windows, macOS, Linux, Android"
+961,685867,Released,4.4,70.0,"2D, bafta-ygd, LGBT, LGBTQIA, Narrative, Short, Singleplayer, Text based, Transgender",About a half-hour,"HTML5, Windows"
+962,2894137,Released,4.7,7.0,"2D, Cute, Fantasy, Horror, Magic, moe, Singleplayer, yandere, Yuri",,Windows
+963,2507255,In development,5.0,46.0,"2D, Atmospheric, Dark, Narrative, Psychological Horror, Ren'Py, tragedy, yandere",About an hour,"Windows, macOS, Linux"
+964,197010,Released,4.7,44.0,"Exploration, microscopic, nature, Point & Click, Surreal",About a half-hour,"Windows, macOS, Linux"
+965,1300773,Released,4.8,12.0,"Arcade, Commodore 64, platform, Retro",,
+966,2097494,Released,4.7,29.0,"Bara, Fantasy, Furry, Gay, Post-apocalyptic, Romance, Yaoi",About an hour,"Windows, macOS, Linux, Android"
+967,88699,Released,4.8,19.0,"Dark, Dating Sim, Horror, Multiple Endings, Mystery, Romance, RPG Maker, Violent",A few hours,Windows
+968,3092858,Released,4.9,65.0,"Arcade, Casual, Colorful, Cozy, Cute, Indie, Minimalist, Relaxing, Short, Turn-based",A few minutes,HTML5
+969,88623,Released,4.7,410.0,"Comedy, Female Protagonist, Halloween, minigames, Otome, Romance",A few hours,"Windows, macOS, Linux"
+970,2816406,In development,4.0,10.0,"3D, Atmospheric, Creepy, First-Person, Horror, Indie, Psychological Horror, Short, Singleplayer, Thriller",A few minutes,Windows
+971,3095670,In development,4.6,57.0,"Creepy, Indie, LGBT, LGBTQIA, Ludum Dare 56, Psychological Horror, Ren'Py, Romance, yandere",,"HTML5, Windows, Linux"
+972,2870702,Released,4.6,16.0,"Dark Fantasy, Female Protagonist, male-yandere, monstrousdesires, Otome, yandere",About a half-hour,Windows
+973,294451,Prototype,4.6,38.0,"3D, Arcade, Fast-Paced, First-Person, Funny, Ludum Dare, Ludum Dare 42, Singleplayer, Unity",A few minutes,"Windows, macOS, Linux"
+975,463,Released,4.3,90.0,"Exploration, Gardening, symphonic",About a half-hour,"Windows, macOS"
+976,1449766,Released,5.0,13.0,"Atmospheric, Comedy, Cute, Experimental, First-Person, non-eucledian, psychedelic, Surreal, Virtual Reality (VR)",About an hour,"Windows, macOS, Linux"
+977,319340,Released,4.6,106.0,"2D, artgame, Atmospheric, Colorful, Cute, Exploration, Fantasy, Metroidvania, Narrative, Story Rich",About a half-hour,"HTML5, Windows"
+978,445774,Released,4.4,44.0,"3D, Cute, Driving",,"Windows, macOS, Linux"
+979,2042512,Released,4.8,58.0,"Atmospheric, First-Person, Horror, Low-poly, Narrative, Singleplayer, story",About an hour,Windows
+980,147765,Released,5.0,5.0,"drone, Flight, fpv, freestyle, Level Editor, multicopter, quad-copter, Time Attack, Unreal Engine",A few minutes,Windows
+981,784789,Released,4.3,83.0,"3D, Halloween, NES (Nintendo Entertainment System), Short",,Windows
+982,1156084,Released,4.7,87.0,"Action-Adventure, Amare, Dating Sim, Fantasy, Female Protagonist, Otome, Point & Click, Romance, Story Rich",About an hour,"Windows, macOS"
+983,22762,Released,4.6,563.0,"bullet-time, hotline-miami, html5, mashup, superhot, Top-Down, Top down shooter",,"HTML5, Windows, macOS, Linux"
+984,446391,In development,4.8,44.0,"2D, arcus, arcus-chroma, blazblue, brawl, fighting-game, Pixel Art, street-fighter, tekken",,"Windows, macOS"
+985,185877,In development,4.4,47.0,"Animals, Casual, Experimental, Flight, Flying, nature, Open World, Procedural Generation, Relaxing, Voxel",About a half-hour,"Windows, macOS, Linux"
+986,52859,Released,4.0,103.0,"First-Person, meta, Multiple Endings, Narrative, Parody, secrets, Short, Unreal Engine, Voice Acting, Walking simulator",About an hour,Windows
+987,277679,Released,4.7,67.0,"2D, Abstract, Boss battle, Bullet Hell, Casual, Comedy, GameMaker, weird",,Windows
+988,452815,Released,4.4,56.0,"2D, Alternate History, Dark Humor, Funny, GameMaker, henry-viii, Pixel Art, Retro, Sandbox",A few hours,Windows
+989,2114114,In development,4.7,35.0,"Atmospheric, Exploration, Horror, LGBT, mindhaunt, RPG Maker, Singleplayer, Surreal, ynfg, yume-nikki-fangame",,Windows
+990,508416,Released,4.5,33.0,"Horror, lofi, Short",,Windows
+991,2364877,Released,4.6,7.0,"3D, Creepy, Ghosts, Horror, Indie, Mystery, PSX (PlayStation), Psychological Horror, supernatural",A few seconds,"Windows, Android"
+992,786550,Released,4.4,77.0,"Action-Adventure, Atmospheric, FPS, Horror, PSX (PlayStation), Psychological Horror, Retro, Story Rich, Survival Horror",About a half-hour,Windows
+993,27532,Released,4.2,57.0,"Abstract, Altgame, artgame, Experimental, Exploration, First-Person, Horror, mind-bending, Surreal, Walking simulator",About a half-hour,"Windows, macOS, Linux"
+994,428140,Released,4.5,33.0,"Exploration, Female Protagonist, LGBTQIA, Multiple Endings, Mystery, mythology, Narrative, Point & Click, Story Rich",,"Windows, macOS, Linux"
+995,133432,Canceled,4.7,58.0,"2D, Dating Sim, Fantasy, LGBT, Romance",About an hour,"Windows, macOS, Linux"
+996,705238,In development,4.9,30.0,"2D, Arcade, LGBT, Local multiplayer, Pixel Art, Queer, Retro, Singleplayer",A few minutes,Windows
+997,2186149,In development,4.6,118.0,"2D, Arcade, Bullet Hell, Cartoon, Funny, Hack and Slash, Roguelike, Roguelite, Score Attack, Top-Down",,Windows
+998,3047968,On hold,5.0,28.0,,,"HTML5, Windows, macOS, Linux"
+999,860653,Released,5.0,8.0,"16-bit, Arcade, Flight, Playstation Portable, Retro",,"Windows, Android"
+1000,2019102,Released,5.0,19.0,"Casual, Fishing, Playdate, Relaxing",A few minutes,
+1001,2879059,Released,3.9,55.0,"Atmospheric, Creepy, Dark, First-Person, Horror, Singleplayer, Story Rich, Survival Horror, Unreal Engine",,Windows
+1002,2838247,Released,4.6,91.0,"3D, Atmospheric, Creepy, First-Person, Horror, PSX (PlayStation), Retro, Short, Singleplayer",About a half-hour,Windows
+1003,1767535,In development,4.6,8.0,"Fangame, kirby, Story Rich",,"Windows, Android"
+1004,571596,In development,4.7,190.0,"Animals, Fantasy, Furry, Mystery, relationship, Ren'Py, Singleplayer",,"Windows, macOS, Linux, Android"
+1005,653512,Released,4.4,22.0,2D,A few seconds,Windows
+1006,398876,Released,4.5,145.0,"Casual, Comedy, Fishing, Funny, Point & Click, Short, Superhero, underwater",A few hours,"Windows, macOS, Linux"
+1007,487570,Released,4.3,170.0,,,Windows
+1008,158545,Released,4.3,81.0,"Pixel Art, Retro",,Windows
+1009,12614,In development,4.9,18.0,"2D, Cyberpunk, Horror, Lovecraftian Horror, Pixel Art, psychedelic, Retro, Story Rich, Surreal",About an hour,"Windows, macOS, Linux"
+1010,1172733,In development,4.8,38.0,"skateboard, Skating",About a half-hour,"Windows, Linux"
+1011,809453,Released,4.3,13.0,"Arcade, Flight, Horror, nightmare, On-Rails Shooter, Singleplayer",,Windows
+1012,728805,Released,4.8,16.0,,,"Windows, macOS"
+1013,448934,Released,4.3,21.0,"electronics, programming, zach-like",About an hour,"Windows, macOS, Linux"
+1014,2126722,Released,4.8,415.0,"have-a-nice-day, vocabulary, Word game",,"HTML5, Windows"
+1015,31280,Released,4.6,101.0,"Arcade, Archery, competitive, deathmatch, Gravity, Local multiplayer, Multiplayer, Retro, Turn-based, Versus",A few minutes,"Windows, macOS, Linux"
+1016,508592,In development,4.7,58.0,"16-bit, 2D, Arcade, Boss battle, Mouse only, Pixel Art, Roguelike, Roguelite, Singleplayer, Unity",About an hour,"Windows, macOS"
+1017,1899835,Released,4.6,9.0,"3D, FPS, Horror, luigi, mario, Short, Singleplayer",,Windows
+1018,53058,Released,4.1,57.0,"Abstract, Altgame, artgame, Atmospheric, Experimental, Exploration, First-Person, Minimalist, Open World, Walking simulator",,"Windows, macOS, Linux"
+1019,1636882,Released,4.5,109.0,"2D, Anime, Cute, Dating Sim, Furry, LGBT, Ren'Py, Romance, Short, Yuri",,"Windows, macOS, Linux"
+1020,721482,Canceled,4.9,26.0,"2D, Furry, GameMaker, Top Down Adventure",About an hour,Windows
+1021,1023510,Released,4.7,137.0,"boyfriend, chiptune, Friday Night Funkin' (FNF), newgrounds, pico, PICO-8, picoday2021, Pixel Art",A few minutes,"HTML5, Windows, macOS, Linux"
+1022,997670,Released,5.0,33.0,"2D, ace-attorney, Anime, Fangame, GameMaker, love-live, Singleplayer, Slice Of Life",A few hours,Windows
+1023,1122698,Released,4.7,202.0,"2D, Ren'Py, Short",,"HTML5, Windows, macOS, Linux"
+1024,1490917,Released,4.6,57.0,"2D, Bullet Hell, Pixel Art, Singleplayer",A few minutes,
+1025,320526,Prototype,4.5,57.0,"build, Management, ski-resort",About a half-hour,"Windows, macOS, Linux"
+1026,563501,Released,4.7,34.0,"Anime, Cute, JRPG, Turn-based",A few hours,"Windows, macOS, Linux"
+1027,74895,Released,4.4,49.0,"Arcade, Dark, Endless, Minimalist, one-hit-kill, Retro, Score Attack",,"HTML5, Windows"
+1028,123526,Released,4.5,120.0,"Comedy, First-Person",,"Windows, macOS, Linux"
+1029,1199082,Released,4.7,52.0,"grindhouse, Horror, killer, ps1, PSX (PlayStation), Retro, serial-killer, Slasher, Survival Horror, vhs",,Windows
+1030,1085944,Released,4.7,84.0,"Atmospheric, Comedy, Dark Humor, Game Maker's Toolkit Jam, Horror, Short, Surreal, Unity",,Windows
+1031,134716,Released,4.7,99.0,"3D Platformer, Atmospheric, Cats, Controller, Cute, Exploration, Hand-drawn, Non violent, Short, Singleplayer",,"HTML5, Windows, macOS, Linux"
+1032,43197,Released,4.6,28.0,"Anime, Casual, Comedy, Cute, Hand-drawn, Ren'Py, Romance, Slice Of Life, Story Rich, Text based",About a half-hour,
+1033,1589443,Released,4.8,5.0,"Fishing, Playdate",,
+1034,1415113,In development,4.6,22.0,"3D, Arcade, Casual, combos, fighter, Local multiplayer, PvP, Unity",A few minutes,Windows
+1035,954899,Released,4.6,87.0,"2D, Mystery, Narrative, Point & Click, Short, Singleplayer",,"HTML5, Windows, macOS"
+1036,140082,Released,4.6,71.0,"Abstract, Minimalist, Physics, Touch-Friendly",A few minutes,HTML5
+1037,205762,Released,4.8,20.0,"Action-Adventure, Level Editor, pumpkins, Robots, Top Down Adventure, yeti",About a half-hour,"Windows, Linux"
+1038,155111,In development,4.6,91.0,"Action-Adventure, Beat 'em up, chiptune, Dungeon Crawler, First-Person",About an hour,Windows
+1039,111963,In development,4.5,659.0,"3D, Atmospheric, blacksmith, Casual, Colorful, Crafting, Fantasy, First-Person, Singleplayer",Days or more,Windows
+1040,2404859,In development,4.8,38.0,"3D, Atmospheric, Exploration, First-Person, Furry, Horror, Singleplayer, Survival Horror",A few hours,Windows
+1041,1931560,Released,4.8,488.0,"Retro, Sokoban",,HTML5
+1042,883473,Released,4.6,59.0,"2D, Cute, Game Boy, gbstudio, Pixel Art, Retro, Short, Singleplayer",A few minutes,HTML5
+1043,3240449,Released,5.0,5.0,"Anime, Casual, Cute, demons, Fantasy, Horror, RPG Maker, Short",A few hours,"Windows, macOS"
+1044,865513,Released,4.3,44.0,"2D, Christmas, Female Protagonist, PICO-8, Pixel Art, Short, Singleplayer",,"HTML5, Windows, macOS, Linux"
+1045,128316,Released,4.3,164.0,"2D, Cute, Isometric, outdoor, Relaxing, summery, sunbathing",About a half-hour,"HTML5, Windows, macOS"
+1046,541099,Canceled,4.6,10.0,"16-bit, 2D, Fangame, Pixel Art",,Windows
+1047,1750415,Released,4.3,69.0,"3D, Colorful, Driving, Exploration, Narrative, nature, Relaxing, Unreal Engine, Working Simulator",About an hour,Windows
+1048,571912,Released,4.7,127.0,"Atmospheric, Comics, LGBT, LGBTQIA, Narrative, Point & Click, Short, Simple, Slice Of Life",,Windows
+1049,2209617,In development,4.8,6.0,"FPS, Multiplayer, Physics, Sandbox",A few seconds,Windows
+1050,1534869,Canceled,4.8,46.0,sound-space,A few minutes,"Windows, macOS, Linux"
+1051,1101447,Released,4.5,94.0,"Escape Game, First-Person, Horror, imposter, impostor, nightmare, Psychological Horror, Spooky, Survival Horror",,Windows
+1052,120396,Released,4.1,118.0,"artgame, Atmospheric, Experimental, Exploration, First-Person, Historical, Life Simulation, Open World, Walking simulator",A few hours,"Windows, macOS"
+1053,562655,Released,4.9,41.0,"2D, 64, 8-Bit, commodore, Commodore 64, Retro",About a half-hour,
+1054,16476,Released,4.5,31.0,"Dark, Dark Humor, death, discordianism, Horror, humor, philosophy, Pixel Art, puzzles, satire",,Windows
+1055,473721,Prototype,4.8,12.0,"2D, GameMaker, Pixel Art, Top-Down",,"Windows, macOS"
+1056,135893,Released,4.6,13.0,"Action RPG, Dark, Female Protagonist, PuzzleScript, quest",,"Windows, macOS"
+1057,214147,In development,4.8,89.0,"2D, birds, Exploration, Music, Pixel Art, Puzzle-Platformer",,"HTML5, Windows, macOS"
+1058,41241,Released,3.7,172.0,"3D, Colorful, Driving, Female Protagonist, Isometric, italy, Narrative, road-trip",About a half-hour,"Windows, macOS, Linux"
+1059,1558958,Released,4.7,14.0,"1-bit, Playdate, Retro, Turn-based Strategy",A few hours,
+1060,90436,Prototype,4.6,105.0,"3D Platformer, 8-Bit, First-Person, GBJam, Gravity, Retro",,"Windows, macOS, Linux"
+1061,2872750,In development,3.9,10.0,"Anime, Detective, feet, Female Protagonist, Mystery, Noir, Retro, tickle, tickling",,"HTML5, Windows, macOS, Linux, Android"
+1062,1867514,In development,4.3,16.0,"3D, Arcade, drift, Driving, Open World, Singleplayer, towi, Unity",A few seconds,"Windows, Linux"
+1063,716624,Released,4.5,57.0,"2D, Dungeon Crawler, Endless, Fantasy, Indie, Roguelike, Roguelite, Unity",About a half-hour,HTML5
+1064,1789468,Released,4.8,29.0,"Anime, Exploration, psychedelic, RPG Maker, Singleplayer, Surreal, Yaoi",,"Windows, macOS, Linux, Android"
+1065,1553297,Released,4.8,42.0,"Amare, Cute, Fantasy, Furry, Gay, LGBT, Romance, Story Rich",A few hours,"Windows, macOS, Linux, Android"
+1066,109103,Released,4.8,33.0,,,Windows
+1067,32706,In development,4.2,16.0,"2D, adventure-game, Creepy, free, Point & Click, rusty, salad-fingers, saladfingers, scary, weird",About a half-hour,"Unity Web Player (Legacy), Windows, macOS, Linux"
+1068,488124,In development,4.1,20.0,"Action-Adventure, Exploration, Pixel Art, Roguelike, Roguelite, Side Scroller, Space",A few minutes,"Windows, Linux, Android"
+1069,2773042,Released,4.8,103.0,"2D, artgame, Cozy, Hidden Object, Painting, Point & Click, Short, Singleplayer, Skeletons",About an hour,"Windows, macOS, Linux"
+1070,1891951,Released,4.4,54.0,"3D, First-Person, Horror, Singleplayer, Unity",A few minutes,Windows
+1071,2298973,Released,4.1,43.0,"Horror, Management, Monsters, Real time strategy, scp, Thriller, Tower Defense, Tycoon",A few hours,"HTML5, Windows, macOS, Linux, Android"
+1072,2544164,Released,4.1,83.0,"3D, Horror, Low-poly, Pixel Art, Short, Simple, Singleplayer, Spooky",A few minutes,Windows
+1073,3187090,Released,5.0,1.0,"2D, Cats, Horror, Monsters, Mystery, Short, Singleplayer, Unity",About a half-hour,Windows
+1074,2464919,Prototype,4.0,20.0,2D,,"Windows, Linux"
+1075,224950,Released,4.6,215.0,"3D, Atmospheric, Dark, First-Person, Horror, Mystery, Singleplayer, Spooky, Survival Horror",About an hour,Windows
+1076,870068,Released,4.9,11.0,"Amiga, commodore, Retro, rygar",,
+1077,2363272,Released,4.2,62.0,,,Windows
+1078,1254902,In development,4.7,6.0,"3D, Aliens, First-Person, FPS, Ghosts, Halloween, Robots, Sci-fi, Spooky",,Windows
+1079,306544,Released,4.3,19.0,"Casual, Cozy, Cute, Indie, Relaxing, Retro, Singleplayer, Top-Down, Turn-based",A few minutes,"Windows, macOS, Linux"
+1080,1136897,Released,4.4,45.0,"2D, boyfriend, free, Otome, Ren'Py, Romance, Short, visualnovel",,Windows
+1081,138055,Released,4.8,42.0,"Funny, Ludum Dare 38, Physics, Soccer, world-cup",A few seconds,HTML5
+1082,751010,Prototype,4.0,21.0,"3D, 3D Platformer, Isometric, Low-poly, Narrative, scp, Singleplayer, Spooky, Unity",,"Windows, macOS, Linux"
+1083,853636,Prototype,4.6,47.0,"7dfps, absurd, Fast-Paced, First-Person, FPS Platformer, Funny, Physics, Speedrun, time-trial, Voice Acting",,Windows
+1084,353724,In development,4.6,32.0,"Dating Sim, Horror, interactive, Narrative, Otome, Romance, story, ue4",,Windows
+1085,609910,Released,4.5,44.0,,,Windows
+1086,237733,Released,4.7,18.0,"8-Bit, Arcade, Commodore 64, explore, puzzles, Retro, Traps",,
+1087,887806,In development,4.7,67.0,"Beat 'em up, boxing, party-game, Physics, ufc",A few seconds,Windows
+1088,2672962,Released,4.2,35.0,"Atmospheric, Creepy, First-Person, Horror, Low-poly, Monsters, Psychological Horror, Short, Singleplayer, Spooky",A few minutes,Windows
+1089,581230,Released,4.7,66.0,"2D, Action RPG, Anime, Female Protagonist, JRPG, Pixel Art, Singleplayer, Turn-Based Combat",A few hours,
+1090,525666,Released,4.5,21.0,"2D, Fantasy, Game Boy, Game Boy ROM, gbstudio, Narrative, Pixel Art, Story Rich",,HTML5
+1091,801582,In development,4.7,126.0,"2D, Controller, Horror, Pixel Art, Singleplayer, Story Rich",About an hour,"Windows, macOS, Linux"
+1092,890314,Released,4.2,18.0,"3D, Cyberpunk, FPS, Roguelike, Roguelite, Sci-fi, Unreal Engine",,Windows
+1093,1472503,Released,4.7,81.0,"2D, Boss battle, Ludum Dare 50, Pixel Art",,HTML5
+1094,200325,In development,4.8,9.0,"Cute, Dark, Horror, Multiple Endings, Pixel Art, Ren'Py",About an hour,"Windows, macOS, Linux"
+1095,358733,In development,4.7,84.0,"Animals, Dark Fantasy, Fantasy, Furry, Ludum Dare 43, Meaningful Choices, Narrative",,
+1096,338902,Released,5.0,13.0,"2D, ascii, Pixel Art, Retro, Roguelike, Roguelite, Top-Down",A few seconds,Windows
+1097,1259497,Released,4.0,26.0,"Halloween, Hand-drawn, Horror, minigames, Pixel Art, Short, transformation, Vampire, werewolf",About a half-hour,
+1098,90146,Released,4.7,45.0,"2D, Arcade, Game Boy, GBJam, LÖVE, Pixel Art",A few minutes,"Windows, macOS"
+1099,174495,Released,4.6,41.0,"casino, coin, Dice, drop, html5, match-3, match3, Pixel Art, swap",Days or more,"Windows, macOS, Android"
+1100,1702899,Prototype,4.8,26.0,"2D, 3D, Dungeon Crawler, Exploration, First-Person, FPS, gridder, Prototype",A few seconds,HTML5
+1101,205000,Released,4.6,94.0,"Atmospheric, Exploration, First-Person, Ghosts, Horror, Mystery, Shadows, Story Rich, Surreal",About an hour,Windows
+1102,461608,Released,4.7,141.0,"2D, Cute, Game Maker's Toolkit Jam, Pixel Art, Short",,"HTML5, Windows, macOS, Linux"
+1103,746631,Prototype,4.7,27.0,"action-defense, ffflood, flood, Roguelike, swarm, Tower Defense, turrets",,Windows
+1104,900792,Released,4.6,16.0,"3D, Fast-Paced, First-Person, Roguelike",About a half-hour,Windows
+1105,278507,Released,4.0,80.0,"3D, Altgame, Dystopian, First-Person, Horror, maze, Parkour, Singleplayer, Surreal, weird",About a half-hour,"Windows, macOS, Linux"
+1106,673,Released,4.3,118.0,"alpha, Creepy, Horror",About a half-hour,Windows
+1107,953324,Released,4.6,37.0,"Atmospheric, Dating Sim, Narrative, Pixel Art, Story Rich",A few hours,"Windows, macOS, Linux"
+1108,126723,In development,4.1,127.0,"Seven Day Roguelike Challenge, Roguelike",,"HTML5, Windows, macOS, Android"
+1109,126723,In development,4.1,127.0,"Seven Day Roguelike Challenge, Roguelike",,"HTML5, Windows, macOS, Android"
+1110,1449588,Released,4.6,44.0,"2D, Casual, Cute, Pixel Art, Relaxing, Sci-fi, Short, Singleplayer",,"HTML5, Windows"
+1111,918639,Released,4.7,191.0,"2D, Casual, Cozy, Cute, Female Protagonist, Metroidvania, Pixel Art, Short, Singleplayer",About an hour,"HTML5, Windows, macOS"
+1112,973823,In development,4.6,7.0,"3D, Co-op, Creepy, Difficult, Escape Game, First-Person, Multiplayer, Space",About an hour,Windows
+1113,3002447,Released,4.8,12.0,"1-bit, 2D, Godot, Narrative, scrabble, Space",About a half-hour,HTML5
+1114,244846,In development,4.4,58.0,"Atmospheric, Horror, Monsters, Mystery, Singleplayer, Spooky, Story Rich, Surreal",A few seconds,Windows
+1115,506793,In development,4.6,21.0,"Bara, Boys' Love, Dark, Gay, Horror, LGBT, Sci-fi, Space, Story Rich",About an hour,"Windows, macOS, Linux"
+1116,193012,Released,4.1,42.0,"2D, Arcade, Beat 'em up, gamepad, Multiplayer, Score Attack",,Windows
+1117,1698848,Released,4.8,5.0,"Atmospheric, Creepy, Dark, Horror, penrose, Pixel Art, Playdate, Psychological Horror, Short, Spooky",,
+1118,283487,Released,4.2,101.0,"Abstract, Dark, Dating Sim, fiction, Horror, Multiple Endings, Pixel Art, relationship, weird",About a half-hour,Windows
+1119,32235,Released,4.6,45.0,"2D, Cyberpunk, Dystopian, Hand-drawn, Noir, Point & Click, Sci-fi, Story Rich, Walking simulator",About an hour,"Windows, macOS, Linux"
+1120,949921,In development,4.8,13.0,"2D, Demake, gamepad, Pixel Art, Remake, Retro, Side Scroller, Singleplayer",A few minutes,Windows
+1121,287843,Released,4.3,177.0,"Dystopian, Farming, goats, memory-of-god, Narrative, stillness, wind",,"Windows, macOS"
+1122,300628,Released,4.3,20.0,"Escape Game, Singleplayer",,Windows
+1123,1212937,Released,4.6,77.0,"3D, 3D Platformer, Low-poly, PSX (PlayStation), sega-saturn",,Windows
+1124,3267370,Released,5.0,3.0,"Cozy, Farming, Tycoon",,HTML5
+1125,455721,Released,4.4,138.0,"2D, Dystopian, Meaningful Choices, satire, Story Rich",About a half-hour,"Windows, macOS"
+1126,954995,Released,4.1,108.0,"3D, Dark, First-Person, Horror, Mystery, Short, Singleplayer, sponge-bob, Spooky",,Windows
+1127,2253559,Released,5.0,29.0,"Anime, Dark, Female Protagonist, Futuristic, Horror, Narrative, Psychological Horror, Sci-fi, Story Rich",,"Windows, macOS, Linux"
+1128,263638,Released,4.4,83.0,"2D, Anime, Arcade, cappuccino, coffee, Cute, Female Protagonist, Game Boy, gamegirljam, Game Jam",,Windows
+1129,662917,In development,4.5,49.0,"Action-Adventure, Action RPG, colosseum, Hack and Slash, Hand-drawn, Singleplayer, Steampunk, Story Rich, Unity",,Windows
+1130,1639318,Released,4.6,58.0,"2D, Animals, coffee, Cute, Hand-drawn, Indie, Unity, witch, Working Simulator",,HTML5
+1131,1611909,Released,4.9,27.0,"1-bit, Isometric, mahjong, Playdate, Relaxing, Retro, solitaire, tiles",A few minutes,
+1132,1720549,Released,4.8,17.0,"Five Nights at Freddy's, Horror, Survival Horror",,"HTML5, Windows"
+1133,617505,Released,4.5,77.0,"blood, Ludum Dare 46, Pixel Art, Top-Down, Top down shooter, Violent",A few seconds,HTML5
+1134,369927,Released,4.8,52.0,"Dating Sim, kpop, Otome",,"Windows, macOS"
+1135,596252,Released,5.0,13.0,"cryptid, Fantasy, Horror, Lesbian, lgbtq, Queer, Roadtrip, Romance, Transgender",A few minutes,
+1136,362807,In development,4.5,33.0,"3D, Real time strategy, Singleplayer, Third-Person Shooter, Tower Defense, Zombies",About an hour,"Windows, macOS"
+1137,3093932,In development,5.0,7.0,"Aliens, Monsters, monstrousdesires, Romance, Vampire",,"HTML5, Windows"
+1138,495948,In development,4.6,267.0,"2D, Creative, Fantasy, Funny, Hand-drawn, Ludum Dare, Ludum Dare 45, Singleplayer, Story Rich",,"HTML5, Windows"
+1139,1330244,Released,4.9,55.0,"2D, Action-Adventure, Exploration, Feel Good, Funny, Pixel Art, Singleplayer, Top-Down, Top Down Adventure",,HTML5
+1140,3185781,Released,5.0,1.0,,,HTML5
+1141,1690778,Released,5.0,17.0,"3D, Fangame, First-Person, Horror, Meme, Spoopy, Survival Horror, Touhou",A few minutes,Windows
+1142,134584,Released,4.3,99.0,"1-bit, Clicker, Farming, grow, Idle, tree",,HTML5
+1143,707770,In development,4.8,35.0,"Atmospheric, FPS, Horror, Lovecraftian Horror, Mystery, Narrative, Photorealistic, Singleplayer, the-shore",,Windows
+1144,66716,Released,4.9,50.0,"architecture, Colorful, escher, Experimental, Exploration, First-Person, Puzzle-Platformer, Relaxing, Singleplayer, Surreal",A few hours,Windows
+1145,64610,In development,4.5,156.0,"Character Customization, Comedy, Fantasy, LGBT, Otome, Ren'Py, Romance",A few hours,"Windows, macOS, Linux"
+1146,1091196,Released,4.8,31.0,"Action RPG, Cute, Lesbian, LGBT, Pixel Art, Top Down Adventure, Touhou",,Windows
+1147,3111294,Prototype,4.3,12.0,"Fantasy, Furry, Gacha, Gay",,Android
+1148,296924,Prototype,4.6,52.0,"Demake, master-system, On-Rails Shooter, sega",A few minutes,HTML5
+1149,1376796,In development,4.6,53.0,"2D, Construct 2, Cute, duck, Parkour, Pixel Art",,"HTML5, Windows"
+1150,346589,Released,4.5,32.0,"Arcade, Atmospheric, Comedy, Exploration, First-Person, Horror, Parody, Short, Spoopy, Survival Horror",,Windows
+1151,436338,In development,4.5,11.0,,,Windows
+1152,70162,Released,4.6,146.0,"3D, Atmospheric, bird, Exploration, feather, Flight, Flying, Low-poly, Relaxing, Unity",About an hour,"Windows, macOS, Linux"
+1153,242938,Released,4.4,46.0,"16-bit, 2D, Arcade, Casual, fantasy-console, Ludum Dare, Ludum Dare 41, TIC-80",A few minutes,"HTML5, Windows"
+1154,1180484,Released,4.8,55.0,"hauntedps1, Horror, Low-poly, PSX (PlayStation), Shoot 'Em Up",,"Windows, macOS, Linux"
+1155,272492,Released,4.9,13.0,,A few minutes,"Windows, macOS, Linux"
+1156,2400039,Released,5.0,6.0,"3D, Arcade, Open World, Unity",,"Windows, Linux, Android"
+1157,2126419,Released,5.0,13.0,"Comedy, meta, Pixel Art, RPG Maker, shroomjam, Story Rich, streamer, twitch, vinesauce, youtube",A few minutes,Windows
+1158,1116242,Released,5.0,31.0,"Atmospheric, Exploration, Female Protagonist, Gothic, mythology, Pixel Art, Story Rich, supernatural, Surreal",,Windows
+1159,3021395,Released,4.6,83.0,"Arcade, Casual, Ludum Dare, Ludum Dare 56, Short, Singleplayer",,"HTML5, Windows, macOS"
+1160,80001,Released,4.3,55.0,"Amare, Anime, Cute, Fantasy, Female Protagonist, Magic, Otome, otome-game, Romance, Slice Of Life",Days or more,"Windows, Linux"
+1161,811773,On hold,4.8,65.0,"3D, Atmospheric, Dark, First-Person, Low-poly, Queer, Retro, Short, Walking simulator",A few minutes,"Windows, macOS, Linux"
+1162,1316527,Released,4.6,33.0,"Atmospheric, Cats, Metroidvania",A few hours,Windows
+1163,2846419,Released,4.8,6.0,"8-Bit, Game Boy, Game Boy ROM, Homebrew, Pixel Art, Retro",,
+1164,3004310,Released,4.6,27.0,"2D, Anime, Comedy, Gay, LGBT, Mystery, Point & Click, Yuri",About an hour,"Windows, macOS, Linux"
+1165,1540802,Released,4.8,25.0,"Dating Sim, Horror, Pixel Art, Ren'Py, Romance, Short, Singleplayer",,"Windows, macOS, Linux, Android"
+1166,2795310,Released,4.8,53.0,"Atmospheric, Female Protagonist, Gay, Lesbian, LGBT, Mental Health, Multiple Endings, Queer, Transgender, Yuri",A few seconds,"Windows, macOS, Linux, Android"
+1167,1324810,Released,4.9,21.0,"Fast-Paced, Futuristic, High Score, match-3, Pixel Art, Sci-fi, Score Attack, Tower Defense, warios-woods",About a half-hour,"Windows, macOS, Linux"
+1168,21241,In development,4.6,9.0,"Arcade, Bullet Hell, demo, Fast-Paced, Level Editor, Minimalist, Music, Unity",About a half-hour,
+1169,1112864,Released,4.8,12.0,"Comedy, Funny, Indie, keyboard, Typing, typing-game",,Windows
+1170,1009099,In development,4.8,35.0,"3D, adrenaline, Arcade, Cyberpunk, Fast-Paced, FPS, Retro, Singleplayer, Time Attack",A few minutes,Windows
+1171,2302263,Released,4.9,20.0,"3D, creepypasta, Horror, jane-the-killer, jeff-the-killer, Unity",,Windows
+1172,2020418,Released,4.5,26.0,"2D, Atmospheric, Casual, Cute, Farming, Mouse only, nature, Pixel Art, Relaxing, Singleplayer",About a half-hour,Windows
+1173,1580739,Released,4.8,119.0,"2D, Aliens, Cute, Funny, Indie, Pixel Art, Retro",,HTML5
+1174,413285,Released,4.5,34.0,"3D, FPS, Low-poly, Ludum Dare 44, Retro",,"Windows, Linux"
+1175,806969,Released,4.8,48.0,"dracula, Halloween, Metroidvania, Short, Skeletons, Spooky, unspeakable",About a half-hour,"HTML5, Windows"
+1176,2722778,In development,4.7,28.0,,,
+1177,2702433,Released,4.7,220.0,"Point & Click, Singleplayer",,HTML5
+1178,659803,Released,4.9,18.0,"LGBT, LGBTQIA, Romance, Yuri",,Windows
+1179,1512694,Released,4.6,16.0,"Dice, Playdate",A few minutes,
+1180,169632,Released,4.8,17.0,"Kickstarter, Turn-based, Turn-based Strategy, War",Days or more,"Windows, macOS"
+1181,952219,Released,4.5,46.0,,About a half-hour,HTML5
+1182,908318,Released,4.2,231.0,"3D, Atmospheric, Blender, First-Person, Horror, Narrative, PSX (PlayStation), psx-playstation, Short, Unity",A few minutes,Windows
+1183,774354,Released,4.4,108.0,"2D, Casual, html, Idle, Incremental, Short",About a half-hour,HTML5
+1184,874748,Released,4.5,8.0,"Meme, mod, Pixel Art, Pizza Tower, pizza-tower-repainted, repaint, sage-2019, shitpost",,
+1185,2684228,In development,4.8,46.0,"2D, Creepy, drama, Horror, Male protagonist, Mystery, Point & Click, Short",About an hour,"Windows, macOS"
+1186,83210,Prototype,4.7,70.0,"Ludum Dare 36, trashcore",A few minutes,"Windows, macOS"
+1187,96729,In development,4.7,142.0,"Puzzle-Platformer, Side Scroller, Singleplayer",,"Windows, macOS, Linux"
+1188,1146515,In development,4.8,106.0,"2D, Horror, LGBT, RPG Maker",About a half-hour,Windows
+1189,383593,Released,4.9,23.0,"2D, Cute, Ghosts, Hand-drawn, Pixel Art, Roguelike",,"Windows, macOS, Linux"
+1191,13314,Released,3.7,13.0,"Action-Adventure, Dungeon Crawler, Exploration, First-Person, Horror, Perma Death, Procedural Generation, Roguelike, Spooky, Survival Horror",,Windows
+1192,465815,Released,4.5,81.0,"2D, Meaningful Choices, Mystery, Ren'Py, Romance, Singleplayer, Story Rich, suspense, Thriller",,"Windows, macOS, Linux"
+1196,897488,In development,4.5,26.0,"Cute, Escape Game, Female Protagonist, Horror, Low-poly, Procedural Generation, Psychological Horror, Retro, Survival Horror",About a half-hour,"Windows, macOS, Linux"
+1197,2915221,Released,4.6,27.0,Game Maker's Toolkit Jam,,"HTML5, Windows"
+1198,2510600,Released,4.5,6.0,"2D, 8-Bit, Arcade, Game Boy, Indie, Pixel Art, Short, Singleplayer",,HTML5
+1199,2695462,Released,4.7,17.0,"2D, Anime, Gacha, Singleplayer, Solo RPG, Turn-based, Turn-Based Combat, upgrades",Days or more,"HTML5, Windows, macOS, Linux, Android"
+1200,1175894,Released,4.9,40.0,"2D, friendship, LGBT, Ren'Py, Transgender",About a half-hour,"Windows, macOS, Linux"
+1201,685189,Released,4.9,14.0,"analog-pocket, chiptune, Cute, Exploration, Game Boy, Game Boy ROM, Pixel Art, Short, Singleplayer",About a half-hour,
+1202,174104,Released,4.1,36.0,"Arcade, Funny, Stealth",,"Windows, macOS"
+1203,718745,In development,4.5,68.0,"First-Person, Game Design, lockpicking, museum",,"Windows, macOS, Linux"
+1204,2222209,Released,4.7,7.0,"3D, Atmospheric, Funny, Golf, Gore, Pixel Art, PvP, Retro, Turn-Based Combat",,Windows
+1205,258982,Released,4.1,19.0,"City Builder, Management, Medieval",A few hours,"Windows, macOS, Linux"
+1206,46774,In development,4.4,94.0,"Controller
+,
+Difficult
+,
+Endless
+,
+gamepad
+,
+jumping
+,
+Ludum Dare 34
+,
+Pixel Art
+,
+Relaxing
+,
+Score Attack
+,
+Singleplayer",A few minutes,"Windows
+,
+macOS"
+1207,566302,Released,5.0,7.0,"8-Bit, Game Boy",,
+1208,904794,Released,3.9,85.0,"3D, Atmospheric, Creepy, First-Person, Horror, Narrative, Psychological Horror, Short, Singleplayer",A few minutes,Windows
+1209,77379,Released,4.7,116.0,,,"Windows, macOS"
+1210,147462,In development,4.8,55.0,"artgame, Atmospheric, Coming Of Age, Dark Humor, Female Protagonist, LGBT, Mental Health, Pixel Art, psychedelic, RPG Maker",About an hour,Windows
+1212,3199903,In development,4.8,8.0,"3D, Co-op, Godot, LGBT, Low-poly, Singleplayer, Third-Person Shooter",,Windows
+1213,3268767,In development,5.0,1.0,"2D, Comedy, goofy",,"HTML5, Windows, macOS, Linux, Android"
+1214,21706,Released,4.4,31.0,"2D, Comedy, Cute, Multiple Endings, Mystery, Ren'Py, Romance, secrets, Story Rich",,"Windows, macOS, Linux"
+1215,1381821,Released,4.7,74.0,"2D, Co-op, Experimental, Massively multiplayer, Procedural Generation, psychedelic, social, Virtual Pet",A few seconds,"Windows, macOS, Linux"
+1216,2288428,Released,4.9,16.0,"Exploration, Female Protagonist, Funny, Halloween, Horror, Pixel Art, RPG Maker, Short, Slice Of Life, Spooky",,Windows
+1217,641004,On hold,4.5,21.0,"3D, Arcade, Casual, Colorful, Cute, Fantasy, Low-poly, Multiplayer, Retro",A few seconds,Windows
+1218,247713,Released,4.4,119.0,"1-bit, Construct 2, Cooking, Ludum Dare 41, restaurant, spelling, Typing",,"HTML5, Windows, macOS"
+1219,32062,Released,4.4,64.0,"3D, Horror, Short",,"Windows, macOS, Linux"
+1220,236220,In development,4.9,8.0,"ancient, combat, Historical, Medieval, melee, Physics, Tactical RPG, tactics",About an hour,
+1221,640030,Released,4.7,85.0,"3D, Atmospheric, Exploration, Horror, Narrative, Singleplayer, Spooky",,Windows
+1222,806472,In development,4.0,4.0,"bodyguard, oculus, Oculus Quest, Oculus Rift, quest, sidequest, Virtual Reality (VR)",About a half-hour,
+1223,1645752,Prototype,4.8,88.0,"3D, Low-poly, Roguelike, Top-Down",A few minutes,HTML5
+1224,737764,Released,4.9,34.0,"Aliens, Indie, linear, Ren'Py, Sci-fi, Singleplayer, Space, Story Rich",A few hours,"Windows, macOS"
+1225,2831389,Released,4.8,46.0,"2D, Anime, Atmospheric, Creepy, Indie, Multiple Endings, Psychological Horror, RPG Maker, Short, Thriller",A few minutes,"HTML5, Windows, macOS, Linux"
+1226,2216567,Released,4.8,18.0,"2D, Lo-fi, LOWREZJAM, PICO-8, Pixel Art, Retro, Zombies",A few minutes,"Windows, macOS, Linux"
+1227,2628320,Released,4.4,96.0,"3D, Atmospheric, Dark, First-Person, Horror, PSX (PlayStation), Psychological Horror, Retro, Singleplayer",A few minutes,Windows
+1228,368077,Released,4.9,24.0,"Board Game, drills, japanese, mahjong, trainer",A few minutes,HTML5
+1229,2276409,Released,4.9,11.0,"24xx, fkr, OSR, rules-lite, Tabletop role-playing game",,
+1230,177309,Released,4.7,78.0,"Atmospheric, Cute, Female Protagonist, Funny, RPG Maker, Short, Slice Of Life, Story Rich",A few minutes,"Windows, macOS"
+1231,789205,In development,4.5,28.0,"25d-platformer, Retro, Singleplayer, Unity",,Windows
+1233,275220,In development,4.3,47.0,"base-building, Cyberpunk, Futuristic, Kickstarter, Life Simulation, Management, Narrative, Neon, Procedural Generation",A few hours,"Windows, macOS, Linux"
+1234,3116946,Released,5.0,3.0,"Cute, Sprunki",,HTML5
+1235,1018048,Prototype,4.4,11.0,"3D, Blender, Exploration, Fantasy, FPS, Godot, maze, Pixel Art, Retro, Walking simulator",,"Windows, macOS, Linux"
+1236,21155,Released,4.4,55.0,"artgame, Atmospheric, Dating Sim, Experimental, Exploration, Horror, Mystery, Point & Click, Romance, Surreal",,Windows
+1237,3038930,In development,4.9,30.0,"3D, Atmospheric, Colorful, Creepy, Dark, Horror, lidar, Relaxing",About a half-hour,Windows
+1238,1444538,Released,4.9,16.0,"bl, frankenstein, Halloween, Kinetic Novel, mad-scientist, Queer, scifi",About a half-hour,"Windows, macOS, Linux, Android"
+1239,2077666,In development,4.2,10.0,"1-bit, Bara, Cozy, Dating Sim, Furry, Gay, LGBT, Playdate, Romance, Short",A few minutes,
+1240,656115,Released,4.7,124.0,Music,A few seconds,Windows
+1241,3187760,Released,4.9,20.0,,,HTML5
+1242,128084,Released,4.8,19.0,"boss, Boss battle, boss-fight, bullet, Bullet Hell, hell, pixel, Pixel Art, souls",,Windows
+1243,101650,Released,4.5,197.0,"2D, contemplative, Cute, Female Protagonist, Hand-drawn, Life Simulation, Minimalist, self-care-jam, Twine",A few minutes,HTML5
+1244,119886,Released,4.7,20.0,,,"Windows, macOS, Linux"
+1245,326120,Released,4.4,12.0,"2D, 3D, better-to-upload, fullgame, Horror, minigames, scary, Top Down Adventure",About a half-hour,Windows
+1246,1504501,Released,4.8,19.0,"Atmospheric, calm, Space",About a half-hour,"Windows, macOS, Linux"
+1247,1731126,Released,4.6,108.0,"2D, combat, karate, Ludum Dare 51, martial-art, Pixel Art, Top-Down",A few seconds,"HTML5, Windows"
+1248,3196695,Released,4.8,17.0,"artgame, Atmospheric, Cartoon, Dark, Horror, Short, Side Scroller, Singleplayer, Surreal",A few minutes,Windows
+1249,34788,In development,4.3,113.0,"dude-stop, Ludum Dare, Ludum Dare 33, Pixel Art",A few minutes,Windows
+1250,1026681,In development,4.8,168.0,"Dating Sim, Fantasy, Female Protagonist, LGBTQIA, Meaningful Choices, Mystery, Romance, Text based, Twine",A few hours,HTML5
+1251,979738,In development,4.3,35.0,"3D, Atmospheric, Creepy, First-Person, Horror, Psychological Horror, Short, Singleplayer, Survival Horror",A few hours,Windows
+1252,2435808,Released,4.7,10.0,"2D, Arcade, Godot, Pixel Art, Retro",,"HTML5, Windows"
+1253,8252,Released,4.7,26.0,"adorable, boo, Cute, ghost, haunt, scare, Spooky, woo",,"Windows, macOS"
+1254,2238244,Released,4.5,55.0,"Amare, Dark, Female Protagonist, Multiple Endings, Mystery, Otome, Psychological Horror, Romance, Story Rich",A few hours,"Windows, macOS, Linux, Android"
+1255,578874,Released,4.0,18.0,"2D, Casual, Comedy, Dating Sim, Fangame, helltaker, Relaxing, Ren'Py, Singleplayer",About an hour,"Windows, macOS, Linux"
+1256,1513721,Released,4.6,97.0,"3D, Atmospheric, Creepy, Funny, Horror, Short, Spooky, Touhou, weird",A few minutes,"HTML5, Windows, Linux"
+1257,1679347,Released,4.2,37.0,"2D, Colorful, Female Protagonist, Godot, Management, Mouse only, Short, Singleplayer, sitting-simulator",A few minutes,"HTML5, Windows"
+1258,91866,Released,4.5,57.0,"Comedy, Co-op, Local Co-Op, Local multiplayer, Multiplayer, Stealth",A few seconds,Windows
+1259,171510,Released,4.2,64.0,"kenney-jam, kenneyjam, pixeland, Puzzle-Platformer",,HTML5
+1260,116250,Released,4.6,111.0,"Cartoon, Comedy, Horror, Mystery",A few minutes,"Windows, macOS"
+1261,2957485,In development,4.1,9.0,"2D, artificial-intelligence, Atmospheric, Dungeon Crawler, Fantasy, Furry, Life Simulation, Singleplayer",A few seconds,"HTML5, Windows, macOS, Linux"
+1262,2957485,In development,4.1,9.0,"2D, artificial-intelligence, Atmospheric, Dungeon Crawler, Fantasy, Furry, Life Simulation, Singleplayer",A few seconds,"HTML5, Windows, macOS, Linux"
+1263,268370,Released,4.5,12.0,"Frogs, Local multiplayer, minigames, Multiplayer, Short, toads",,"Windows, macOS"
+1264,1361768,Released,4.4,49.0,"3D, Female Protagonist, First-Person, Horror, Short, Singleplayer",A few minutes,Windows
+1265,304369,In development,4.3,6.0,,,
+1266,128594,Released,4.5,41.0,"Roguelike, Roguelite, Singleplayer, Strategy RPG, Tactical, Tactical RPG, Turn-based, Turn-based Strategy",Days or more,"Windows, macOS, Linux"
+1267,871779,Released,4.8,20.0,"2D, PICO-8, Pixel Art",,HTML5
+1268,945994,Prototype,4.7,88.0,"3D Platformer, Atmospheric, Dark, Exploration, Horror, Singleplayer, Third Person",About a half-hour,Windows
+1269,2490188,Released,4.3,20.0,"2D, Colorful, Cute, DRM Free, Frogs, Game Boy, gb-studio, gbstudio, Pixel Art, Retro",About a half-hour,HTML5
+1270,1568566,Released,4.5,77.0,"Amare, Dating Sim, Fantasy, Female Protagonist, Magic, Mystery, Otome, Romance, Story Rich",,"Windows, macOS, Linux, Android"
+1271,654887,Released,4.5,16.0,"2D, 8-Bit, Cute, Dungeon Crawler, PICO-8, Pixel Art, pyxel, Roguelite, Singleplayer",About a half-hour,"Windows, macOS, Linux"
+1272,413537,Released,4.4,466.0,"2D, 3D, Life Simulation, Ludum Dare 44",A few minutes,"HTML5, Windows, macOS"
+1273,974490,Released,5.0,5.0,,,
+1274,3215979,Released,5.0,1.0,"Horror, Incredibox, Music, Sprunki",,HTML5
+1275,622466,In development,4.9,32.0,"Animals, Cute, Game Boy, html5, mike-ren, mobile, Pixel Art, Retro",A few minutes,HTML5
+1276,3061616,In development,4.9,8.0,"Amare, Dark Fantasy, dark-romance, Fantasy, Female Protagonist, josei, monstrousdesiresvnjam, Multiple Endings, Otome, Romance",About a half-hour,"Windows, macOS, Linux"
+1277,1092798,Released,4.9,27.0,"2D, Bitsy, Casual, Cute, LGBT, Retro, Singleplayer",,"HTML5, Windows, macOS, Linux, Android"
+1278,66752,Released,4.6,134.0,"cool-dog, cooldog, Funny, how-to-type, tpying, Tutorial, typeing, Typing",A few minutes,"HTML5, Windows, macOS"
+1279,1194704,Released,4.9,10.0,"Casual, Music, Procedural Generation, rhythm-any-music, rhythm-game, song, Unreal Engine",A few minutes,Windows
+1280,1194704,Released,4.9,10.0,"Casual, Music, Procedural Generation, rhythm-any-music, rhythm-game, song, Unreal Engine",A few minutes,Windows
+1281,2465998,Released,4.6,37.0,"2D, Alternate History, analog-horror, FMV, Horror, Psychological Horror, Retro, Story Rich, Text based",,Windows
+1282,312608,In development,4.6,11.0,"3D, Procedural Generation, Roguelike, Singleplayer, Tactical, Tactical RPG, Turn-based, Turn-Based Combat, Vehicles",About an hour,Windows
+1283,1157145,Released,4.6,29.0,DRM Free,A few minutes,"HTML5, Windows, macOS, Linux, Android"
+1284,363134,Released,4.6,72.0,"PICO-8, Pixel Art, Retro",,"HTML5, Windows, macOS, Linux"
+1285,1720900,Released,4.5,13.0,"2D, Roguelike, Roguelite, Top down shooter",,Windows
+1286,304124,On hold,4.5,62.0,"gamepad, Lo-fi, Superpowers",A few minutes,"Windows, macOS, Linux"
+1287,78257,In development,4.5,102.0,,About an hour,Windows
+1288,870120,Released,4.9,12.0,"Amiga, beer, beer-edition, bomb-jack, ocs, Retro",,
+1289,12792,Released,4.6,34.0,,,Windows
+1290,419227,Released,4.5,133.0,"Comedy, Dating Sim, Romance",,"Windows, macOS"
+1291,1844414,Released,4.9,71.0,"2D, Animals, Cats, Singleplayer, Sokoban",,HTML5
+1292,179780,Released,4.2,52.0,"Action-Adventure, artgame, Colorful, figment, Funny, Hand-drawn, Indie, Music, Story Rich, Surreal",About a half-hour,"Windows, macOS, Linux"
+1293,995568,Released,4.1,30.0,"3D, Atmospheric, Exploration, First-Person, Godot, Horror, PSX (PlayStation), Psychological Horror, Short, Singleplayer",About a half-hour,"Windows, macOS, Linux"
+1294,655843,In development,4.5,11.0,"Cyberpunk, Lo-fi, Open World, Pixel Art",A few minutes,"Windows, macOS, Linux"
+1295,877492,In development,4.6,42.0,"3D, First-Person, Horror",,Windows
+1296,79824,Released,4.5,38.0,"JRPG, PICO-8, poke",,HTML5
+1297,2369565,Released,4.4,51.0,"2D, Anime, Fantasy, Folklore, Lesbian, LGBT, Queer, Ren'Py, Romance, Yuri",About a half-hour,"Windows, macOS, Linux, Android"
+1298,2021714,In development,4.6,26.0,"Crafting, Fantasy, Open World, Pixel Art, Procedural Generation, Roguelike, Sandbox, Trading, Turn-based",Days or more,Windows
+1299,1055757,Released,4.9,11.0,"2D, Godot, Pixel Art",,HTML5
+1300,227367,Prototype,4.7,20.0,"3D, 3D Platformer, Co-op, Local multiplayer, Multiplayer, planting, Third Person",A few minutes,"Windows, macOS"
+1301,3055161,Released,5.0,2.0,"2D, Horror",,"Windows, macOS, Linux, Android"
+1302,14591,Released,4.3,15.0,"Action-Adventure, Action RPG, Boss battle, Character Customization, Fantasy, Magic, Mystery, Point & Click, Remake, Story Rich",A few hours,Windows
+1303,22564,Released,4.7,56.0,"Pixel Art, Tarot, Twine",A few seconds,HTML5
+1304,15559,Prototype,4.1,78.0,"Female Protagonist, Ludum Dare 31, Point & Click",,Windows
+1305,438963,In development,4.5,31.0,"2D, Anime, Coming Of Age, Female Protagonist, Life Simulation, Management, RPG Maker, Singleplayer, Top-Down",A few hours,Windows
+1306,1679023,Released,4.7,18.0,"Casual, Comedy, Funny, minigames, Non violent, Playdate, Relaxing, Retro, screensaver",A few minutes,
+1307,1278169,Released,4.6,23.0,"Atmospheric, Creepy, Horror, Narrative, Pixel Art, Point & Click, Retro, Story Rich",A few hours,Windows
+1308,2134358,Released,4.5,58.0,"3D, First-Person, Horror, Short, Singleplayer, Unity",A few minutes,Windows
+1309,534659,In development,4.7,43.0,"chiptune, Fantasy, fourquarters, Pixel Art, random, Roguelike",,"Windows, Linux, Android"
+1310,33260,Released,4.4,43.0,"Cats, Cute, fusion, Pixel Art, Puzzle-Platformer, squiddershins",,Windows
+1311,2424798,Released,4.0,14.0,"3D, Christmas, Comedy, Horror, Short, Story Rich",,Windows
+1312,259809,In development,4.3,40.0,"3D, Casual, City Builder, Economy, Low-poly, Management, Medieval, Real time strategy, Relaxing",A few hours,"Windows, macOS, Linux"
+1313,222132,Released,4.5,75.0,"2D, Aliens, Difficult, Experimental, Fast-Paced, Minimalist, Pixel Art, Retro, Typing",A few minutes,"HTML5, macOS, Linux"
+1314,541745,In development,4.8,36.0,"Creative, Pixel Art, Retro",A few minutes,HTML5
+1315,1826146,In development,4.7,61.0,"Arcade, Horror, Indie, maze, Runner",A few minutes,HTML5
+1316,1152154,Released,4.5,179.0,"2D, Boss battle, Pixel Art",,"HTML5, Windows"
+1317,879599,Released,4.0,13.0,"2D, Casual, Cute, Life Simulation, Meaningful Choices, Mouse only, Singleplayer, Unity, Word game",A few hours,Windows
+1318,1561091,Released,4.5,32.0,"Casual, Cozy, Cute, linux, lofi, macos, Pixel Art, Relaxing, stats, Typing",About a half-hour,"HTML5, Windows, macOS, Linux"
+1319,2059017,Prototype,4.6,9.0,"2D, Amiga, atari, Commodore 64, Mega Drive, Metroidvania, MS-DOS, Retro, Sega Genesis",,HTML5
+1320,1310137,In development,4.7,53.0,"kaiju, Monsters, PICO-8, Retro, Roguelike, Roguelite, Strategy RPG, Turn-based Strategy",A few seconds,HTML5
+1321,183855,Released,4.8,62.0,"3D, artgame, Casual, Exploration, First-Person, museum, Relaxing, Short, Singleplayer, Walking simulator",,"Windows, macOS, Linux"
+1322,308907,Released,4.4,46.0,"Atmospheric, Cute, Dark, Difficult, DRM Free, Female Protagonist, Singleplayer",,"Windows, macOS, Linux"
+1323,316585,Prototype,4.6,44.0,"2D, Creepy, Horror, Pixel Art, Point & Click, Spooky",,Windows
+1324,1445292,Released,4.6,12.0,"2D, Anime, Dark Fantasy, Fantasy, Female Protagonist, Pixel Art, Retro, Side Scroller",A few hours,"Windows, Linux"
+1325,1445292,Released,4.6,12.0,"2D, Anime, Dark Fantasy, Fantasy, Female Protagonist, Pixel Art, Retro, Side Scroller",A few hours,"Windows, Linux"
+1326,1273084,Released,5.0,5.0,Horror,,Windows
+1327,126523,In development,4.6,53.0,"3D, Magic, Open World, Post-apocalyptic",,Windows
+1328,1815145,Released,4.7,198.0,,,HTML5
+1329,26289,Released,4.6,19.0,"cute-em-up, fish, Multiplayer",A few minutes,"Windows, macOS"
+1330,927873,In development,4.9,10.0,"Isometric, Real time strategy, War",About an hour,Windows
+1331,529121,Released,4.6,155.0,"2D, Female Protagonist, gamepad, JRPG, Pixel Art, Retro, Singleplayer, Top-Down",,Windows
+1332,1348449,Released,5.0,11.0,"Dice, Tower Defense, Turn-based, Turn-based Strategy, yahtzee",,"Windows, macOS"
+1333,381601,Released,4.4,49.0,"2D, LOWREZJAM, Pixel Art, Relaxing, Short, zelda-like",A few minutes,HTML5
+1334,2622805,Released,4.8,12.0,"2D, Arcade, Cozy, Cute, Endless, Fangame, Female Protagonist, Fishing",A few minutes,"HTML5, Android"
+1335,2741314,Released,4.8,17.0,"Bara, Comedy, Experimental, finland, Furry, Gay, Godot, Queer, Romance, Short",About a half-hour,"Windows, macOS, Linux"
+1336,136363,Released,4.1,7.0,"2D, boulder-dash, Commodore 64, miner",,
+1337,2335421,Released,5.0,31.0,"Atmospheric, Dark, Fantasy, Horror, Narrative, Psychological Horror, Singleplayer, Spooky",A few seconds,"Windows, macOS"
+1338,3266501,Released,5.0,2.0,"8-Bit, NES (Nintendo Entertainment System), NES ROM, Retro",,HTML5
+1339,1028845,Released,5.0,11.0,"bartending, Cyberpunk, fanfiction, Fangame, Pixel Art, valhalla",About a half-hour,"HTML5, Windows, macOS, Linux"
+1340,1190982,Released,4.7,53.0,"Anime, Cute, Dating Sim, Female Protagonist, Halloween, Lesbian, LGBT, Romance, Story Rich, Yuri",About a half-hour,"Windows, macOS, Linux"
+1341,2045332,Released,4.8,96.0,"Cute, Flying, jazz, Ludum Dare 53, mailman, pigeon, Pixel Art, Relaxing, wind",A few minutes,HTML5
+1342,1641191,Released,4.9,54.0,"Hand-drawn, Kinetic Novel, Minimalist, Narrative, Painting, Ren'Py, Short, Singleplayer, Story Rich, Text based",A few minutes,"HTML5, Windows, macOS, Linux, Android"
+1343,1641191,Released,4.9,54.0,"Hand-drawn, Kinetic Novel, Minimalist, Narrative, Painting, Ren'Py, Short, Singleplayer, Story Rich, Text based",A few minutes,"HTML5, Windows, macOS, Linux, Android"
+1344,1463401,Released,4.5,49.0,"3D, Atmospheric, Gore, Horror, PSX (PlayStation), Psychological Horror, Retro, Short, Slasher, Survival Horror",About an hour,"Windows, macOS, Linux"
+1345,401388,Released,4.7,25.0,"2D, Mystery, nature, Pixel Art, Point & Click, Retro, Singleplayer, Slice Of Life",A few seconds,Windows
+1346,347498,Released,4.8,12.0,"8-Bit, Anime, Commodore 64",,
+1347,1209139,In development,4.8,73.0,"Amare, beau-ideals, Fantasy, lau-lyssa, Ren'Py, Text based",A few hours,"Windows, Linux"
+1348,761041,Released,4.7,50.0,"2D, Cute, deltarune, Frogs, Gore, Horror, hypertrash, Psychological Horror, toby-fox, Undertale",,HTML5
+1349,71054,Released,4.1,54.0,"3D, artgame, Experimental, First-Person, FPS, Low-poly, Physics, Queer, Singleplayer, Walking simulator",A few minutes,"Windows, macOS, Linux"
+1350,716880,In development,4.0,38.0,"3D, artgame, communism, Narrative, Pixel Art, sasquatch, Sci-fi, Surreal, witch",A few minutes,Windows
+1351,86573,Released,4.3,37.0,"Management, Meaningful Choices, Pixel Art, Procedural Generation, Roadtrip, Sci-fi, Story Rich, Text based",A few hours,"Windows, macOS, Linux"
+1352,86573,Released,4.3,37.0,"Management, Meaningful Choices, Pixel Art, Procedural Generation, Roadtrip, Sci-fi, Story Rich, Text based",A few hours,"Windows, macOS, Linux"
+1353,2213594,In development,4.7,17.0,"Boys' Love, Fantasy, Gay, Historical, LGBT, Male protagonist, Period Piece, Romance, Yaoi",,"Windows, macOS, Linux, Android"
+1354,529635,In development,4.3,61.0,"3D, Doom, First-Person, FPS, Lovecraftian Horror, quake, quake-like, Sci-fi, Singleplayer",A few minutes,"HTML5, Windows, macOS, Linux"
+1355,14253,Released,4.7,14.0,"3D, Action-Adventure, Aliens, Colorful, Exploration, Low-poly, psychedelic, Sci-fi",,"Windows, macOS"
+1356,268976,In development,4.4,9.0,"16-bit, 2D, Difficult, drifting, Driving, Ghosts, initiald, Mountains, Retro, touge",A few seconds,"Windows, Android"
+1357,2961144,Released,5.0,7.0,"Farming Simulator, Farming Simulator 22",,
+1358,958508,Released,4.4,53.0,"3D, Dark, Funny, Halloween, Local Co-Op, Multiplayer, Post-apocalyptic, Short, Zombies",About an hour,"Windows, Linux"
+1359,736910,Released,4.6,72.0,"Fangame, Retro, retrogaming",,HTML5
+1360,964267,Released,4.3,44.0,"3D, 3D Platformer, Frogs, island, nature, tropical",A few minutes,"HTML5, Windows, Linux, Android"
+1361,1054573,Released,4.6,25.0,"Casual, Cute, Incremental, Procedural Generation, Relaxing, Slice Of Life, Story Rich",About a half-hour,"Windows, macOS"
+1362,273126,Released,4.7,79.0,"Construct 2, Escape Game, Funny, Mouse only, Point & Click, Traps",,HTML5
+1363,1723492,In development,4.3,57.0,"Dating Sim, Fantasy, Halloween, Horror, masquerade, Romance, Vampire",About a half-hour,"HTML5, Windows, Linux"
+1364,608195,Released,4.6,26.0,"bond, escape, Escape Game, escape-room, Hidden Object, Indie, Mystery, Point & Click, secret-agent",About an hour,"Windows, macOS"
+1365,1329225,In development,4.8,28.0,"First-Person, gzdoom, Pixel Art, Singleplayer",,Windows
+1366,2615681,Released,4.9,14.0,"Boys' Love, Comedy, Female Protagonist, Male protagonist, Otome, Romance, Yuri",,"Windows, macOS"
+1367,256654,Released,4.7,135.0,"2D, Alternate History, greeting-cards, Multiple Endings, reading, relationship, Sci-fi, Short, Story Rich, Unity",About a half-hour,"Windows, macOS"
+1368,250337,Released,4.2,45.0,"Anime, artificial-intelligence, Cute, disabled-characters, Female Protagonist, Kickstarter, LGBTQIA, Queer, Transgender",,"Windows, Linux"
+1369,643052,Released,4.6,61.0,,A few minutes,"HTML5, Windows"
+1370,2043486,Released,4.8,38.0,"Amare, Dating Sim, Fantasy, LGBT, Narrative, Otome, Romance, Text based",About an hour,"Windows, macOS, Linux"
+1371,912442,Released,4.7,22.0,"Animals, Cute, Dark, Dating Sim, Dogs, Gore, Horror, LGBT",,"Windows, macOS"
+1372,1450097,Released,4.8,28.0,"2D, 8-Bit, Amstrad CPC, Arcade, Creepy, Cute, Fantasy, Multiplayer, Pixel Art, Retro",A few seconds,Windows
+1373,1128580,Released,4.6,79.0,"2D, 3D, First-Person, FPS, Low-poly, Pixel Art, Retro, Sci-fi, Singleplayer",About a half-hour,"Windows, Linux"
+1374,2076449,In development,4.0,12.0,"2D, gura, hololive, ina, Pixel Art, Retro",A few minutes,"HTML5, Windows, Linux, Android"
+1375,51538,Released,4.2,40.0,"ascii-art, Difficult, Dungeon Crawler, Fantasy, Perma Death, Procedural Generation, Roguelike, Singleplayer, Strategy RPG, Text based",About a half-hour,"HTML5, Windows, Linux"
+1376,46181,Released,4.6,15.0,"1920s, Dark Fantasy, Female Protagonist, Male protagonist, Meaningful Choices, Otome, painterly, Romance, Vampire",About an hour,"Windows, macOS, Linux"
+1377,2257055,Released,4.8,92.0,"Character Customization, Creepy, Dating Sim, Horror, Monsters, Multiple Endings, Romance, sciencetale, Singleplayer, Undertale",A few hours,HTML5
+1378,474481,Released,4.7,102.0,"2D, Action-Adventure, Atmospheric, Fantasy, Narrative, Pixel Art, Singleplayer, Story Rich",A few hours,Windows
+1379,458597,In development,4.4,38.0,"2D, agbic, Dogs, Singleplayer, snake, Sokoban",A few minutes,"HTML5, Windows"
+1380,774002,Released,4.6,27.0,"2D, Casual, Puzzle-Platformer, Short, zelda-like",About an hour,"HTML5, Windows, macOS, Linux, Android"
+1381,464631,Released,4.5,10.0,"Fangame, team-fortress-2, tf2, Touhou, Unity",,Windows
+1382,1412045,Released,4.6,14.0,"Cute, Dating Sim, Female Protagonist, Lesbian, LGBT, Narrative, Ren'Py, Romance, Yuri",,"Windows, macOS, Linux"
+1383,157245,In development,4.0,13.0,"3D, Colorful, Comedy, Co-op, Funny, Local Co-Op, pigeon, pigeons, Top-Down, Top down shooter",A few minutes,"Windows, Android"
+1384,1411747,In development,4.4,13.0,"3D, Atmospheric, Creepy, First-Person, Horror, Psychological Horror, Short, Singleplayer, Survival Horror",About a half-hour,Windows
+1385,733631,Released,4.9,13.0,"2D, Anime, Fantasy, Gay, JRPG, LGBT, Short, Story Rich",,"Windows, macOS, Linux"
+1386,46292,Released,4.6,34.0,"bl, LGBT, Time Travel",,"Windows, macOS, Linux"
+1387,658327,Released,4.4,43.0,"16-bit, 2D, Difficult, Fast-Paced, Pixel Art, Retro, Singleplayer, Speedrun",A few seconds,"Windows, Linux"
+1388,658327,Released,4.4,43.0,"16-bit, 2D, Difficult, Fast-Paced, Pixel Art, Retro, Singleplayer, Speedrun",A few seconds,"Windows, Linux"
+1390,1683184,In development,4.8,40.0,"3D, Abstract, Comedy, Dark Humor, GameMaker, Horror, Narrative, Pixel Art, Surreal",About a half-hour,Windows
+1391,592866,Prototype,4.5,39.0,"Futuristic, Sci-fi, Short, Story Rich",,"Windows, macOS"
+1392,200101,Released,4.8,13.0,"Character Customization, chiptune, Music, Pixel Art, Runner, Singleplayer, Unity",,Windows
+1393,618864,Prototype,4.4,168.0,"Atmospheric, Casual, City Builder, Relaxing, Singleplayer, Top-Down, Unity",A few minutes,Windows
+1394,58526,In development,4.6,62.0,"2D, Arcade, Casual, combos, Controller, gamepad, Local multiplayer, Pixel Art, Sprites",A few hours,Windows
+1395,3237272,Released,5.0,12.0,"Arcade, Pixel Art, Side Scroller, world-pole",,Windows
+1396,1212577,Released,4.8,38.0,"Fangame, Horror",,"Windows, macOS"
+1397,2476512,Released,5.0,13.0,"3D, Action RPG, Boss battle, Difficult, Mechs, Singleplayer, Souls-like, Steampunk, Swords",About a half-hour,Windows
+1398,3073109,Released,4.2,11.0,"Bara, Fantasy, Furry, Gay, LGBT, Multiple Endings, Psychological Horror, Ren'Py, Romance",A few hours,"HTML5, Windows, macOS, Linux, Android"
+1399,1613526,Released,4.8,14.0,"commodore, Commodore 64, Fantasy, plus4, Retro",,
+1400,1527309,Released,4.4,12.0,"8-Bit, Arcade, Black and White, Pixel Art, Playdate",A few minutes,
+1401,966058,Released,4.6,172.0,"Cute, Furry, Gay, LGBT, Ren'Py, Romance, Short, Slice Of Life, Story Rich",About a half-hour,"Windows, macOS, Linux"
+1402,804164,Released,4.2,46.0,"90s, firstperson, Horror, Monsters, Procedural Generation, quake, Retro, Roguelite, tournament, unreal",,Windows
+1403,134375,Released,4.4,34.0,,,"Windows, macOS, Linux"
+1404,1758682,Released,4.7,3.0,"8-Bit, Homebrew, Indie, mabus, mania, Retro, sinclair, spectrum, ZX Spectrum",,Windows
+1405,2310384,Released,4.9,22.0,"Godot, Local multiplayer, one-button, party-game, Physics, Two Player",A few minutes,"HTML5, Windows"
+1406,1499328,In development,4.4,13.0,"2D, Beat 'em up, combos, Co-op, Multiplayer, Pixel Art, Shoot 'Em Up",A few minutes,HTML5
+1407,647871,Released,4.5,20.0,"Arcade, Minimalist, Parkour, Puzzle-Platformer, Retro, Short, Singleplayer, Speedrun",A few minutes,"HTML5, Windows"
+1408,852912,Released,4.4,17.0,"1-bit, Dungeon Crawler, Game Boy, Multiple Endings, Narrative, PICO-8, Pixel Art, Procedural Generation, Retro, Roguelike",A few seconds,"HTML5, Windows, macOS, Linux"
+1409,1637055,Released,4.4,18.0,"Black and White, Dungeon Crawler, Fantasy, RPG Maker, Short, Turn-based, Turn-Based Combat",About a half-hour,Windows
+1410,1166610,Released,4.5,49.0,"Atmospheric, cake, Creepy, dialog, Horror, papeero, Short, stranded, strangers",About a half-hour,"Windows, macOS, Linux"
+1411,294034,Released,4.8,30.0,"2-d, asmund, Bitsy, chica, daneasmund, five-nights-at-freddys, Five Nights at Freddy's, freddy, Horror, Pixel Art",,HTML5
+1412,467765,Released,4.8,17.0,"crime-solving, Gay, LGBT, Mystery, Story Rich, Yaoi",A few hours,"Windows, macOS, Linux"
+1413,1214680,Released,5.0,23.0,"Boys' Love, Ghosts, pokemon, Romance, Yaoi",,
+1414,1380934,Released,4.6,5.0,"2006, 3D, Escape Game, prison, Singleplayer",,Windows
+1415,1732111,In development,4.6,11.0,"Action-Adventure, Third Person",,
+1416,1083414,Released,4.4,27.0,"Arcade, Difficult, Game Maker's Toolkit Jam, Top down shooter",,Windows
+1417,3098488,Released,4.5,12.0,"Experimental, forbiddensiren, Horror, Short, Singleplayer",,Windows
+1418,2472537,Released,5.0,33.0,"Anime, Comedy, Female Protagonist, Life Simulation, Management, Multiple Endings, Otome, raising-sim, stat-raiser",,"Windows, macOS, Linux"
+1419,2261183,Released,5.0,4.0,"2D, Atmospheric, Creepy, Gore, Horror, Monsters, Pixel Art, Singleplayer, Top-Down",A few hours,"Windows, Linux"
+1420,1194316,In development,4.7,60.0,"2D, Arcade, LÖVE, Retro, Space",A few minutes,HTML5
+1421,362274,In development,4.2,86.0,"coding, learning, programming, teaching",,"Windows, macOS, Android"
+1422,496315,Released,4.6,88.0,"Horror, Ludum Dare 45, Shoot 'Em Up, Survival Horror",,HTML5
+1423,811767,Released,4.5,53.0,"2D, Dark, Folklore, Halloween, Historical, Horror, Pixel Art, Singleplayer, Surreal, witch",About a half-hour,Windows
+1424,26035,Released,4.4,241.0,,,HTML5
+1425,370322,Released,4.3,81.0,"2D, Action-Adventure, Female Protagonist, Puzzle-Platformer, Side Scroller",,Windows
+1426,213053,Released,4.9,27.0,"2D, Arcade, drifting, libGDX, Pixel Art, Synthwave, vaporwave",A few minutes,"Windows, macOS, Linux"
+1427,3263498,Released,4.0,6.0,"3D, Destruction, Indie, Pirates, Short",About a half-hour,HTML5
+1428,918497,In development,4.7,202.0,"2D, Bara, Furry, Gay, LGBT, Romance, Story Rich",A few hours,"Windows, macOS, Linux, Android"
+1429,391393,Released,4.8,21.0,"2D, Atmospheric, Horror, Mystery, Narrative, Pixel Art, Psychological Horror, RPG Maker, Story Rich, Surreal",A few hours,Windows
+1430,589785,Released,4.3,39.0,"artgame, Atmospheric, Experimental, Exploration, LGBT, Non violent, Sci-fi, Singleplayer, Walking simulator, weird",About an hour,Windows
+1431,507952,Released,4.6,38.0,"2D, Dark, GameMaker, Gore, Monsters, Pixel Art",,"HTML5, Windows"
+1432,1615935,Released,4.7,29.0,"Comedy, Dark, Horror, PSX (PlayStation), Psychological Horror, Retro, Short, Singleplayer, Story Rich, Survival Horror",About a half-hour,
+1433,264246,Prototype,5.0,9.0,"Anime, Cyberpunk, Experimental, JRPG, LGBT, Magic, Short, Story Rich, Typing",,"Windows, macOS, Linux"
+1434,680126,Released,4.2,66.0,"2D, phaser, Pirates, Pixel Art, Retro, ship, Singleplayer, Tycoon",A few minutes,HTML5
+1435,138458,Released,4.5,80.0,Ludum Dare 38,,"Windows, macOS, Linux"
+1436,3021399,Released,4.3,90.0,"2D, Creepy, Horror, Ludum Dare 56, Pixel Art, Retro, Spooky, Virtual Pet, yandere",A few minutes,"HTML5, Windows"
+1437,1544273,Released,5.0,1.0,"lumon, Minimalist, Pixel Art, severance, Short",A few seconds,
+1438,2788639,Released,3.8,51.0,"3D, Atmospheric, First-Person, Horror, PSX (PlayStation), Psychological Horror, Retro, Short, Singleplayer",,"Windows, macOS, Linux"
+1439,82953,Prototype,4.8,101.0,"1-bit, Horror, Ludum Dare 36, Retro, supernatural, Surreal, Text based",About a half-hour,
+1440,966698,Prototype,4.6,13.0,"2D, Anime, Beat 'em up, Endless, Hack and Slash, Pixel Art, Retro, Short, Top-Down",,
+1441,2710769,Released,4.8,36.0,,,"Windows, Linux"
+1442,1827176,Released,4.7,27.0,"Arcade, Christmas, Gore, ps1, Retro, snowboarding",,
+1443,90384,Released,4.5,103.0,"8-Bit, Pixel Art, Retro",,"Windows, macOS"
+1444,167195,Released,4.7,6.0,"16-bit, megadrive, moonwatcher, nolddor, Pixel Art, playonretro, Retro, zooming",,"Windows, macOS, Linux, Android"
+1445,3032660,Released,4.6,5.0,"2D, Amiga, amiga500, commodore, Commodore 64, Pixel Art, Retro, retrogaming",,"Windows, macOS"
+1446,2514097,Released,4.8,26.0,"2D, Boss battle, Difficult, gamepad, MSX, Pixel Art, Retro, Short",About a half-hour,HTML5
+1447,803,In development,4.7,47.0,"Dungeon Crawler, hack-n-slash, Roguelike",A few minutes,"Windows, macOS, Linux"
+1448,471668,Released,4.5,38.0,"2D, Bullet Hell, Shoot 'Em Up, Space",,"HTML5, Windows"
+1449,649930,Released,4.9,27.0,"360-video, beijing, covid19, Cute, documentary, Experimental, Exploration, First-Person, food-delivery, Singleplayer",,"Windows, macOS"
+1450,2127854,Prototype,4.7,102.0,"Atmospheric, Creepy, Horror, Pixel Art, Point & Click, Retro, Sci-fi, Short, Top-Down",,
+1451,2127854,Prototype,4.7,102.0,"Atmospheric, Creepy, Horror, Pixel Art, Point & Click, Retro, Sci-fi, Short, Top-Down",,
+1452,1039720,Released,4.4,42.0,"Casual, Cute, Exploration, Farming, Female Protagonist, Relaxing, Singleplayer, wholesome",Days or more,Windows
+1453,148009,Released,4.5,42.0,"8-Bit, four-quarters, Ludum Dare, Pirates, Pixel Art",,"HTML5, Windows"
+1454,751602,Released,4.9,17.0,"2D, Cozy, Exploration, Low-poly, Non violent, Puzzle-Platformer, Singleplayer, Unity",A few hours,
+1455,1606665,Released,4.9,7.0,"3D, counter, DOS, Multiplayer, nintendo, online, strike",,
+1456,2336556,Released,4.5,57.0,"Cute, Narrative, Pixel Art, Retro, Short, Singleplayer, Text based, Typing",About a half-hour,"HTML5, Android"
+1457,1296335,Released,4.6,20.0,"2D, Anime, beer, Cute, Fangame, Female Protagonist, Local multiplayer, Short, Touhou",A few seconds,Windows
+1458,186472,Released,4.3,55.0,"3D, artgame, Fantasy, Music, musical, Singleplayer",,"Windows, macOS"
+1459,412188,Released,4.7,11.0,"brawler, DRM Free, Fast-Paced, Multiplayer, PICO-8, Pixel Art, Retro, sourcecode",About a half-hour,"HTML5, Windows, macOS, Linux"
+1460,429212,Released,4.7,21.0,"Casual, Dating Sim, Funny, Life Simulation, Ren'Py, Romance",,"Windows, macOS, Linux"
+1461,73554,Released,4.7,11.0,"16-bit, 2D, JRPG, Pixel Art, RPG Maker",About an hour,Windows
+1462,1698758,Released,4.8,13.0,"2D, Comedy, guidedmeditation, hypno, hypnosis, meditation, Relaxing, Sci-fi, Slice Of Life",,HTML5
+1463,2435336,Released,5.0,4.0,"Five Nights at Freddy's, Horror, Singleplayer, wii-u",A few minutes,
+1464,1609951,Released,4.7,27.0,"Boys' Love, Cute, Gay, Lo-fi, Low-poly, Narrative, PSX (PlayStation), Romance, Short, Yaoi",A few minutes,"Windows, macOS"
+1465,1437505,Released,4.5,4.0,Historical,,Windows
+1466,1521158,Released,4.4,67.0,"Atmospheric, Creepy, Dark, Incremental, Management, Procedural Generation, Roguelike, Roguelite, Short, Singleplayer",,"HTML5, Windows"
+1467,1196115,Released,4.3,96.0,"3D, Anime, Cute, Low-poly, Retro, Short, Singleplayer, Third Person",,"Windows, macOS, Linux"
+1468,1208206,Released,3.8,17.0,"3D, First-Person, FPS, madness, madness-combat, melee",,Windows
+1469,1085468,Released,4.7,83.0,2D,,"HTML5, Windows"
+1470,128082,Released,4.5,164.0,"Female Protagonist, Otome, Ren'Py, Romance, supernatural",About a half-hour,"Windows, macOS, Linux"
+1471,796,Released,3.9,96.0,"Animals, Atmospheric, Colorful, Experimental, fish, Procedural Generation, Relaxing, swim, underwater, watercolor",A few minutes,"Windows, macOS, Linux, Android"
+1472,2193598,Released,4.3,136.0,"Atmospheric, Dating Sim, Gay, Gothic, Horror, LGBT, Perma Death, Romance, Short, supernatural",,"HTML5, Windows, macOS, Linux"
+1473,444351,Released,4.9,10.0,"Local Co-Op, Procedural Generation, Real time strategy, replay-value, Singleplayer, Tactical, Top-Down, Tower Defense, Zombies",About a half-hour,"Windows, macOS, Linux"
+1475,2592904,Released,5.0,8.0,"3D, bananirou, Comedy, Horror, Low-poly, papu, papu2, Runner, Singleplayer, Streaming",A few minutes,Windows
+1476,47515,Prototype,4.5,104.0,"Game Jam, Ludum Dare 34, slash, sword, Top-Down, Unity",,"Windows, macOS"
+1477,356752,In development,4.8,91.0,"2D, Arcade, gamepad, Local multiplayer, Multiplayer, party-game, Singleplayer, Unity",A few minutes,"Windows, macOS, Linux"
+1478,2689607,Released,4.8,10.0,,,Windows
+1479,30237,Released,4.8,249.0,,,"Windows, macOS, Linux"
+1480,681152,Released,4.6,41.0,"2D, Dungeon Crawler, Fantasy, Hack and Slash, Loot, Pixel Art, Top-Down, Turn-based, Turn-Based Combat",About a half-hour,"Windows, macOS, Linux"
+1481,324934,Released,4.2,44.0,"FPS, Gore, Horror, Retro, singleplay, Slasher, Spooky, Stealth",About an hour,Windows
+1482,40403,Released,4.8,5.0,"3D, FPS, Minecraft, Multiplayer, Physics, Pixel Art, Puzzle-Platformer, PvP",About a half-hour,Android
+1483,197704,Released,4.7,225.0,"Cute, RPG Maker, Short",About a half-hour,HTML5
+1484,641310,Released,4.2,11.0,"Atmospheric, Dark Fantasy, Fantasy, JRPG, Retro, RPG Maker",About an hour,
+1485,517215,Released,4.8,6.0,,,Windows
+1486,2766083,Released,5.0,5.0,fishao,,"Windows, Android"
+1487,547803,In development,4.8,48.0,"Action-Adventure, Action RPG, Comedy, Controller, Exploration, Singleplayer, Story Rich, Top-Down, Top Down Adventure",A few minutes,Windows
+1488,73625,Released,4.6,28.0,"match, number, pop",A few minutes,"Windows, macOS"
+1489,2025941,Released,4.7,249.0,"Cooking, Cute, Horror, Singleplayer",,Windows
+1490,1972625,Released,4.8,85.0,"Cute, Furry, LGBT, LGBTQIA, Queer, Romance, Short, storygame, Story Rich, Transgender",A few minutes,"Windows, macOS, Linux"
+1491,2728400,Released,4.0,10.0,"Aliens, Atmospheric, Creepy, Horror, Psychological Horror, Retro, Sci-fi, Survival Horror",,Windows
+1492,1426031,Released,5.0,9.0,"2D, Arcade, bagman, Commodore 64, maze, Pixel Art, Remake, Retro, Singleplayer",A few minutes,
+1493,27841,Prototype,4.4,36.0,"Dungeon Crawler, Fantasy, First-Person, Pixel Art, Turn-based",,HTML5
+1494,1299357,Canceled,4.8,28.0,"Atmospheric, Dark, Horror, Mental Health, Multiple Endings, Otome, Psychological Horror, Story Rich, supernatural, yandere",About an hour,"Windows, macOS, Linux"
+1495,1225066,Released,4.7,91.0,"2D, Puzzle-Platformer, Singleplayer, Stencyl",A few minutes,HTML5
+1496,1453482,Released,4.8,11.0,"2D, Controller, Funny, Short, Singleplayer, weird",About an hour,Windows
+1497,127979,Released,4.1,73.0,"artgame, brass, Detective, Gender, musical, Noir, opera, Queer, stop-motion, weird",About an hour,"Windows, macOS, Linux"
+1498,855338,In development,4.7,15.0,,,"Windows, macOS, Linux"
+1499,217679,In development,4.3,42.0,"Physics, Puzzle-Platformer, tubes, Unity, weekly-game-jam-29, weird",About a half-hour,"Windows, macOS, Linux"
+0,2869923,In development,N/A,N/A,"death-stranding, deliveries, Driving, Exploration, job, job-system, Post-apocalyptic, Tanks, upgrades, Working Simulator",N/A,Windows
+1,1370318,Released,N/A,N/A,"	3D, Creepy, First-Person, Gore, Horror, PSX (PlayStation), Psychological Horror, Retro, Unity",N/A,Windows
+2,2384541,In development,N/A,N/A,"Atmospheric, Dark Fantasy, Fairy Tale, Fantasy, Ghosts, Gothic, Medieval, Mystery, Point & Click",A few minutes,N/A
+3,3079599,Released,4.8,67,"3D, Christmas, Comedy, Creepy, Dark, Dark Humor, Horror, Pixel Art, PSX (PlayStation)",A few minutes,Windows
+4,877352,Released,4.1,27,"Atmospheric, Dreams, Experimental, Exploration, non-eucledian, psychedelic",A few minutes,"Windows, macOS, Linux"
+5,589627,N/A,N/A,N/A,N/A,N/A,N/A
+6,129425,Released,4.0,181,"artgame, Atmospheric, Casual, Experimental, Mystery, Photorealistic, Point & Click, Surreal, Voice Acting, Walking simulator",N/A,Windows
+7,1208403,N/A,N/A,N/A,N/A,N/A,N/A
+8,65181,Released,4.8,36,"2D, Anime, Dating Sim, Multiple Endings, otoge, Otome, Ren'Py, Romance",A few hours,"Windows, macOS, Linux, Android"
+9,1948914,In development,4.8,29,"Anime, Arcade, Casual, Deck Building, Idle, Roguelike, Roguelite, solitaire",About a half-hour,Windows
+10,1559343,Released,4.7,29,"Arcade, crank, Endless, jumping, Playdate",N/A,N/A
+11,1881272,In development,4.0,32,"inflation, pregnant, Slime",N/A,"Windows, macOS"
+12,1511140,In development,4.9,32,"3D, debate, Horror, JRPG, Mystery, Pixel Art, Singleplayer, Thriller",About a half-hour,Windows
+13,1581512,Released,N/A,N/A,"3D, Funny, Horror, Short, shrek, silly, Singleplayer",A few seconds,"Windows, macOS, Linux"
+14,1975309,Released,N/A,N/A,"2D, Anime, Female Protagonist, Otome, Romance, Short, Singleplayer",A few seconds,"HTML5, Windows, macOS"
+15,1365045,Released,4.8,64,"8-Bit, Demake, dune2, PICO-8, Pixel Art, Real time strategy, Retro",About a half-hour,"HTML5, Windows, macOS, Linux"
+16,1109093,Released,5.0,7,"eli, eliaquim, hakuen-studio, rmmv, rmmz, RPG Maker, sample-project",A few seconds,N/A
+17,3223767,Released,5.0,2,N/A,N/A,"Windows, macOS, Linux, Android"
+18,1022835,Released,4.7,137,"Casual, Cute, Exploration, Mystery, Narrative, Point & Click, Short, Story Rich",About an hour,"HTML5, Windows, macOS, Linux"
+19,749912,Released,5.0,20,"2D, 8bits, mistery, MSX, Pixel Art, Retro, Singleplayer, ZX Spectrum",About a half-hour,"Windows, macOS, Linux, Android"
+20,857480,Released,4.9,16,"Exploration, model, Sandbox",A few minutes,HTML5
+21,117955,N/A,N/A,N/A,N/A,N/A,N/A
+22,1029510,Released,4.3,56,"Arcade, First-Person, FPS, Sci-fi, Short, Unity, Voxel",N/A,"HTML5, Windows, Android"
+23,583081,Released,4.5,213,"Atmospheric, Colorful, Cozy, First-Person, nature, photography, Procedural Generation, Relaxing, Short, Walking simulator",About a half-hour,"Windows, macOS, Linux"
+24,1534262,Released,N/A,N/A,"3D, Black and White, footage, Horror, PSX (PlayStation), Psychological Horror, Retro, Singleplayer, vhs",N/A,Windows
+25,2362775,Released,4.6,61,"Atmospheric, Christmas, Creepy, Dark, Horror, Indie, Low-poly, PSX (PlayStation), Retro, weird",N/A,Windows
+26,1522359,In development,4.6,23,"3D, analog, backrooms, Creepy, Five Nights at Freddy's, Horror, liminal, ps1, scp, Singleplayer",Days or more,"HTML5, Windows"
+27,329428,Released,3.9,38,"Co-op, Crafting, Massively multiplayer, Post-apocalyptic, Real-Time, Team-Based, Top-Down, upgrades",About a half-hour,HTML5
+28,2008749,In development,4.7,174,N/A,N/A,HTML5
