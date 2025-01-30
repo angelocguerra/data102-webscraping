@@ -1,7 +1,7 @@
-# data102-projects
-**DATA102 Projects**
+# data102-homework1
+**DATA102 Homework 1: Web Scraping**
 
-A code repository for all Jupyter Notebook projects in DATA102 (Data Mining)
+A web scraping implementation of the [Itch.io](https://itch.io/) website using BeautifulSoup and Selenium in Jupyter Notebook
 
 ---
 
