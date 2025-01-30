@@ -5,4 +5,4 @@ A web scraping implementation of the [Itch.io](https://itch.io/) website using B
 
 ---
 
-Created by: Angelo Guerra, Kyle Lasala, Katrina Roco, Anton Lorenzo, Charles Hinolan, Josh Borro
+Created by: Angelo Guerra, Kyle Lasala, Katrina Roco, Anton Lorenzo, Charles Hinolan
