@@ -1,4 +1,4 @@
-# data102-homework1
+# data102-webscraping
 **DATA102 Homework 1: Web Scraping**
 
 A web scraping implementation of the [Itch.io](https://itch.io/) website using BeautifulSoup and Selenium in Jupyter Notebook
